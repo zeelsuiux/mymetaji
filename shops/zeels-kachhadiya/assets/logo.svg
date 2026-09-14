@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="160" viewBox="0 0 640 160" role="img" aria-labelledby="title desc">
+  <title id="title">Prisha Ayurvedic</title>
+  <desc id="desc">Prisha Ayurvedic logo</desc>
+  <rect width="160" height="160" rx="28" fill="#2F7D32"/>
+  <path d="M42 102c20-35 42-51 76-52-8 11-12 24-10 39-21-5-40 1-66 13Z" fill="#E8F5E9"/>
+  <path d="M80 116c4-27 18-47 42-62" fill="none" stroke="#E8F5E9" stroke-width="7" stroke-linecap="round"/>
+  <text x="80" y="91" text-anchor="middle" fill="#2F7D32" font-family="Georgia, serif" font-size="34" font-weight="700">PA</text>
+  <text x="190" y="82" fill="#252A34" font-family="Georgia, serif" font-size="58" font-weight="700">PRISHA</text>
+  <text x="194" y="124" fill="#2F7D32" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="5">AYURVEDIC</text>
+</svg>

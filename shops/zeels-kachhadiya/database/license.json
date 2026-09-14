@@ -1,0 +1,8 @@
+{
+    "customer_id": 1,
+    "customer_name": "Zeels Kachhadiya",
+    "plan_amount": 1000,
+    "payment_type": "Cash",
+    "purchase_date": "2026-09-14",
+    "expiry_date": "2027-09-14"
+}
