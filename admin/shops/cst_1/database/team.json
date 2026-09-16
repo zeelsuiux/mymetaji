@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "name": "Zeels Kachhadiya",
+        "phone": "9773216606",
+        "email": "zeelskachhadiya@gmail.com",
+        "address": "zeels123",
+        "photo": "",
+        "username": "zeelskachhadiya",
+        "password": "$2y$10$AvRKP6TdgeGSKFuu5GLsJ.1pOJj40RDMqSV0PyBDJm5ET\/5fU9AdC",
+        "role": "Admin",
+        "created_at": "2026-09-15 20:12:26",
+        "updated_at": "2026-09-15 20:12:26"
+    }
+]

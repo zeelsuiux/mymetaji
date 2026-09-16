@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Administrator",
+        "phone": "",
+        "address": "",
+        "photo": "",
+        "username": "admin",
+        "password": "$2y$10$GC2yDFYrBeV3ae\/8q4EkCOjKvsmkXC3dOQycj7q3.TXGicgY09.by",
+        "role": "Admin",
+        "id": 1,
+        "created_at": "2026-09-15 18:31:06",
+        "updated_at": "2026-09-15 18:31:06"
+    }
+]

@@ -1,6 +1,0 @@
-Options -Indexes
-
-RewriteEngine On
-
-# Short public shop URL: /s/shop-slug/ maps to /shops/shop-slug/.
-RewriteRule ^s/([A-Za-z0-9_-]+)(/.*)?$ shops/$1$2 [L]

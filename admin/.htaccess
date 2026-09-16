@@ -1,0 +1,11 @@
+Options -Indexes
+
+RewriteEngine On
+
+# Shared panel URLs: /cst_1/anything maps to the one root-level PHP file.
+RewriteRule ^(cst_[0-9]+)/?$ index.php?tenant=$1 [QSA,L]
+RewriteRule ^(cst_[0-9]+)/assets/(.*)$ shops/$1/assets/$2 [QSA,L]
+RewriteRule ^(cst_[0-9]+)/downloads/(.*)$ downloads/$2 [L]
+RewriteRule ^(cst_[0-9]+)/(manifest\.json)$ manifest.php?tenant=$1 [QSA,L]
+RewriteRule ^(cst_[0-9]+)/(service-worker\.js)$ service-worker.php?tenant=$1 [QSA,L]
+RewriteRule ^(cst_[0-9]+)/(.*)$ $2?tenant=$1 [QSA,L]
