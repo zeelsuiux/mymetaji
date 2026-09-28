@@ -1,0 +1,692 @@
+[
+    {
+        "id": 1,
+        "invoice_no": "INV-3001",
+        "customer": "Suresh Naik",
+        "customer_type": "customer",
+        "amount": 12000,
+        "status": "Paid",
+        "due_date": "2026-10-21",
+        "date": "2026-09-21",
+        "place_of_supply": "Gujarat",
+        "is_intra_state": true,
+        "total_taxable": 12000,
+        "total_cgst": 1080,
+        "total_sgst": 1080,
+        "total_igst": 0,
+        "total_gst": 2160,
+        "grand_total": 14160,
+        "items": [
+            {
+                "product_id": 1,
+                "description": "Business Starter Plan",
+                "hsn_code": "998314",
+                "gst_rate": 18,
+                "qty": 1,
+                "price": 12000,
+                "actual_selling_price": 12000,
+                "total": 12000
+            }
+        ],
+        "notes": "Intra-state supply within Gujarat. CGST 9% + SGST 9% applied.",
+        "tax_summary": [
+            {
+                "rate": 18,
+                "cgst": 1080,
+                "sgst": 1080,
+                "igst": 0,
+                "taxable": 12000
+            }
+        ],
+        "created_by": "malaviya test",
+        "created_by_id": "3",
+        "created_at": "2026-09-21 10:00:00",
+        "updated_at": "2026-09-21 10:00:00"
+    },
+    {
+        "id": 2,
+        "invoice_no": "INV-3002",
+        "customer": "Suresh Naik",
+        "customer_type": "customer",
+        "amount": 25000,
+        "status": "Paid",
+        "due_date": "2026-10-21",
+        "date": "2026-09-18",
+        "place_of_supply": "Gujarat",
+        "is_intra_state": true,
+        "total_taxable": 25000,
+        "total_cgst": 2250,
+        "total_sgst": 2250,
+        "total_igst": 0,
+        "total_gst": 4500,
+        "grand_total": 29500,
+        "items": [
+            {
+                "product_id": 2,
+                "description": "Growth Marketing Package",
+                "hsn_code": "998314",
+                "gst_rate": 18,
+                "qty": 1,
+                "price": 25000,
+                "actual_selling_price": 25000,
+                "total": 25000
+            }
+        ],
+        "notes": "60-day marketing package. GST 18% (CGST 9% + SGST 9%).",
+        "tax_summary": [
+            {
+                "rate": 18,
+                "cgst": 2250,
+                "sgst": 2250,
+                "igst": 0,
+                "taxable": 25000
+            }
+        ],
+        "created_by": "malaviya test",
+        "created_by_id": "3",
+        "created_at": "2026-09-18 11:30:00",
+        "updated_at": "2026-09-18 11:30:00"
+    },
+    {
+        "id": 3,
+        "invoice_no": "INV-3003",
+        "customer": "Ravi Patel",
+        "customer_type": "customer",
+        "amount": 8500,
+        "status": "Pending",
+        "due_date": "2026-10-18",
+        "date": "2026-09-18",
+        "place_of_supply": "Gujarat",
+        "is_intra_state": true,
+        "total_taxable": 8500,
+        "total_cgst": 765,
+        "total_sgst": 765,
+        "total_igst": 0,
+        "total_gst": 1530,
+        "grand_total": 10030,
+        "items": [
+            {
+                "product_id": 3,
+                "description": "Website Maintenance - Monthly",
+                "hsn_code": "998314",
+                "gst_rate": 18,
+                "qty": 1,
+                "price": 8500,
+                "actual_selling_price": 8500,
+                "total": 8500
+            }
+        ],
+        "notes": "Monthly website maintenance. Intra-state (Gujarat).",
+        "tax_summary": [
+            {
+                "rate": 18,
+                "cgst": 765,
+                "sgst": 765,
+                "igst": 0,
+                "taxable": 8500
+            }
+        ],
+        "created_by": "malaviya test",
+        "created_by_id": "3",
+        "created_at": "2026-09-18 14:00:00",
+        "updated_at": "2026-09-18 14:00:00"
+    },
+    {
+        "id": 4,
+        "invoice_no": "INV-3004",
+        "customer": "Aarav Shah",
+        "customer_type": "customer",
+        "amount": 48000,
+        "status": "Pending",
+        "due_date": "2026-10-25",
+        "date": "2026-09-20",
+        "place_of_supply": "Maharashtra",
+        "is_intra_state": false,
+        "total_taxable": 48000,
+        "total_cgst": 0,
+        "total_sgst": 0,
+        "total_igst": 8640,
+        "total_gst": 8640,
+        "grand_total": 56640,
+        "items": [
+            {
+                "product_id": 2,
+                "description": "Growth Marketing Package",
+                "hsn_code": "998314",
+                "gst_rate": 18,
+                "qty": 1,
+                "price": 25000,
+                "actual_selling_price": 25000,
+                "total": 25000
+            },
+            {
+                "product_id": 5,
+                "description": "SEO Optimization Pack",
+                "hsn_code": "998314",
+                "gst_rate": 18,
+                "qty": 1,
+                "price": 15000,
+                "actual_selling_price": 15000,
+                "total": 15000
+            },
+            {
+                "product_id": 4,
+                "description": "Consulting Session",
+                "hsn_code": "998314",
+                "gst_rate": 18,
+                "qty": 1,
+                "price": 8000,
+                "actual_selling_price": 8000,
+                "total": 8000
+            }
+        ],
+        "notes": "Inter-state supply: Gujarat to Maharashtra. IGST 18% applied.",
+        "tax_summary": [
+            {
+                "rate": 18,
+                "cgst": 0,
+                "sgst": 0,
+                "igst": 8640,
+                "taxable": 48000
+            }
+        ],
+        "created_by": "malaviya test",
+        "created_by_id": "3",
+        "created_at": "2026-09-20 09:15:00",
+        "updated_at": "2026-09-20 09:15:00"
+    },
+    {
+        "id": 5,
+        "invoice_no": "INV-3005",
+        "customer": "Manish Reddy",
+        "customer_type": "customer",
+        "amount": 30000,
+        "status": "Partial",
+        "due_date": "2026-10-20",
+        "date": "2026-09-19",
+        "place_of_supply": "Telangana",
+        "is_intra_state": false,
+        "total_taxable": 30000,
+        "total_cgst": 0,
+        "total_sgst": 0,
+        "total_igst": 5400,
+        "total_gst": 5400,
+        "grand_total": 35400,
+        "items": [
+            {
+                "product_id": 1,
+                "description": "Business Starter Plan",
+                "hsn_code": "998314",
+                "gst_rate": 18,
+                "qty": 1,
+                "price": 12000,
+                "actual_selling_price": 12000,
+                "total": 12000
+            },
+            {
+                "product_id": 5,
+                "description": "SEO Optimization Pack",
+                "hsn_code": "998314",
+                "gst_rate": 18,
+                "qty": 1,
+                "price": 15000,
+                "actual_selling_price": 15000,
+                "total": 15000
+            },
+            {
+                "product_id": 4,
+                "description": "Consulting Session",
+                "hsn_code": "998314",
+                "gst_rate": 18,
+                "qty": 1,
+                "price": 3000,
+                "actual_selling_price": 3000,
+                "total": 3000
+            }
+        ],
+        "notes": "Inter-state supply: Gujarat to Telangana. IGST 18%. Rs 20000 paid.",
+        "tax_summary": [
+            {
+                "rate": 18,
+                "cgst": 0,
+                "sgst": 0,
+                "igst": 5400,
+                "taxable": 30000
+            }
+        ],
+        "created_by": "malaviya test",
+        "created_by_id": "3",
+        "created_at": "2026-09-19 16:45:00",
+        "updated_at": "2026-09-19 16:45:00"
+    },
+    {
+        "id": 6,
+        "invoice_no": "INV-3006",
+        "customer": "Rajesh Sharma",
+        "customer_type": "customer",
+        "amount": 5800,
+        "status": "Paid",
+        "due_date": "2026-10-05",
+        "date": "2026-09-15",
+        "place_of_supply": "Rajasthan",
+        "is_intra_state": false,
+        "total_taxable": 5800,
+        "total_cgst": 0,
+        "total_sgst": 0,
+        "total_igst": 1044,
+        "total_gst": 1044,
+        "grand_total": 6844,
+        "items": [
+            {
+                "product_id": 6,
+                "description": "Print Visiting Cards (500 pcs)",
+                "hsn_code": "482010",
+                "gst_rate": 12,
+                "qty": 2,
+                "price": 800,
+                "actual_selling_price": 800,
+                "total": 1600
+            },
+            {
+                "product_id": 7,
+                "description": "LED Banner (2x1 ft)",
+                "hsn_code": "392690",
+                "gst_rate": 18,
+                "qty": 2,
+                "price": 1200,
+                "actual_selling_price": 1200,
+                "total": 2400
+            },
+            {
+                "product_id": 8,
+                "description": "T-Shirt Printing (Custom) x10",
+                "hsn_code": "610910",
+                "gst_rate": 5,
+                "qty": 10,
+                "price": 180,
+                "actual_selling_price": 180,
+                "total": 1800
+            }
+        ],
+        "notes": "Inter-state: Gujarat to Rajasthan. Mixed GST rates - 12%, 18%, 5%.",
+        "tax_summary": [
+            {
+                "rate": 12,
+                "cgst": 0,
+                "sgst": 0,
+                "igst": 192,
+                "taxable": 1600
+            },
+            {
+                "rate": 18,
+                "cgst": 0,
+                "sgst": 0,
+                "igst": 432,
+                "taxable": 2400
+            },
+            {
+                "rate": 5,
+                "cgst": 0,
+                "sgst": 0,
+                "igst": 420,
+                "taxable": 1800
+            }
+        ],
+        "created_by": "malaviya test",
+        "created_by_id": "3",
+        "created_at": "2026-09-15 13:20:00",
+        "updated_at": "2026-09-15 13:20:00"
+    },
+    {
+        "invoice_no": "INV-3007",
+        "customer": "Ravi Patel",
+        "place_of_supply": "Gujarat",
+        "due_date": "2026-11-15",
+        "notes": "Combo package. Intra-state Gujarat. CGST 9% + SGST 9%.",
+        "created_by_id": 1,
+        "created_by": "malaviya test",
+        "customer_type": "customer",
+        "items": [
+            {
+                "product_id": 1,
+                "description": "Business Starter Plan",
+                "hsn_code": "998314",
+                "gst_rate": 18,
+                "qty": 1,
+                "price": 12000,
+                "actual_selling_price": 12000,
+                "discount_rate": 0,
+                "discount_amount": 0,
+                "total": 12000
+            },
+            {
+                "product_id": 2,
+                "description": "Growth Marketing Package",
+                "hsn_code": "998314",
+                "gst_rate": 18,
+                "qty": 1,
+                "price": 25000,
+                "actual_selling_price": 25000,
+                "discount_rate": 0,
+                "discount_amount": 0,
+                "total": 25000
+            },
+            {
+                "product_id": 4,
+                "description": "Consulting Session",
+                "hsn_code": "998314",
+                "gst_rate": 18,
+                "qty": 1,
+                "price": 5000,
+                "actual_selling_price": 5000,
+                "discount_rate": 0,
+                "discount_amount": 0,
+                "total": 5000
+            }
+        ],
+        "amount": 42000,
+        "is_intra_state": true,
+        "total_taxable": 42000,
+        "total_cgst": 3780,
+        "total_sgst": 3780,
+        "total_igst": 0,
+        "total_gst": 7560,
+        "grand_total": 49560,
+        "tax_summary": [
+            {
+                "hsn_code": "998314",
+                "gst_rate": 18,
+                "taxable_amount": 42000,
+                "cgst_amount": 3780,
+                "sgst_amount": 3780,
+                "igst_amount": 0,
+                "total_gst": 7560
+            }
+        ],
+        "status": "Full Pending",
+        "id": 7,
+        "created_at": "2026-09-15 10:00:00",
+        "updated_at": "2026-09-28 23:44:10"
+    },
+    {
+        "id": 8,
+        "invoice_no": "INV-3008",
+        "customer": "Anita Desai",
+        "customer_type": "customer",
+        "amount": 17000,
+        "status": "Overdue",
+        "due_date": "2026-09-01",
+        "date": "2026-08-01",
+        "place_of_supply": "Tamil Nadu",
+        "is_intra_state": false,
+        "total_taxable": 17000,
+        "total_cgst": 0,
+        "total_sgst": 0,
+        "total_igst": 3060,
+        "total_gst": 3060,
+        "grand_total": 20060,
+        "items": [
+            {
+                "product_id": 3,
+                "description": "Website Maintenance - Monthly",
+                "hsn_code": "998314",
+                "gst_rate": 18,
+                "qty": 2,
+                "price": 8500,
+                "actual_selling_price": 8500,
+                "total": 17000
+            }
+        ],
+        "notes": "Inter-state: Gujarat to Tamil Nadu. IGST 18%. Overdue - payment pending.",
+        "tax_summary": [
+            {
+                "rate": 18,
+                "cgst": 0,
+                "sgst": 0,
+                "igst": 3060,
+                "taxable": 17000
+            }
+        ],
+        "created_by": "malaviya test",
+        "created_by_id": "3",
+        "created_at": "2026-08-01 09:00:00",
+        "updated_at": "2026-08-01 09:00:00"
+    },
+    {
+        "id": 9,
+        "invoice_no": "INV-3009",
+        "customer": "Vikram Singh",
+        "customer_type": "customer",
+        "amount": 35000,
+        "status": "Paid",
+        "due_date": "2026-09-30",
+        "date": "2026-09-10",
+        "place_of_supply": "Delhi",
+        "is_intra_state": false,
+        "total_taxable": 35000,
+        "total_cgst": 0,
+        "total_sgst": 0,
+        "total_igst": 6300,
+        "total_gst": 6300,
+        "grand_total": 41300,
+        "items": [
+            {
+                "product_id": 2,
+                "description": "Growth Marketing Package",
+                "hsn_code": "998314",
+                "gst_rate": 18,
+                "qty": 1,
+                "price": 25000,
+                "actual_selling_price": 25000,
+                "total": 25000
+            },
+            {
+                "product_id": 3,
+                "description": "Website Maintenance - Monthly",
+                "hsn_code": "998314",
+                "gst_rate": 18,
+                "qty": 1,
+                "price": 10000,
+                "actual_selling_price": 10000,
+                "total": 10000
+            }
+        ],
+        "notes": "Inter-state: Gujarat to Delhi. IGST 18%. Fully paid.",
+        "tax_summary": [
+            {
+                "rate": 18,
+                "cgst": 0,
+                "sgst": 0,
+                "igst": 6300,
+                "taxable": 35000
+            }
+        ],
+        "created_by": "malaviya test",
+        "created_by_id": "3",
+        "created_at": "2026-09-10 15:30:00",
+        "updated_at": "2026-09-10 15:30:00"
+    },
+    {
+        "invoice_no": "INV-3010",
+        "customer": "Suresh Naik",
+        "place_of_supply": "Gujarat",
+        "due_date": "2026-10-10",
+        "notes": "Inter-state: Gujarat to Karnataka. Draft - not yet sent.",
+        "created_by_id": 1,
+        "created_by": "malaviya test",
+        "customer_type": "customer",
+        "items": [
+            {
+                "product_id": 4,
+                "description": "Consulting Session",
+                "hsn_code": "998314",
+                "gst_rate": 18,
+                "qty": 1,
+                "price": 5000,
+                "actual_selling_price": 5000,
+                "discount_rate": 0,
+                "discount_amount": 0,
+                "total": 5000
+            },
+            {
+                "product_id": 8,
+                "description": "T-Shirt Printing (Custom)",
+                "hsn_code": "610910",
+                "gst_rate": 5,
+                "qty": 5,
+                "price": 350,
+                "actual_selling_price": 350,
+                "discount_rate": 0,
+                "discount_amount": 0,
+                "total": 1750
+            }
+        ],
+        "amount": 6750,
+        "is_intra_state": true,
+        "total_taxable": 6750,
+        "total_cgst": 493.75,
+        "total_sgst": 493.75,
+        "total_igst": 0,
+        "total_gst": 987.5,
+        "grand_total": 7737.5,
+        "tax_summary": [
+            {
+                "hsn_code": "998314",
+                "gst_rate": 18,
+                "taxable_amount": 5000,
+                "cgst_amount": 450,
+                "sgst_amount": 450,
+                "igst_amount": 0,
+                "total_gst": 900
+            },
+            {
+                "hsn_code": "610910",
+                "gst_rate": 5,
+                "taxable_amount": 1750,
+                "cgst_amount": 43.75,
+                "sgst_amount": 43.75,
+                "igst_amount": 0,
+                "total_gst": 87.5
+            }
+        ],
+        "status": "Full Pending",
+        "id": 10,
+        "created_at": "2026-09-21 10:00:00",
+        "updated_at": "2026-09-28 23:57:16"
+    },
+    {
+        "invoice_no": "INV-2026-001",
+        "customer": "Ravi Patel",
+        "place_of_supply": "Jammu & Kashmir",
+        "due_date": "",
+        "notes": "",
+        "created_by_id": 1,
+        "created_by": "malaviya test",
+        "customer_type": "customer",
+        "items": [
+            {
+                "product_id": 2,
+                "description": "Growth Marketing Package",
+                "hsn_code": "998314",
+                "gst_rate": 18,
+                "qty": 1,
+                "price": 25000,
+                "actual_selling_price": 25000,
+                "discount_rate": 0,
+                "discount_amount": 0,
+                "total": 25000
+            }
+        ],
+        "amount": 25000,
+        "is_intra_state": true,
+        "total_taxable": 25000,
+        "total_cgst": 2250,
+        "total_sgst": 2250,
+        "total_igst": 0,
+        "total_gst": 4500,
+        "grand_total": 29500,
+        "tax_summary": [
+            {
+                "hsn_code": "998314",
+                "gst_rate": 18,
+                "taxable_amount": 25000,
+                "cgst_amount": 2250,
+                "sgst_amount": 2250,
+                "igst_amount": 0,
+                "total_gst": 4500
+            }
+        ],
+        "status": "Partly Paid",
+        "id": 11,
+        "created_at": "2026-09-21 13:40:36",
+        "updated_at": "2026-09-21 14:18:15"
+    },
+    {
+        "invoice_no": "INV-2026-002",
+        "customer": "Ravi Patel",
+        "place_of_supply": "",
+        "due_date": "",
+        "notes": "",
+        "created_by_id": 1,
+        "created_by": "malaviya test",
+        "customer_type": "customer",
+        "items": [
+            {
+                "product_id": 6,
+                "description": "Print Visiting Cards (500 pcs)",
+                "hsn_code": "482010",
+                "gst_rate": 12,
+                "qty": 1,
+                "price": 800,
+                "actual_selling_price": 800,
+                "discount_rate": 0,
+                "discount_amount": 0,
+                "total": 800
+            },
+            {
+                "product_id": 4,
+                "description": "Consulting Session",
+                "hsn_code": "998314",
+                "gst_rate": 18,
+                "qty": 1,
+                "price": 5000,
+                "actual_selling_price": 1997,
+                "discount_rate": 60.06,
+                "discount_amount": 3003,
+                "total": 1997
+            }
+        ],
+        "amount": 2797,
+        "is_intra_state": true,
+        "total_taxable": 2797,
+        "total_cgst": 227.73,
+        "total_sgst": 227.73,
+        "total_igst": 0,
+        "total_gst": 455.46,
+        "grand_total": 3252.46,
+        "tax_summary": [
+            {
+                "hsn_code": "482010",
+                "gst_rate": 12,
+                "taxable_amount": 800,
+                "cgst_amount": 48,
+                "sgst_amount": 48,
+                "igst_amount": 0,
+                "total_gst": 96
+            },
+            {
+                "hsn_code": "998314",
+                "gst_rate": 18,
+                "taxable_amount": 1997,
+                "cgst_amount": 179.73,
+                "sgst_amount": 179.73,
+                "igst_amount": 0,
+                "total_gst": 359.46
+            }
+        ],
+        "status": "Full Pending",
+        "id": 12,
+        "created_at": "2026-09-22 19:35:08",
+        "updated_at": "2026-09-28 23:44:42"
+    }
+]

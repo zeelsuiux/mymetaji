@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "name": "Rajesh Kumar",
+        "phone": "8276005637",
+        "email": "rajeshk@test.com",
+        "username": "rajesh.k",
+        "password": "$2y$10$9xWEiXVLNnsB2dBJzifdY.1vSl6JrHzMx3QSrKZohAn3CKvMnpcii",
+        "status": "Inactive",
+        "created_at": "2025-11-04 04:52:29",
+        "updated_at": "2025-11-04 04:52:29"
+    },
+    {
+        "id": 2,
+        "name": "Priya Patel",
+        "phone": "7743809792",
+        "email": "priyap@test.com",
+        "username": "priya.p",
+        "password": "$2y$10$9xWEiXVLNnsB2dBJzifdY.1vSl6JrHzMx3QSrKZohAn3CKvMnpcii",
+        "status": "Active",
+        "created_at": "2026-03-09 09:43:29",
+        "updated_at": "2026-03-09 09:43:29"
+    },
+    {
+        "id": 3,
+        "name": "Amit Singh",
+        "phone": "7755704294",
+        "email": "amits@test.com",
+        "username": "amit.s",
+        "password": "$2y$10$9xWEiXVLNnsB2dBJzifdY.1vSl6JrHzMx3QSrKZohAn3CKvMnpcii",
+        "status": "Inactive",
+        "created_at": "2026-07-21 11:08:50",
+        "updated_at": "2026-07-21 11:08:50"
+    },
+    {
+        "id": 4,
+        "name": "Neha Sharma",
+        "phone": "8078595009",
+        "email": "nehas@test.com",
+        "username": "neha.s",
+        "password": "$2y$10$9xWEiXVLNnsB2dBJzifdY.1vSl6JrHzMx3QSrKZohAn3CKvMnpcii",
+        "status": "Active",
+        "created_at": "2025-08-06 09:59:06",
+        "updated_at": "2025-08-06 09:59:06"
+    },
+    {
+        "id": 5,
+        "name": "Vikram Mehta",
+        "phone": "9119799127",
+        "email": "vikramm@test.com",
+        "username": "vikram.m",
+        "password": "$2y$10$9xWEiXVLNnsB2dBJzifdY.1vSl6JrHzMx3QSrKZohAn3CKvMnpcii",
+        "status": "Inactive",
+        "created_at": "2026-09-18 18:56:52",
+        "updated_at": "2026-09-18 18:56:52"
+    },
+    {
+        "id": 6,
+        "name": "Sonia Gupta",
+        "phone": "8582223216",
+        "email": "soniag@test.com",
+        "username": "sonia.g",
+        "password": "$2y$10$9xWEiXVLNnsB2dBJzifdY.1vSl6JrHzMx3QSrKZohAn3CKvMnpcii",
+        "status": "Inactive",
+        "created_at": "2026-08-27 14:32:34",
+        "updated_at": "2026-08-27 14:32:34"
+    },
+    {
+        "id": 7,
+        "name": "Deepak Joshi",
+        "phone": "8324857858",
+        "email": "deepakj@test.com",
+        "username": "deepak.j",
+        "password": "$2y$10$9xWEiXVLNnsB2dBJzifdY.1vSl6JrHzMx3QSrKZohAn3CKvMnpcii",
+        "status": "Active",
+        "created_at": "2026-07-17 05:06:25",
+        "updated_at": "2026-07-17 05:06:25"
+    },
+    {
+        "id": 8,
+        "name": "Ananya Reddy",
+        "phone": "8448794503",
+        "email": "ananyar@test.com",
+        "username": "ananya.r",
+        "password": "$2y$10$9xWEiXVLNnsB2dBJzifdY.1vSl6JrHzMx3QSrKZohAn3CKvMnpcii",
+        "status": "Inactive",
+        "created_at": "2025-10-28 20:15:47",
+        "updated_at": "2025-10-28 20:15:47"
+    },
+    {
+        "id": 9,
+        "name": "Rohit Nair",
+        "phone": "7399438847",
+        "email": "rohitn@test.com",
+        "username": "rohit.n",
+        "password": "$2y$10$9xWEiXVLNnsB2dBJzifdY.1vSl6JrHzMx3QSrKZohAn3CKvMnpcii",
+        "status": "Active",
+        "created_at": "2025-06-11 21:50:51",
+        "updated_at": "2025-06-11 21:50:51"
+    },
+    {
+        "id": 10,
+        "name": "Kavita Verma",
+        "phone": "8941257306",
+        "email": "kavitav@test.com",
+        "username": "kavita.v",
+        "password": "$2y$10$9xWEiXVLNnsB2dBJzifdY.1vSl6JrHzMx3QSrKZohAn3CKvMnpcii",
+        "status": "Inactive",
+        "created_at": "2026-07-06 20:11:18",
+        "updated_at": "2026-07-06 20:11:18"
+    },
+    {
+        "id": 11,
+        "name": "Suresh Rao",
+        "phone": "9995596703",
+        "email": "sureshr@test.com",
+        "username": "suresh.r",
+        "password": "$2y$10$9xWEiXVLNnsB2dBJzifdY.1vSl6JrHzMx3QSrKZohAn3CKvMnpcii",
+        "status": "Active",
+        "created_at": "2026-05-02 07:56:45",
+        "updated_at": "2026-05-02 07:56:45"
+    },
+    {
+        "id": 12,
+        "name": "Pooja Mishra",
+        "phone": "9046713178",
+        "email": "poojam@test.com",
+        "username": "pooja.m",
+        "password": "$2y$10$9xWEiXVLNnsB2dBJzifdY.1vSl6JrHzMx3QSrKZohAn3CKvMnpcii",
+        "status": "Active",
+        "created_at": "2026-09-13 13:02:37",
+        "updated_at": "2026-09-13 13:02:37"
+    },
+    {
+        "id": 13,
+        "name": "Manish Tiwari",
+        "phone": "8581508129",
+        "email": "manisht@test.com",
+        "username": "manish.t",
+        "password": "$2y$10$9xWEiXVLNnsB2dBJzifdY.1vSl6JrHzMx3QSrKZohAn3CKvMnpcii",
+        "status": "Inactive",
+        "created_at": "2025-08-26 09:03:53",
+        "updated_at": "2025-08-26 09:03:53"
+    },
+    {
+        "id": 14,
+        "name": "Shweta Das",
+        "phone": "9177373479",
+        "email": "shwetad@test.com",
+        "username": "shweta.d",
+        "password": "$2y$10$9xWEiXVLNnsB2dBJzifdY.1vSl6JrHzMx3QSrKZohAn3CKvMnpcii",
+        "status": "Active",
+        "created_at": "2026-01-01 15:32:38",
+        "updated_at": "2026-01-01 15:32:38"
+    },
+    {
+        "id": 15,
+        "name": "Ashok Banerjee",
+        "phone": "7568699732",
+        "email": "ashokb@test.com",
+        "username": "ashok.b",
+        "password": "$2y$10$9xWEiXVLNnsB2dBJzifdY.1vSl6JrHzMx3QSrKZohAn3CKvMnpcii",
+        "status": "Active",
+        "created_at": "2025-06-28 02:34:29",
+        "updated_at": "2025-06-28 02:34:29"
+    },
+    {
+        "id": 16,
+        "name": "Rina Ghosh",
+        "phone": "9839014927",
+        "email": "rinag@test.com",
+        "username": "rina.g",
+        "password": "$2y$10$9xWEiXVLNnsB2dBJzifdY.1vSl6JrHzMx3QSrKZohAn3CKvMnpcii",
+        "status": "Inactive",
+        "created_at": "2025-09-11 12:59:09",
+        "updated_at": "2025-09-11 12:59:09"
+    },
+    {
+        "id": 17,
+        "name": "Prakash Sinha",
+        "phone": "8359605632",
+        "email": "prakashs@test.com",
+        "username": "prakash.s",
+        "password": "$2y$10$9xWEiXVLNnsB2dBJzifdY.1vSl6JrHzMx3QSrKZohAn3CKvMnpcii",
+        "status": "Inactive",
+        "created_at": "2026-01-23 11:36:32",
+        "updated_at": "2026-01-23 11:36:32"
+    },
+    {
+        "id": 18,
+        "name": "Geeta Pandey",
+        "phone": "8365315912",
+        "email": "geetap@test.com",
+        "username": "geeta.p",
+        "password": "$2y$10$9xWEiXVLNnsB2dBJzifdY.1vSl6JrHzMx3QSrKZohAn3CKvMnpcii",
+        "status": "Active",
+        "created_at": "2026-06-26 12:53:34",
+        "updated_at": "2026-06-26 12:53:34"
+    },
+    {
+        "id": 19,
+        "name": "Sanjay Malhotra",
+        "phone": "8590018895",
+        "email": "sanjaym@test.com",
+        "username": "sanjay.m",
+        "password": "$2y$10$9xWEiXVLNnsB2dBJzifdY.1vSl6JrHzMx3QSrKZohAn3CKvMnpcii",
+        "status": "Active",
+        "created_at": "2026-08-21 23:42:19",
+        "updated_at": "2026-08-21 23:42:19"
+    },
+    {
+        "id": 20,
+        "name": "Meena Kapoor",
+        "phone": "9015267164",
+        "email": "meenak@test.com",
+        "username": "meena.k",
+        "password": "$2y$10$9xWEiXVLNnsB2dBJzifdY.1vSl6JrHzMx3QSrKZohAn3CKvMnpcii",
+        "status": "Inactive",
+        "created_at": "2025-06-10 10:31:06",
+        "updated_at": "2025-06-10 10:31:06"
+    }
+]

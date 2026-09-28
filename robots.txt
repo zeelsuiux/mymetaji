@@ -1,0 +1,27 @@
+# My Metaji - https://mymetaji.com
+# Last reviewed: 2026
+
+User-agent: *
+Allow: /
+
+# The shopkeeper app lives under /admin and is a login-gated SaaS panel.
+# None of it is useful in an index and some of it is per-tenant.
+Disallow: /admin/
+Disallow: /cst_
+
+# Generated pages and tooling should never be crawled or indexed.
+Disallow: /tools/
+Disallow: /*?tenant=
+Disallow: /*?city=
+Disallow: /*?service=
+
+Crawl-delay: 1
+
+# Common AI crawlers. Adjust to taste - this does not affect Google ranking.
+User-agent: GPTBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://mymetaji.com/sitemap.php

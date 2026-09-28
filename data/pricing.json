@@ -1,0 +1,22 @@
+{
+    "updated_at": "2026-09-28 10:39:47",
+    "updated_by": "admin",
+    "prices": {
+        "Starter": {
+            "monthly": 299,
+            "yearly": 4000
+        },
+        "Business": {
+            "monthly": 599,
+            "yearly": 5999
+        },
+        "Professional": {
+            "monthly": 999,
+            "yearly": 9999
+        },
+        "Enterprise": {
+            "monthly": 1499,
+            "yearly": 14999
+        }
+    }
+}

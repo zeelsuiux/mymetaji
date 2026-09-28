@@ -1,0 +1,5002 @@
+[
+    {
+        "id": 1,
+        "invoice_no": "INV-2401",
+        "customer": "Mukesh Reddy",
+        "customer_type": "customer",
+        "amount": 76527,
+        "status": "Draft",
+        "due_date": "2026-10-13",
+        "date": "2026-09-17",
+        "items": [
+            {
+                "product_id": 191,
+                "description": "Premium Support Plan #574",
+                "qty": 1,
+                "price": 84096,
+                "actual_selling_price": 76527,
+                "total": 76527
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2026-09-17 11:59:00",
+        "updated_at": "2026-09-17 13:39:00"
+    },
+    {
+        "id": 2,
+        "invoice_no": "INV-2402",
+        "customer": "Deepak Shah",
+        "customer_type": "customer",
+        "amount": 245479,
+        "status": "Overdue",
+        "due_date": "2025-05-29",
+        "date": "2025-04-01",
+        "items": [
+            {
+                "product_id": 46,
+                "description": "Backup Solution #537",
+                "qty": 5,
+                "price": 55164,
+                "actual_selling_price": 49095,
+                "total": 245479
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2025-04-01 16:49:00",
+        "updated_at": "2025-04-01 18:11:00"
+    },
+    {
+        "id": 3,
+        "invoice_no": "INV-2403",
+        "customer": "Bharat Ghosh",
+        "customer_type": "customer",
+        "amount": 149414,
+        "status": "Sent",
+        "due_date": "2025-04-29",
+        "date": "2025-03-03",
+        "items": [
+            {
+                "product_id": 17,
+                "description": "Business Card Package #721",
+                "qty": 2,
+                "price": 92231,
+                "actual_selling_price": 74707,
+                "total": 149414
+            }
+        ],
+        "notes": "Consultation",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2025-03-03 14:47:00",
+        "updated_at": "2025-03-03 16:53:00"
+    },
+    {
+        "id": 4,
+        "invoice_no": "INV-2404",
+        "customer": "Armaan Pandey",
+        "customer_type": "customer",
+        "amount": 184337,
+        "status": "Paid",
+        "due_date": "2026-02-15",
+        "date": "2026-01-22",
+        "items": [
+            {
+                "product_id": 35,
+                "description": "Annual Audit Service #842",
+                "qty": 2,
+                "price": 99106,
+                "actual_selling_price": 92168,
+                "total": 184337
+            }
+        ],
+        "notes": "Monthly service",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2026-01-22 15:51:00",
+        "updated_at": "2026-01-22 13:34:00"
+    },
+    {
+        "id": 5,
+        "invoice_no": "INV-2405",
+        "customer": "Bharat Ghosh",
+        "customer_type": "customer",
+        "amount": 26770,
+        "status": "Overdue",
+        "due_date": "2025-02-18",
+        "date": "2024-12-29",
+        "items": [
+            {
+                "product_id": 13,
+                "description": "Anti-Virus License #856",
+                "qty": 2,
+                "price": 16525,
+                "actual_selling_price": 13385,
+                "total": 26770
+            }
+        ],
+        "notes": "Project work",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-12-29 16:01:00",
+        "updated_at": "2024-12-29 13:49:00"
+    },
+    {
+        "id": 6,
+        "invoice_no": "INV-2406",
+        "customer": "Rajesh Sinha",
+        "customer_type": "customer",
+        "amount": 74242,
+        "status": "Sent",
+        "due_date": "2024-03-09",
+        "date": "2024-02-22",
+        "items": [
+            {
+                "product_id": 105,
+                "description": "Signage & Banner #925",
+                "qty": 1,
+                "price": 91658,
+                "actual_selling_price": 74242,
+                "total": 74242
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2024-02-22 10:40:00",
+        "updated_at": "2024-02-22 08:48:00"
+    },
+    {
+        "id": 7,
+        "invoice_no": "INV-2407",
+        "customer": "Bharat Reddy",
+        "customer_type": "customer",
+        "amount": 158918,
+        "status": "Paid",
+        "due_date": "2024-08-22",
+        "date": "2024-06-25",
+        "items": [
+            {
+                "product_id": 48,
+                "description": "Office Setup Package #651",
+                "qty": 2,
+                "price": 81081,
+                "actual_selling_price": 79459,
+                "total": 158918
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2024-06-25 11:28:00",
+        "updated_at": "2024-06-25 10:16:00"
+    },
+    {
+        "id": 8,
+        "invoice_no": "INV-2408",
+        "customer": "Sanjay Singh",
+        "customer_type": "customer",
+        "amount": 216972,
+        "status": "Cancelled",
+        "due_date": "2026-09-30",
+        "date": "2026-08-30",
+        "items": [
+            {
+                "product_id": 132,
+                "description": "Domain Registration #934",
+                "qty": 4,
+                "price": 54243,
+                "actual_selling_price": 54243,
+                "total": 216972
+            }
+        ],
+        "notes": "Project work",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2026-08-30 08:59:00",
+        "updated_at": "2026-08-30 18:23:00"
+    },
+    {
+        "id": 9,
+        "invoice_no": "INV-2409",
+        "customer": "Pawan Tiwari",
+        "customer_type": "customer",
+        "amount": 155850,
+        "status": "Sent",
+        "due_date": "2026-04-27",
+        "date": "2026-03-12",
+        "items": [
+            {
+                "product_id": 151,
+                "description": "Inventory System Setup #647",
+                "qty": 5,
+                "price": 31170,
+                "actual_selling_price": 31170,
+                "total": 155850
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2026-03-12 10:19:00",
+        "updated_at": "2026-03-12 17:57:00"
+    },
+    {
+        "id": 10,
+        "invoice_no": "INV-2410",
+        "customer": "Pranav Gupta",
+        "customer_type": "customer",
+        "amount": 80413,
+        "status": "Draft",
+        "due_date": "2024-03-28",
+        "date": "2024-02-12",
+        "items": [
+            {
+                "product_id": 167,
+                "description": "WhatsApp Business Setup #906",
+                "qty": 1,
+                "price": 91379,
+                "actual_selling_price": 80413,
+                "total": 80413
+            }
+        ],
+        "notes": "Project work",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2024-02-12 11:41:00",
+        "updated_at": "2024-02-12 14:24:00"
+    },
+    {
+        "id": 11,
+        "invoice_no": "INV-2411",
+        "customer": "Rajesh Sinha",
+        "customer_type": "customer",
+        "amount": 122443,
+        "status": "Paid",
+        "due_date": "2024-10-05",
+        "date": "2024-09-10",
+        "items": [
+            {
+                "product_id": 181,
+                "description": "Video Production Basic #519",
+                "qty": 5,
+                "price": 24736,
+                "actual_selling_price": 24488,
+                "total": 122443
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-09-10 17:19:00",
+        "updated_at": "2024-09-10 10:11:00"
+    },
+    {
+        "id": 12,
+        "invoice_no": "INV-2412",
+        "customer": "Darshan Sharma",
+        "customer_type": "customer",
+        "amount": 22260,
+        "status": "Sent",
+        "due_date": "2025-08-23",
+        "date": "2025-07-01",
+        "items": [
+            {
+                "product_id": 101,
+                "description": "Annual Audit Service #660",
+                "qty": 2,
+                "price": 11968,
+                "actual_selling_price": 11130,
+                "total": 22260
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-07-01 09:23:00",
+        "updated_at": "2025-07-01 10:54:00"
+    },
+    {
+        "id": 13,
+        "invoice_no": "INV-2413",
+        "customer": "Tushar Tiwari",
+        "customer_type": "customer",
+        "amount": 50102,
+        "status": "Draft",
+        "due_date": "2024-03-24",
+        "date": "2024-03-08",
+        "items": [
+            {
+                "product_id": 154,
+                "description": "Email Hosting #517",
+                "qty": 3,
+                "price": 17767,
+                "actual_selling_price": 16700,
+                "total": 50102
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-03-08 12:39:00",
+        "updated_at": "2024-03-08 14:36:00"
+    },
+    {
+        "id": 14,
+        "invoice_no": "INV-2414",
+        "customer": "Bharat Das",
+        "customer_type": "customer",
+        "amount": 26223,
+        "status": "Cancelled",
+        "due_date": "2024-10-30",
+        "date": "2024-10-08",
+        "items": [
+            {
+                "product_id": 140,
+                "description": "GST Registration #198",
+                "qty": 5,
+                "price": 6475,
+                "actual_selling_price": 5244,
+                "total": 26223
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-10-08 15:53:00",
+        "updated_at": "2024-10-08 16:44:00"
+    },
+    {
+        "id": 15,
+        "invoice_no": "INV-2415",
+        "customer": "Sai Das",
+        "customer_type": "customer",
+        "amount": 11955,
+        "status": "Cancelled",
+        "due_date": "2026-02-22",
+        "date": "2026-02-14",
+        "items": [
+            {
+                "product_id": 163,
+                "description": "Payroll Management #446",
+                "qty": 2,
+                "price": 7290,
+                "actual_selling_price": 5977,
+                "total": 11955
+            }
+        ],
+        "notes": "Project work",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2026-02-14 10:03:00",
+        "updated_at": "2026-02-14 10:11:00"
+    },
+    {
+        "id": 16,
+        "invoice_no": "INV-2416",
+        "customer": "Sachin Kapoor",
+        "customer_type": "customer",
+        "amount": 45338,
+        "status": "Cancelled",
+        "due_date": "2024-07-14",
+        "date": "2024-06-28",
+        "items": [
+            {
+                "product_id": 92,
+                "description": "Company Incorporation #928",
+                "qty": 4,
+                "price": 11449,
+                "actual_selling_price": 11334,
+                "total": 45338
+            }
+        ],
+        "notes": "Monthly service",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2024-06-28 10:48:00",
+        "updated_at": "2024-06-28 09:43:00"
+    },
+    {
+        "id": 17,
+        "invoice_no": "INV-2417",
+        "customer": "Sai Bhat",
+        "customer_type": "customer",
+        "amount": 63572,
+        "status": "Sent",
+        "due_date": "2024-07-16",
+        "date": "2024-05-17",
+        "items": [
+            {
+                "product_id": 137,
+                "description": "Loyalty Program Setup #690",
+                "qty": 1,
+                "price": 63572,
+                "actual_selling_price": 63572,
+                "total": 63572
+            }
+        ],
+        "notes": "Project work",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2024-05-17 15:01:00",
+        "updated_at": "2024-05-17 13:38:00"
+    },
+    {
+        "id": 18,
+        "invoice_no": "INV-2418",
+        "customer": "Ashish Chopra",
+        "customer_type": "customer",
+        "amount": 65691,
+        "status": "Overdue",
+        "due_date": "2024-10-11",
+        "date": "2024-08-16",
+        "items": [
+            {
+                "product_id": 150,
+                "description": "Warehouse Management Setup #645",
+                "qty": 1,
+                "price": 71404,
+                "actual_selling_price": 65691,
+                "total": 65691
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2024-08-16 10:36:00",
+        "updated_at": "2024-08-16 15:46:00"
+    },
+    {
+        "id": 19,
+        "invoice_no": "INV-2419",
+        "customer": "Sai Mishra",
+        "customer_type": "customer",
+        "amount": 25685,
+        "status": "Draft",
+        "due_date": "2026-08-22",
+        "date": "2026-07-16",
+        "items": [
+            {
+                "product_id": 61,
+                "description": "Tax Planning Consultation #195",
+                "qty": 1,
+                "price": 25945,
+                "actual_selling_price": 25685,
+                "total": 25685
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2026-07-16 18:05:00",
+        "updated_at": "2026-07-16 12:29:00"
+    },
+    {
+        "id": 20,
+        "invoice_no": "INV-2420",
+        "customer": "Dhruv Joshi",
+        "customer_type": "customer",
+        "amount": 121701,
+        "status": "Cancelled",
+        "due_date": "2026-01-25",
+        "date": "2026-01-16",
+        "items": [
+            {
+                "product_id": 120,
+                "description": "Payment Gateway Integration #547",
+                "qty": 3,
+                "price": 46099,
+                "actual_selling_price": 40567,
+                "total": 121701
+            }
+        ],
+        "notes": "Project work",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2026-01-16 16:06:00",
+        "updated_at": "2026-01-16 09:31:00"
+    },
+    {
+        "id": 21,
+        "invoice_no": "INV-2421",
+        "customer": "Manoj Patel",
+        "customer_type": "customer",
+        "amount": 27188,
+        "status": "Cancelled",
+        "due_date": "2025-04-05",
+        "date": "2025-03-15",
+        "items": [
+            {
+                "product_id": 109,
+                "description": "Trademark Registration #893",
+                "qty": 3,
+                "price": 10789,
+                "actual_selling_price": 9062,
+                "total": 27188
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2025-03-15 14:35:00",
+        "updated_at": "2025-03-15 09:00:00"
+    },
+    {
+        "id": 22,
+        "invoice_no": "INV-2422",
+        "customer": "Manoj Bhat",
+        "customer_type": "customer",
+        "amount": 106488,
+        "status": "Overdue",
+        "due_date": "2024-09-20",
+        "date": "2024-08-11",
+        "items": [
+            {
+                "product_id": 75,
+                "description": "Payroll Management #394",
+                "qty": 2,
+                "price": 61200,
+                "actual_selling_price": 53244,
+                "total": 106488
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2024-08-11 11:16:00",
+        "updated_at": "2024-08-11 13:03:00"
+    },
+    {
+        "id": 23,
+        "invoice_no": "INV-2423",
+        "customer": "Darshan Bhat",
+        "customer_type": "customer",
+        "amount": 215670,
+        "status": "Sent",
+        "due_date": "2026-04-23",
+        "date": "2026-03-01",
+        "items": [
+            {
+                "product_id": 172,
+                "description": "Annual Audit Service #463",
+                "qty": 4,
+                "price": 61270,
+                "actual_selling_price": 53917,
+                "total": 215670
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2026-03-01 18:04:00",
+        "updated_at": "2026-03-01 15:06:00"
+    },
+    {
+        "id": 24,
+        "invoice_no": "INV-2424",
+        "customer": "Rohan Sinha",
+        "customer_type": "customer",
+        "amount": 75978,
+        "status": "Draft",
+        "due_date": "2025-06-29",
+        "date": "2025-06-15",
+        "items": [
+            {
+                "product_id": 39,
+                "description": "IT Infrastructure Audit #469",
+                "qty": 2,
+                "price": 39572,
+                "actual_selling_price": 37989,
+                "total": 75978
+            }
+        ],
+        "notes": "Consultation",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-06-15 12:49:00",
+        "updated_at": "2025-06-15 12:11:00"
+    },
+    {
+        "id": 25,
+        "invoice_no": "INV-2425",
+        "customer": "Tarun Joshi",
+        "customer_type": "customer",
+        "amount": 154431,
+        "status": "Overdue",
+        "due_date": "2026-09-05",
+        "date": "2026-08-29",
+        "items": [
+            {
+                "product_id": 166,
+                "description": "Accounting Setup #837",
+                "qty": 4,
+                "price": 44377,
+                "actual_selling_price": 38607,
+                "total": 154431
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2026-08-29 10:15:00",
+        "updated_at": "2026-08-29 17:02:00"
+    },
+    {
+        "id": 26,
+        "invoice_no": "INV-2426",
+        "customer": "Chetan Kumar",
+        "customer_type": "customer",
+        "amount": 146472,
+        "status": "Sent",
+        "due_date": "2026-06-07",
+        "date": "2026-04-21",
+        "items": [
+            {
+                "product_id": 197,
+                "description": "Digital Marketing Pro #549",
+                "qty": 2,
+                "price": 77091,
+                "actual_selling_price": 73236,
+                "total": 146472
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2026-04-21 10:44:00",
+        "updated_at": "2026-04-21 12:46:00"
+    },
+    {
+        "id": 27,
+        "invoice_no": "INV-2427",
+        "customer": "Suresh Chopra",
+        "customer_type": "customer",
+        "amount": 225108,
+        "status": "Sent",
+        "due_date": "2026-04-24",
+        "date": "2026-03-18",
+        "items": [
+            {
+                "product_id": 132,
+                "description": "Domain Registration #934",
+                "qty": 5,
+                "price": 54243,
+                "actual_selling_price": 45021,
+                "total": 225108
+            }
+        ],
+        "notes": "Consultation",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2026-03-18 16:59:00",
+        "updated_at": "2026-03-18 15:09:00"
+    },
+    {
+        "id": 28,
+        "invoice_no": "INV-2428",
+        "customer": "Deepak Shah",
+        "customer_type": "customer",
+        "amount": 113967,
+        "status": "Draft",
+        "due_date": "2026-11-06",
+        "date": "2026-09-12",
+        "items": [
+            {
+                "product_id": 39,
+                "description": "IT Infrastructure Audit #469",
+                "qty": 3,
+                "price": 39572,
+                "actual_selling_price": 37989,
+                "total": 113967
+            }
+        ],
+        "notes": "Consultation",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2026-09-12 12:53:00",
+        "updated_at": "2026-09-12 13:19:00"
+    },
+    {
+        "id": 29,
+        "invoice_no": "INV-2429",
+        "customer": "Dhruv Chatterjee",
+        "customer_type": "customer",
+        "amount": 82947,
+        "status": "Draft",
+        "due_date": "2025-06-19",
+        "date": "2025-06-01",
+        "items": [
+            {
+                "product_id": 97,
+                "description": "Video Production Basic #917",
+                "qty": 4,
+                "price": 22540,
+                "actual_selling_price": 20736,
+                "total": 82947
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-06-01 09:29:00",
+        "updated_at": "2025-06-01 14:23:00"
+    },
+    {
+        "id": 30,
+        "invoice_no": "INV-2430",
+        "customer": "Prakash Gupta",
+        "customer_type": "customer",
+        "amount": 297081,
+        "status": "Paid",
+        "due_date": "2025-01-28",
+        "date": "2025-01-14",
+        "items": [
+            {
+                "product_id": 24,
+                "description": "Inventory Audit #676",
+                "qty": 4,
+                "price": 86361,
+                "actual_selling_price": 74270,
+                "total": 297081
+            }
+        ],
+        "notes": "Monthly service",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-01-14 10:11:00",
+        "updated_at": "2025-01-14 14:42:00"
+    },
+    {
+        "id": 31,
+        "invoice_no": "INV-2431",
+        "customer": "Nikhil Das",
+        "customer_type": "customer",
+        "amount": 252720,
+        "status": "Paid",
+        "due_date": "2024-04-27",
+        "date": "2024-03-24",
+        "items": [
+            {
+                "product_id": 35,
+                "description": "Annual Audit Service #842",
+                "qty": 3,
+                "price": 99106,
+                "actual_selling_price": 84240,
+                "total": 252720
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-03-24 11:17:00",
+        "updated_at": "2024-03-24 17:02:00"
+    },
+    {
+        "id": 32,
+        "invoice_no": "INV-2432",
+        "customer": "Kunal Sinha",
+        "customer_type": "customer",
+        "amount": 47040,
+        "status": "Cancelled",
+        "due_date": "2024-07-09",
+        "date": "2024-06-21",
+        "items": [
+            {
+                "product_id": 10,
+                "description": "Cloud Hosting Annual",
+                "qty": 2,
+                "price": 24000,
+                "actual_selling_price": 23520,
+                "total": 47040
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2024-06-21 08:15:00",
+        "updated_at": "2024-06-21 16:19:00"
+    },
+    {
+        "id": 33,
+        "invoice_no": "INV-2433",
+        "customer": "Aarav Shah",
+        "customer_type": "customer",
+        "amount": 17402,
+        "status": "Overdue",
+        "due_date": "2025-11-20",
+        "date": "2025-09-27",
+        "items": [
+            {
+                "product_id": 178,
+                "description": "Website Redesign #619",
+                "qty": 1,
+                "price": 19775,
+                "actual_selling_price": 17402,
+                "total": 17402
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2025-09-27 13:37:00",
+        "updated_at": "2025-09-27 18:26:00"
+    },
+    {
+        "id": 34,
+        "invoice_no": "INV-2434",
+        "customer": "Pankaj Gupta",
+        "customer_type": "customer",
+        "amount": 34200,
+        "status": "Paid",
+        "due_date": "2024-09-21",
+        "date": "2024-08-03",
+        "items": [
+            {
+                "product_id": 6,
+                "description": "Social Media Management",
+                "qty": 2,
+                "price": 18000,
+                "actual_selling_price": 17100,
+                "total": 34200
+            }
+        ],
+        "notes": "Consultation",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-08-03 14:17:00",
+        "updated_at": "2024-08-03 18:43:00"
+    },
+    {
+        "id": 35,
+        "invoice_no": "INV-2435",
+        "customer": "Siddharth Reddy",
+        "customer_type": "customer",
+        "amount": 282964,
+        "status": "Paid",
+        "due_date": "2024-12-29",
+        "date": "2024-11-11",
+        "items": [
+            {
+                "product_id": 200,
+                "description": "Company Incorporation #264",
+                "qty": 5,
+                "price": 58951,
+                "actual_selling_price": 56592,
+                "total": 282964
+            }
+        ],
+        "notes": "Monthly service",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-11-11 15:51:00",
+        "updated_at": "2024-11-11 09:57:00"
+    },
+    {
+        "id": 36,
+        "invoice_no": "INV-2436",
+        "customer": "Anil Kapoor",
+        "customer_type": "customer",
+        "amount": 249258,
+        "status": "Overdue",
+        "due_date": "2026-03-15",
+        "date": "2026-02-17",
+        "items": [
+            {
+                "product_id": 12,
+                "description": "Annual Audit Service #740",
+                "qty": 4,
+                "price": 62944,
+                "actual_selling_price": 62314,
+                "total": 249258
+            }
+        ],
+        "notes": "Monthly service",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2026-02-17 11:01:00",
+        "updated_at": "2026-02-17 15:16:00"
+    },
+    {
+        "id": 37,
+        "invoice_no": "INV-2437",
+        "customer": "Deepak Shah",
+        "customer_type": "customer",
+        "amount": 66187,
+        "status": "Draft",
+        "due_date": "2024-04-15",
+        "date": "2024-02-25",
+        "items": [
+            {
+                "product_id": 119,
+                "description": "Warehouse Management Setup #765",
+                "qty": 4,
+                "price": 16714,
+                "actual_selling_price": 16546,
+                "total": 66187
+            }
+        ],
+        "notes": "Consultation",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2024-02-25 08:18:00",
+        "updated_at": "2024-02-25 09:26:00"
+    },
+    {
+        "id": 38,
+        "invoice_no": "INV-2438",
+        "customer": "Nikhil Das",
+        "customer_type": "customer",
+        "amount": 196064,
+        "status": "Sent",
+        "due_date": "2024-02-10",
+        "date": "2024-01-03",
+        "items": [
+            {
+                "product_id": 172,
+                "description": "Annual Audit Service #463",
+                "qty": 4,
+                "price": 61270,
+                "actual_selling_price": 49016,
+                "total": 196064
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2024-01-03 15:31:00",
+        "updated_at": "2024-01-03 10:16:00"
+    },
+    {
+        "id": 39,
+        "invoice_no": "INV-2439",
+        "customer": "Manoj Mukherjee",
+        "customer_type": "customer",
+        "amount": 254244,
+        "status": "Overdue",
+        "due_date": "2025-11-26",
+        "date": "2025-11-05",
+        "items": [
+            {
+                "product_id": 71,
+                "description": "Employee Training Program #851",
+                "qty": 4,
+                "price": 63561,
+                "actual_selling_price": 63561,
+                "total": 254244
+            }
+        ],
+        "notes": "Consultation",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2025-11-05 12:21:00",
+        "updated_at": "2025-11-05 15:12:00"
+    },
+    {
+        "id": 40,
+        "invoice_no": "INV-2440",
+        "customer": "Manoj Mukherjee",
+        "customer_type": "customer",
+        "amount": 81159,
+        "status": "Overdue",
+        "due_date": "2025-01-03",
+        "date": "2024-11-05",
+        "items": [
+            {
+                "product_id": 192,
+                "description": "Bulk SMS Package #997",
+                "qty": 5,
+                "price": 17268,
+                "actual_selling_price": 16231,
+                "total": 81159
+            }
+        ],
+        "notes": "Project work",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2024-11-05 17:34:00",
+        "updated_at": "2024-11-05 09:19:00"
+    },
+    {
+        "id": 41,
+        "invoice_no": "INV-2441",
+        "customer": "Karan Kumar",
+        "customer_type": "customer",
+        "amount": 247242,
+        "status": "Cancelled",
+        "due_date": "2024-07-07",
+        "date": "2024-06-01",
+        "items": [
+            {
+                "product_id": 191,
+                "description": "Premium Support Plan #574",
+                "qty": 3,
+                "price": 84096,
+                "actual_selling_price": 82414,
+                "total": 247242
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2024-06-01 14:03:00",
+        "updated_at": "2024-06-01 08:47:00"
+    },
+    {
+        "id": 42,
+        "invoice_no": "INV-2442",
+        "customer": "Armaan Saxena",
+        "customer_type": "customer",
+        "amount": 83586,
+        "status": "Overdue",
+        "due_date": "2025-04-18",
+        "date": "2025-03-28",
+        "items": [
+            {
+                "product_id": 89,
+                "description": "SSL Certificate Pack #908",
+                "qty": 2,
+                "price": 48038,
+                "actual_selling_price": 41793,
+                "total": 83586
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-03-28 08:06:00",
+        "updated_at": "2025-03-28 10:56:00"
+    },
+    {
+        "id": 43,
+        "invoice_no": "INV-2443",
+        "customer": "Aarav Shah",
+        "customer_type": "customer",
+        "amount": 73559,
+        "status": "Cancelled",
+        "due_date": "2026-03-25",
+        "date": "2026-01-26",
+        "items": [
+            {
+                "product_id": 164,
+                "description": "Content Writing Bundle #795",
+                "qty": 1,
+                "price": 79956,
+                "actual_selling_price": 73559,
+                "total": 73559
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2026-01-26 08:02:00",
+        "updated_at": "2026-01-26 15:01:00"
+    },
+    {
+        "id": 44,
+        "invoice_no": "INV-2444",
+        "customer": "Anirudh Naik",
+        "customer_type": "customer",
+        "amount": 18557,
+        "status": "Draft",
+        "due_date": "2025-09-16",
+        "date": "2025-08-31",
+        "items": [
+            {
+                "product_id": 109,
+                "description": "Trademark Registration #893",
+                "qty": 2,
+                "price": 10789,
+                "actual_selling_price": 9278,
+                "total": 18557
+            }
+        ],
+        "notes": "Consultation",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-08-31 12:37:00",
+        "updated_at": "2025-08-31 10:53:00"
+    },
+    {
+        "id": 45,
+        "invoice_no": "INV-2445",
+        "customer": "Anil Gupta",
+        "customer_type": "customer",
+        "amount": 138655,
+        "status": "Draft",
+        "due_date": "2026-02-26",
+        "date": "2026-01-29",
+        "items": [
+            {
+                "product_id": 113,
+                "description": "Anti-Virus License #653",
+                "qty": 2,
+                "price": 84546,
+                "actual_selling_price": 69327,
+                "total": 138655
+            }
+        ],
+        "notes": "Monthly service",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2026-01-29 13:44:00",
+        "updated_at": "2026-01-29 09:38:00"
+    },
+    {
+        "id": 46,
+        "invoice_no": "INV-2446",
+        "customer": "Vikram Shah",
+        "customer_type": "customer",
+        "amount": 200856,
+        "status": "Paid",
+        "due_date": "2025-03-13",
+        "date": "2025-02-02",
+        "items": [
+            {
+                "product_id": 28,
+                "description": "Warehouse Management Setup #904",
+                "qty": 3,
+                "price": 81649,
+                "actual_selling_price": 66952,
+                "total": 200856
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-02-02 12:20:00",
+        "updated_at": "2025-02-02 09:34:00"
+    },
+    {
+        "id": 47,
+        "invoice_no": "INV-2447",
+        "customer": "Deepak Banerjee",
+        "customer_type": "customer",
+        "amount": 157828,
+        "status": "Cancelled",
+        "due_date": "2026-03-20",
+        "date": "2026-02-26",
+        "items": [
+            {
+                "product_id": 158,
+                "description": "Brand Identity Kit #254",
+                "qty": 2,
+                "price": 86719,
+                "actual_selling_price": 78914,
+                "total": 157828
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2026-02-26 14:15:00",
+        "updated_at": "2026-02-26 09:16:00"
+    },
+    {
+        "id": 48,
+        "invoice_no": "INV-2448",
+        "customer": "Tarun Joshi",
+        "customer_type": "customer",
+        "amount": 148456,
+        "status": "Sent",
+        "due_date": "2024-08-23",
+        "date": "2024-07-10",
+        "items": [
+            {
+                "product_id": 156,
+                "description": "Loyalty Program Setup #319",
+                "qty": 2,
+                "price": 91640,
+                "actual_selling_price": 74228,
+                "total": 148456
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-07-10 09:06:00",
+        "updated_at": "2024-07-10 13:43:00"
+    },
+    {
+        "id": 49,
+        "invoice_no": "INV-2449",
+        "customer": "Anil Rao",
+        "customer_type": "customer",
+        "amount": 162422,
+        "status": "Draft",
+        "due_date": "2026-03-18",
+        "date": "2026-01-17",
+        "items": [
+            {
+                "product_id": 87,
+                "description": "Payment Gateway Integration #740",
+                "qty": 3,
+                "price": 65230,
+                "actual_selling_price": 54140,
+                "total": 162422
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2026-01-17 17:20:00",
+        "updated_at": "2026-01-17 18:07:00"
+    },
+    {
+        "id": 50,
+        "invoice_no": "INV-2450",
+        "customer": "Pawan Patel",
+        "customer_type": "customer",
+        "amount": 84621,
+        "status": "Cancelled",
+        "due_date": "2025-09-28",
+        "date": "2025-08-20",
+        "items": [
+            {
+                "product_id": 20,
+                "description": "Annual Audit Service #213",
+                "qty": 4,
+                "price": 21587,
+                "actual_selling_price": 21155,
+                "total": 84621
+            }
+        ],
+        "notes": "Monthly service",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-08-20 15:39:00",
+        "updated_at": "2025-08-20 15:38:00"
+    },
+    {
+        "id": 51,
+        "invoice_no": "INV-2451",
+        "customer": "Rajesh Sharma",
+        "customer_type": "customer",
+        "amount": 13766,
+        "status": "Cancelled",
+        "due_date": "2026-10-15",
+        "date": "2026-08-28",
+        "items": [
+            {
+                "product_id": 54,
+                "description": "Payment Gateway Integration #293",
+                "qty": 2,
+                "price": 7096,
+                "actual_selling_price": 6883,
+                "total": 13766
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2026-08-28 15:20:00",
+        "updated_at": "2026-08-28 14:49:00"
+    },
+    {
+        "id": 52,
+        "invoice_no": "INV-2452",
+        "customer": "Subodh Pandey",
+        "customer_type": "customer",
+        "amount": 71143,
+        "status": "Cancelled",
+        "due_date": "2026-03-04",
+        "date": "2026-01-25",
+        "items": [
+            {
+                "product_id": 30,
+                "description": "Bulk SMS Package #987",
+                "qty": 3,
+                "price": 27258,
+                "actual_selling_price": 23714,
+                "total": 71143
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2026-01-25 11:10:00",
+        "updated_at": "2026-01-25 14:55:00"
+    },
+    {
+        "id": 53,
+        "invoice_no": "INV-2453",
+        "customer": "Chetan Singh",
+        "customer_type": "customer",
+        "amount": 164392,
+        "status": "Cancelled",
+        "due_date": "2025-06-17",
+        "date": "2025-06-10",
+        "items": [
+            {
+                "product_id": 32,
+                "description": "Server Maintenance #582",
+                "qty": 2,
+                "price": 87443,
+                "actual_selling_price": 82196,
+                "total": 164392
+            }
+        ],
+        "notes": "Consultation",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2025-06-10 08:12:00",
+        "updated_at": "2025-06-10 09:32:00"
+    },
+    {
+        "id": 54,
+        "invoice_no": "INV-2454",
+        "customer": "Aarav Shah",
+        "customer_type": "customer",
+        "amount": 126344,
+        "status": "Cancelled",
+        "due_date": "2024-02-03",
+        "date": "2024-01-15",
+        "items": [
+            {
+                "product_id": 189,
+                "description": "WhatsApp Business Setup #864",
+                "qty": 3,
+                "price": 47320,
+                "actual_selling_price": 42114,
+                "total": 126344
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2024-01-15 17:05:00",
+        "updated_at": "2024-01-15 10:39:00"
+    },
+    {
+        "id": 55,
+        "invoice_no": "INV-2455",
+        "customer": "Ankit Das",
+        "customer_type": "customer",
+        "amount": 20066,
+        "status": "Overdue",
+        "due_date": "2024-07-25",
+        "date": "2024-06-03",
+        "items": [
+            {
+                "product_id": 121,
+                "description": "WhatsApp Business Setup #385",
+                "qty": 1,
+                "price": 24773,
+                "actual_selling_price": 20066,
+                "total": 20066
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-06-03 08:42:00",
+        "updated_at": "2024-06-03 13:40:00"
+    },
+    {
+        "id": 56,
+        "invoice_no": "INV-2456",
+        "customer": "Kabir Verma",
+        "customer_type": "customer",
+        "amount": 26223,
+        "status": "Paid",
+        "due_date": "2026-07-20",
+        "date": "2026-07-11",
+        "items": [
+            {
+                "product_id": 140,
+                "description": "GST Registration #198",
+                "qty": 5,
+                "price": 6475,
+                "actual_selling_price": 5244,
+                "total": 26223
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2026-07-11 11:16:00",
+        "updated_at": "2026-07-11 15:17:00"
+    },
+    {
+        "id": 57,
+        "invoice_no": "INV-2457",
+        "customer": "Ashok Das",
+        "customer_type": "customer",
+        "amount": 22987,
+        "status": "Sent",
+        "due_date": "2024-09-13",
+        "date": "2024-09-04",
+        "items": [
+            {
+                "product_id": 104,
+                "description": "Inventory Audit #530",
+                "qty": 1,
+                "price": 27366,
+                "actual_selling_price": 22987,
+                "total": 22987
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-09-04 17:20:00",
+        "updated_at": "2024-09-04 17:51:00"
+    },
+    {
+        "id": 58,
+        "invoice_no": "INV-2458",
+        "customer": "Anil Kapoor",
+        "customer_type": "customer",
+        "amount": 19996,
+        "status": "Overdue",
+        "due_date": "2025-03-05",
+        "date": "2025-01-22",
+        "items": [
+            {
+                "product_id": 90,
+                "description": "SSL Certificate Pack #531",
+                "qty": 1,
+                "price": 23525,
+                "actual_selling_price": 19996,
+                "total": 19996
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2025-01-22 15:05:00",
+        "updated_at": "2025-01-22 08:19:00"
+    },
+    {
+        "id": 59,
+        "invoice_no": "INV-2459",
+        "customer": "Ravi Mehta",
+        "customer_type": "customer",
+        "amount": 191652,
+        "status": "Paid",
+        "due_date": "2024-09-29",
+        "date": "2024-09-10",
+        "items": [
+            {
+                "product_id": 155,
+                "description": "Signage & Banner #115",
+                "qty": 4,
+                "price": 48891,
+                "actual_selling_price": 47913,
+                "total": 191652
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2024-09-10 18:59:00",
+        "updated_at": "2024-09-10 18:51:00"
+    },
+    {
+        "id": 60,
+        "invoice_no": "INV-2460",
+        "customer": "Vivaan Kamath",
+        "customer_type": "customer",
+        "amount": 156863,
+        "status": "Draft",
+        "due_date": "2026-05-09",
+        "date": "2026-03-11",
+        "items": [
+            {
+                "product_id": 79,
+                "description": "Annual Audit Service #260",
+                "qty": 2,
+                "price": 85252,
+                "actual_selling_price": 78431,
+                "total": 156863
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2026-03-11 17:30:00",
+        "updated_at": "2026-03-11 14:20:00"
+    },
+    {
+        "id": 61,
+        "invoice_no": "INV-2461",
+        "customer": "Pawan Tiwari",
+        "customer_type": "customer",
+        "amount": 28293,
+        "status": "Cancelled",
+        "due_date": "2026-05-21",
+        "date": "2026-03-27",
+        "items": [
+            {
+                "product_id": 176,
+                "description": "HR Software License #964",
+                "qty": 1,
+                "price": 32521,
+                "actual_selling_price": 28293,
+                "total": 28293
+            }
+        ],
+        "notes": "Monthly service",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2026-03-27 11:11:00",
+        "updated_at": "2026-03-27 11:03:00"
+    },
+    {
+        "id": 62,
+        "invoice_no": "INV-2462",
+        "customer": "Krishna Iyer",
+        "customer_type": "customer",
+        "amount": 388997,
+        "status": "Paid",
+        "due_date": "2024-05-24",
+        "date": "2024-04-01",
+        "items": [
+            {
+                "product_id": 108,
+                "description": "Data Analytics Dashboard #624",
+                "qty": 4,
+                "price": 99234,
+                "actual_selling_price": 97249,
+                "total": 388997
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2024-04-01 11:03:00",
+        "updated_at": "2024-04-01 09:47:00"
+    },
+    {
+        "id": 63,
+        "invoice_no": "INV-2463",
+        "customer": "Sanjay Mishra",
+        "customer_type": "customer",
+        "amount": 65618,
+        "status": "Draft",
+        "due_date": "2024-12-11",
+        "date": "2024-11-30",
+        "items": [
+            {
+                "product_id": 192,
+                "description": "Bulk SMS Package #997",
+                "qty": 4,
+                "price": 17268,
+                "actual_selling_price": 16404,
+                "total": 65618
+            }
+        ],
+        "notes": "Project work",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-11-30 10:57:00",
+        "updated_at": "2024-11-30 10:39:00"
+    },
+    {
+        "id": 64,
+        "invoice_no": "INV-2464",
+        "customer": "Ashish Singh",
+        "customer_type": "customer",
+        "amount": 72485,
+        "status": "Paid",
+        "due_date": "2025-09-10",
+        "date": "2025-08-05",
+        "items": [
+            {
+                "product_id": 141,
+                "description": "Employee Training Program #778",
+                "qty": 1,
+                "price": 81444,
+                "actual_selling_price": 72485,
+                "total": 72485
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2025-08-05 13:58:00",
+        "updated_at": "2025-08-05 18:51:00"
+    },
+    {
+        "id": 65,
+        "invoice_no": "INV-2465",
+        "customer": "Mukesh Sinha",
+        "customer_type": "customer",
+        "amount": 11880,
+        "status": "Sent",
+        "due_date": "2025-06-07",
+        "date": "2025-05-19",
+        "items": [
+            {
+                "product_id": 195,
+                "description": "Data Analytics Dashboard #488",
+                "qty": 1,
+                "price": 12914,
+                "actual_selling_price": 11880,
+                "total": 11880
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2025-05-19 15:20:00",
+        "updated_at": "2025-05-19 12:23:00"
+    },
+    {
+        "id": 66,
+        "invoice_no": "INV-2466",
+        "customer": "Darshan Patel",
+        "customer_type": "customer",
+        "amount": 129623,
+        "status": "Sent",
+        "due_date": "2025-05-15",
+        "date": "2025-03-22",
+        "items": [
+            {
+                "product_id": 165,
+                "description": "Backup Solution #852",
+                "qty": 2,
+                "price": 79039,
+                "actual_selling_price": 64811,
+                "total": 129623
+            }
+        ],
+        "notes": "Monthly service",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2025-03-22 17:19:00",
+        "updated_at": "2025-03-22 15:11:00"
+    },
+    {
+        "id": 67,
+        "invoice_no": "INV-2467",
+        "customer": "Krishna Mukherjee",
+        "customer_type": "customer",
+        "amount": 31680,
+        "status": "Paid",
+        "due_date": "2024-03-15",
+        "date": "2024-01-16",
+        "items": [
+            {
+                "product_id": 7,
+                "description": "Logo Design Package",
+                "qty": 4,
+                "price": 8000,
+                "actual_selling_price": 7920,
+                "total": 31680
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-01-16 16:24:00",
+        "updated_at": "2024-01-16 09:26:00"
+    },
+    {
+        "id": 68,
+        "invoice_no": "INV-2468",
+        "customer": "Rajesh Kamath",
+        "customer_type": "customer",
+        "amount": 118651,
+        "status": "Paid",
+        "due_date": "2024-04-07",
+        "date": "2024-02-14",
+        "items": [
+            {
+                "product_id": 133,
+                "description": "GST Filing Service #240",
+                "qty": 2,
+                "price": 66658,
+                "actual_selling_price": 59325,
+                "total": 118651
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-02-14 16:32:00",
+        "updated_at": "2024-02-14 13:55:00"
+    },
+    {
+        "id": 69,
+        "invoice_no": "INV-2469",
+        "customer": "Sai Pandey",
+        "customer_type": "customer",
+        "amount": 19022,
+        "status": "Overdue",
+        "due_date": "2025-06-05",
+        "date": "2025-05-06",
+        "items": [
+            {
+                "product_id": 33,
+                "description": "SSL Certificate Pack #521",
+                "qty": 1,
+                "price": 21617,
+                "actual_selling_price": 19022,
+                "total": 19022
+            }
+        ],
+        "notes": "Project work",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2025-05-06 11:16:00",
+        "updated_at": "2025-05-06 10:40:00"
+    },
+    {
+        "id": 70,
+        "invoice_no": "INV-2470",
+        "customer": "Naveen Das",
+        "customer_type": "customer",
+        "amount": 178710,
+        "status": "Sent",
+        "due_date": "2024-09-24",
+        "date": "2024-09-10",
+        "items": [
+            {
+                "product_id": 11,
+                "description": "IT Infrastructure Audit #384",
+                "qty": 3,
+                "price": 60786,
+                "actual_selling_price": 59570,
+                "total": 178710
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2024-09-10 16:30:00",
+        "updated_at": "2024-09-10 13:17:00"
+    },
+    {
+        "id": 71,
+        "invoice_no": "INV-2471",
+        "customer": "Darshan Bhat",
+        "customer_type": "customer",
+        "amount": 24126,
+        "status": "Overdue",
+        "due_date": "2026-01-23",
+        "date": "2025-11-29",
+        "items": [
+            {
+                "product_id": 54,
+                "description": "Payment Gateway Integration #293",
+                "qty": 4,
+                "price": 7096,
+                "actual_selling_price": 6031,
+                "total": 24126
+            }
+        ],
+        "notes": "Consultation",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2025-11-29 11:05:00",
+        "updated_at": "2025-11-29 18:51:00"
+    },
+    {
+        "id": 72,
+        "invoice_no": "INV-2472",
+        "customer": "Vikram Saxena",
+        "customer_type": "customer",
+        "amount": 11479,
+        "status": "Sent",
+        "due_date": "2025-08-20",
+        "date": "2025-08-03",
+        "items": [
+            {
+                "product_id": 78,
+                "description": "Loyalty Program Setup #685",
+                "qty": 5,
+                "price": 2639,
+                "actual_selling_price": 2295,
+                "total": 11479
+            }
+        ],
+        "notes": "Project work",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2025-08-03 14:35:00",
+        "updated_at": "2025-08-03 09:35:00"
+    },
+    {
+        "id": 73,
+        "invoice_no": "INV-2473",
+        "customer": "Siddharth Reddy",
+        "customer_type": "customer",
+        "amount": 80732,
+        "status": "Draft",
+        "due_date": "2024-05-18",
+        "date": "2024-04-29",
+        "items": [
+            {
+                "product_id": 191,
+                "description": "Premium Support Plan #574",
+                "qty": 1,
+                "price": 84096,
+                "actual_selling_price": 80732,
+                "total": 80732
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2024-04-29 18:06:00",
+        "updated_at": "2024-04-29 17:56:00"
+    },
+    {
+        "id": 74,
+        "invoice_no": "INV-2474",
+        "customer": "Vivaan Kamath",
+        "customer_type": "customer",
+        "amount": 57402,
+        "status": "Cancelled",
+        "due_date": "2024-02-10",
+        "date": "2024-01-26",
+        "items": [
+            {
+                "product_id": 87,
+                "description": "Payment Gateway Integration #740",
+                "qty": 1,
+                "price": 65230,
+                "actual_selling_price": 57402,
+                "total": 57402
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2024-01-26 09:30:00",
+        "updated_at": "2024-01-26 18:32:00"
+    },
+    {
+        "id": 75,
+        "invoice_no": "INV-2475",
+        "customer": "Pawan Saxena",
+        "customer_type": "customer",
+        "amount": 117462,
+        "status": "Overdue",
+        "due_date": "2025-12-28",
+        "date": "2025-11-17",
+        "items": [
+            {
+                "product_id": 196,
+                "description": "Signage & Banner #383",
+                "qty": 5,
+                "price": 26696,
+                "actual_selling_price": 23492,
+                "total": 117462
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2025-11-17 12:23:00",
+        "updated_at": "2025-11-17 16:30:00"
+    },
+    {
+        "id": 76,
+        "invoice_no": "INV-2476",
+        "customer": "Nikhil Mukherjee",
+        "customer_type": "customer",
+        "amount": 38910,
+        "status": "Paid",
+        "due_date": "2025-07-18",
+        "date": "2025-06-13",
+        "items": [
+            {
+                "product_id": 89,
+                "description": "SSL Certificate Pack #908",
+                "qty": 1,
+                "price": 48038,
+                "actual_selling_price": 38910,
+                "total": 38910
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-06-13 08:45:00",
+        "updated_at": "2025-06-13 08:37:00"
+    },
+    {
+        "id": 77,
+        "invoice_no": "INV-2477",
+        "customer": "Ajay Kapoor",
+        "customer_type": "customer",
+        "amount": 51668,
+        "status": "Draft",
+        "due_date": "2025-05-07",
+        "date": "2025-03-30",
+        "items": [
+            {
+                "product_id": 11,
+                "description": "IT Infrastructure Audit #384",
+                "qty": 1,
+                "price": 60786,
+                "actual_selling_price": 51668,
+                "total": 51668
+            }
+        ],
+        "notes": "Consultation",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-03-30 12:48:00",
+        "updated_at": "2025-03-30 10:44:00"
+    },
+    {
+        "id": 78,
+        "invoice_no": "INV-2478",
+        "customer": "Prakash Verma",
+        "customer_type": "customer",
+        "amount": 119211,
+        "status": "Cancelled",
+        "due_date": "2025-05-31",
+        "date": "2025-04-20",
+        "items": [
+            {
+                "product_id": 182,
+                "description": "API Integration #266",
+                "qty": 2,
+                "price": 67734,
+                "actual_selling_price": 59605,
+                "total": 119211
+            }
+        ],
+        "notes": "Project work",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2025-04-20 12:22:00",
+        "updated_at": "2025-04-20 18:37:00"
+    },
+    {
+        "id": 79,
+        "invoice_no": "INV-2479",
+        "customer": "Suresh Naik",
+        "customer_type": "customer",
+        "amount": 147012,
+        "status": "Draft",
+        "due_date": "2024-09-26",
+        "date": "2024-09-09",
+        "items": [
+            {
+                "product_id": 165,
+                "description": "Backup Solution #852",
+                "qty": 2,
+                "price": 79039,
+                "actual_selling_price": 73506,
+                "total": 147012
+            }
+        ],
+        "notes": "Consultation",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-09-09 10:40:00",
+        "updated_at": "2024-09-09 17:12:00"
+    },
+    {
+        "id": 80,
+        "invoice_no": "INV-2480",
+        "customer": "Ganesh Shah",
+        "customer_type": "customer",
+        "amount": 450932,
+        "status": "Overdue",
+        "due_date": "2026-06-23",
+        "date": "2026-06-03",
+        "items": [
+            {
+                "product_id": 35,
+                "description": "Annual Audit Service #842",
+                "qty": 5,
+                "price": 99106,
+                "actual_selling_price": 90186,
+                "total": 450932
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2026-06-03 16:21:00",
+        "updated_at": "2026-06-03 08:50:00"
+    },
+    {
+        "id": 81,
+        "invoice_no": "INV-2481",
+        "customer": "Rajesh Reddy",
+        "customer_type": "customer",
+        "amount": 57141,
+        "status": "Overdue",
+        "due_date": "2026-08-31",
+        "date": "2026-08-07",
+        "items": [
+            {
+                "product_id": 80,
+                "description": "API Integration #197",
+                "qty": 3,
+                "price": 22148,
+                "actual_selling_price": 19047,
+                "total": 57141
+            }
+        ],
+        "notes": "Project work",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2026-08-07 10:17:00",
+        "updated_at": "2026-08-07 08:53:00"
+    },
+    {
+        "id": 82,
+        "invoice_no": "INV-2482",
+        "customer": "Rohan Bhat",
+        "customer_type": "customer",
+        "amount": 145886,
+        "status": "Cancelled",
+        "due_date": "2025-07-02",
+        "date": "2025-06-23",
+        "items": [
+            {
+                "product_id": 96,
+                "description": "IT Infrastructure Audit #963",
+                "qty": 2,
+                "price": 77599,
+                "actual_selling_price": 72943,
+                "total": 145886
+            }
+        ],
+        "notes": "Consultation",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2025-06-23 08:39:00",
+        "updated_at": "2025-06-23 14:27:00"
+    },
+    {
+        "id": 83,
+        "invoice_no": "INV-2483",
+        "customer": "Gaurav Gupta",
+        "customer_type": "customer",
+        "amount": 70903,
+        "status": "Draft",
+        "due_date": "2026-04-27",
+        "date": "2026-03-31",
+        "items": [
+            {
+                "product_id": 33,
+                "description": "SSL Certificate Pack #521",
+                "qty": 4,
+                "price": 21617,
+                "actual_selling_price": 17725,
+                "total": 70903
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2026-03-31 17:34:00",
+        "updated_at": "2026-03-31 09:54:00"
+    },
+    {
+        "id": 84,
+        "invoice_no": "INV-2484",
+        "customer": "Aarush Reddy",
+        "customer_type": "customer",
+        "amount": 70156,
+        "status": "Draft",
+        "due_date": "2025-04-25",
+        "date": "2025-03-08",
+        "items": [
+            {
+                "product_id": 128,
+                "description": "Inventory System Setup #817",
+                "qty": 1,
+                "price": 75437,
+                "actual_selling_price": 70156,
+                "total": 70156
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-03-08 11:18:00",
+        "updated_at": "2025-03-08 13:11:00"
+    },
+    {
+        "id": 85,
+        "invoice_no": "INV-2485",
+        "customer": "Manoj Mukherjee",
+        "customer_type": "customer",
+        "amount": 354938,
+        "status": "Cancelled",
+        "due_date": "2026-05-05",
+        "date": "2026-04-22",
+        "items": [
+            {
+                "product_id": 171,
+                "description": "API Integration #638",
+                "qty": 4,
+                "price": 92432,
+                "actual_selling_price": 88734,
+                "total": 354938
+            }
+        ],
+        "notes": "Monthly service",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2026-04-22 12:29:00",
+        "updated_at": "2026-04-22 09:13:00"
+    },
+    {
+        "id": 86,
+        "invoice_no": "INV-2486",
+        "customer": "Aarush Reddy",
+        "customer_type": "customer",
+        "amount": 203920,
+        "status": "Overdue",
+        "due_date": "2025-09-13",
+        "date": "2025-08-17",
+        "items": [
+            {
+                "product_id": 165,
+                "description": "Backup Solution #852",
+                "qty": 3,
+                "price": 79039,
+                "actual_selling_price": 67973,
+                "total": 203920
+            }
+        ],
+        "notes": "Project work",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2025-08-17 15:36:00",
+        "updated_at": "2025-08-17 18:19:00"
+    },
+    {
+        "id": 87,
+        "invoice_no": "INV-2487",
+        "customer": "Sachin Kapoor",
+        "customer_type": "customer",
+        "amount": 404829,
+        "status": "Sent",
+        "due_date": "2025-07-19",
+        "date": "2025-07-05",
+        "items": [
+            {
+                "product_id": 84,
+                "description": "Warehouse Management Setup #824",
+                "qty": 5,
+                "price": 95254,
+                "actual_selling_price": 80965,
+                "total": 404829
+            }
+        ],
+        "notes": "Consultation",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-07-05 13:41:00",
+        "updated_at": "2025-07-05 18:00:00"
+    },
+    {
+        "id": 88,
+        "invoice_no": "INV-2488",
+        "customer": "Rajesh Sinha",
+        "customer_type": "customer",
+        "amount": 151258,
+        "status": "Overdue",
+        "due_date": "2025-09-24",
+        "date": "2025-08-26",
+        "items": [
+            {
+                "product_id": 17,
+                "description": "Business Card Package #721",
+                "qty": 2,
+                "price": 92231,
+                "actual_selling_price": 75629,
+                "total": 151258
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-08-26 17:30:00",
+        "updated_at": "2025-08-26 09:35:00"
+    },
+    {
+        "id": 89,
+        "invoice_no": "INV-2489",
+        "customer": "Darshan Patel",
+        "customer_type": "customer",
+        "amount": 44130,
+        "status": "Paid",
+        "due_date": "2025-06-24",
+        "date": "2025-06-04",
+        "items": [
+            {
+                "product_id": 186,
+                "description": "Office Setup Package #555",
+                "qty": 3,
+                "price": 15165,
+                "actual_selling_price": 14710,
+                "total": 44130
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2025-06-04 16:37:00",
+        "updated_at": "2025-06-04 08:40:00"
+    },
+    {
+        "id": 90,
+        "invoice_no": "INV-2490",
+        "customer": "Dhruv Joshi",
+        "customer_type": "customer",
+        "amount": 35185,
+        "status": "Cancelled",
+        "due_date": "2026-01-01",
+        "date": "2025-12-23",
+        "items": [
+            {
+                "product_id": 101,
+                "description": "Annual Audit Service #660",
+                "qty": 3,
+                "price": 11968,
+                "actual_selling_price": 11728,
+                "total": 35185
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2025-12-23 13:25:00",
+        "updated_at": "2025-12-23 14:32:00"
+    },
+    {
+        "id": 91,
+        "invoice_no": "INV-2491",
+        "customer": "Hitesh Bhat",
+        "customer_type": "customer",
+        "amount": 359000,
+        "status": "Sent",
+        "due_date": "2024-08-05",
+        "date": "2024-06-16",
+        "items": [
+            {
+                "product_id": 124,
+                "description": "Anti-Virus License #420",
+                "qty": 5,
+                "price": 87561,
+                "actual_selling_price": 71800,
+                "total": 359000
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-06-16 14:01:00",
+        "updated_at": "2024-06-16 14:52:00"
+    },
+    {
+        "id": 92,
+        "invoice_no": "INV-2492",
+        "customer": "Rakesh Patel",
+        "customer_type": "customer",
+        "amount": 62289,
+        "status": "Paid",
+        "due_date": "2026-06-08",
+        "date": "2026-05-02",
+        "items": [
+            {
+                "product_id": 71,
+                "description": "Employee Training Program #851",
+                "qty": 1,
+                "price": 63561,
+                "actual_selling_price": 62289,
+                "total": 62289
+            }
+        ],
+        "notes": "Project work",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2026-05-02 15:37:00",
+        "updated_at": "2026-05-02 10:31:00"
+    },
+    {
+        "id": 93,
+        "invoice_no": "INV-2493",
+        "customer": "Kunal Chatterjee",
+        "customer_type": "customer",
+        "amount": 284568,
+        "status": "Cancelled",
+        "due_date": "2025-01-21",
+        "date": "2024-11-30",
+        "items": [
+            {
+                "product_id": 83,
+                "description": "Market Research Report #475",
+                "qty": 4,
+                "price": 72594,
+                "actual_selling_price": 71142,
+                "total": 284568
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-11-30 08:53:00",
+        "updated_at": "2024-11-30 08:53:00"
+    },
+    {
+        "id": 94,
+        "invoice_no": "INV-2494",
+        "customer": "Hitesh Banerjee",
+        "customer_type": "customer",
+        "amount": 118718,
+        "status": "Draft",
+        "due_date": "2025-02-08",
+        "date": "2024-12-14",
+        "items": [
+            {
+                "product_id": 87,
+                "description": "Payment Gateway Integration #740",
+                "qty": 2,
+                "price": 65230,
+                "actual_selling_price": 59359,
+                "total": 118718
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-12-14 17:46:00",
+        "updated_at": "2024-12-14 15:00:00"
+    },
+    {
+        "id": 95,
+        "invoice_no": "INV-2495",
+        "customer": "Anil Bhat",
+        "customer_type": "customer",
+        "amount": 430195,
+        "status": "Overdue",
+        "due_date": "2025-02-26",
+        "date": "2025-02-07",
+        "items": [
+            {
+                "product_id": 175,
+                "description": "Competitor Analysis #356",
+                "qty": 5,
+                "price": 86039,
+                "actual_selling_price": 86039,
+                "total": 430195
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-02-07 13:57:00",
+        "updated_at": "2025-02-07 16:47:00"
+    },
+    {
+        "id": 96,
+        "invoice_no": "INV-2496",
+        "customer": "Karan Iyer",
+        "customer_type": "customer",
+        "amount": 181048,
+        "status": "Paid",
+        "due_date": "2025-12-03",
+        "date": "2025-10-15",
+        "items": [
+            {
+                "product_id": 128,
+                "description": "Inventory System Setup #817",
+                "qty": 3,
+                "price": 75437,
+                "actual_selling_price": 60349,
+                "total": 181048
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-10-15 10:04:00",
+        "updated_at": "2025-10-15 13:42:00"
+    },
+    {
+        "id": 97,
+        "invoice_no": "INV-2497",
+        "customer": "Darshan Nair",
+        "customer_type": "customer",
+        "amount": 69869,
+        "status": "Paid",
+        "due_date": "2025-03-28",
+        "date": "2025-03-12",
+        "items": [
+            {
+                "product_id": 90,
+                "description": "SSL Certificate Pack #531",
+                "qty": 3,
+                "price": 23525,
+                "actual_selling_price": 23289,
+                "total": 69869
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-03-12 10:16:00",
+        "updated_at": "2025-03-12 18:51:00"
+    },
+    {
+        "id": 98,
+        "invoice_no": "INV-2498",
+        "customer": "Anil Mukherjee",
+        "customer_type": "customer",
+        "amount": 42192,
+        "status": "Paid",
+        "due_date": "2026-11-03",
+        "date": "2026-09-15",
+        "items": [
+            {
+                "product_id": 116,
+                "description": "Server Maintenance #182",
+                "qty": 2,
+                "price": 26045,
+                "actual_selling_price": 21096,
+                "total": 42192
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2026-09-15 10:06:00",
+        "updated_at": "2026-09-15 18:54:00"
+    },
+    {
+        "id": 99,
+        "invoice_no": "INV-2499",
+        "customer": "Sanjay Hegde",
+        "customer_type": "customer",
+        "amount": 13166,
+        "status": "Cancelled",
+        "due_date": "2025-04-14",
+        "date": "2025-02-19",
+        "items": [
+            {
+                "product_id": 26,
+                "description": "Office Setup Package #711",
+                "qty": 5,
+                "price": 3062,
+                "actual_selling_price": 2633,
+                "total": 13166
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-02-19 09:32:00",
+        "updated_at": "2025-02-19 16:49:00"
+    },
+    {
+        "id": 100,
+        "invoice_no": "INV-2500",
+        "customer": "Rohan Sinha",
+        "customer_type": "customer",
+        "amount": 387132,
+        "status": "Sent",
+        "due_date": "2026-05-09",
+        "date": "2026-04-16",
+        "items": [
+            {
+                "product_id": 63,
+                "description": "Payroll Management #697",
+                "qty": 5,
+                "price": 88996,
+                "actual_selling_price": 77426,
+                "total": 387132
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2026-04-16 15:34:00",
+        "updated_at": "2026-04-16 11:23:00"
+    },
+    {
+        "id": 101,
+        "invoice_no": "INV-2501",
+        "customer": "Darshan Bhat",
+        "customer_type": "customer",
+        "amount": 53301,
+        "status": "Sent",
+        "due_date": "2025-06-23",
+        "date": "2025-05-05",
+        "items": [
+            {
+                "product_id": 154,
+                "description": "Email Hosting #517",
+                "qty": 3,
+                "price": 17767,
+                "actual_selling_price": 17767,
+                "total": 53301
+            }
+        ],
+        "notes": "Consultation",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-05-05 17:06:00",
+        "updated_at": "2025-05-05 08:17:00"
+    },
+    {
+        "id": 102,
+        "invoice_no": "INV-2502",
+        "customer": "Anil Gupta",
+        "customer_type": "customer",
+        "amount": 32035,
+        "status": "Cancelled",
+        "due_date": "2026-01-21",
+        "date": "2025-11-23",
+        "items": [
+            {
+                "product_id": 91,
+                "description": "SSL Certificate Pack #245",
+                "qty": 4,
+                "price": 9101,
+                "actual_selling_price": 8008,
+                "total": 32035
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-11-23 12:25:00",
+        "updated_at": "2025-11-23 09:59:00"
+    },
+    {
+        "id": 103,
+        "invoice_no": "INV-2503",
+        "customer": "Mahesh Mukherjee",
+        "customer_type": "customer",
+        "amount": 59439,
+        "status": "Draft",
+        "due_date": "2025-07-16",
+        "date": "2025-06-18",
+        "items": [
+            {
+                "product_id": 36,
+                "description": "HR Software License #334",
+                "qty": 1,
+                "price": 65318,
+                "actual_selling_price": 59439,
+                "total": 59439
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-06-18 13:21:00",
+        "updated_at": "2025-06-18 18:46:00"
+    },
+    {
+        "id": 104,
+        "invoice_no": "INV-2504",
+        "customer": "Rahul Gupta",
+        "customer_type": "customer",
+        "amount": 187129,
+        "status": "Sent",
+        "due_date": "2024-08-31",
+        "date": "2024-07-09",
+        "items": [
+            {
+                "product_id": 153,
+                "description": "Inventory Audit #974",
+                "qty": 4,
+                "price": 47255,
+                "actual_selling_price": 46782,
+                "total": 187129
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-07-09 18:07:00",
+        "updated_at": "2024-07-09 18:32:00"
+    },
+    {
+        "id": 105,
+        "invoice_no": "INV-2505",
+        "customer": "Tushar Tiwari",
+        "customer_type": "customer",
+        "amount": 254524,
+        "status": "Cancelled",
+        "due_date": "2025-11-25",
+        "date": "2025-11-11",
+        "items": [
+            {
+                "product_id": 96,
+                "description": "IT Infrastructure Audit #963",
+                "qty": 4,
+                "price": 77599,
+                "actual_selling_price": 63631,
+                "total": 254524
+            }
+        ],
+        "notes": "Consultation",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2025-11-11 12:50:00",
+        "updated_at": "2025-11-11 17:33:00"
+    },
+    {
+        "id": 106,
+        "invoice_no": "INV-2506",
+        "customer": "Karan Kumar",
+        "customer_type": "customer",
+        "amount": 43847,
+        "status": "Paid",
+        "due_date": "2025-06-13",
+        "date": "2025-05-31",
+        "items": [
+            {
+                "product_id": 185,
+                "description": "GST Filing Service #243",
+                "qty": 1,
+                "price": 53472,
+                "actual_selling_price": 43847,
+                "total": 43847
+            }
+        ],
+        "notes": "Consultation",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-05-31 17:52:00",
+        "updated_at": "2025-05-31 10:42:00"
+    },
+    {
+        "id": 107,
+        "invoice_no": "INV-2507",
+        "customer": "Pawan Patel",
+        "customer_type": "customer",
+        "amount": 119494,
+        "status": "Draft",
+        "due_date": "2026-05-13",
+        "date": "2026-05-05",
+        "items": [
+            {
+                "product_id": 71,
+                "description": "Employee Training Program #851",
+                "qty": 2,
+                "price": 63561,
+                "actual_selling_price": 59747,
+                "total": 119494
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2026-05-05 13:54:00",
+        "updated_at": "2026-05-05 15:58:00"
+    },
+    {
+        "id": 108,
+        "invoice_no": "INV-2508",
+        "customer": "Vikram Shah",
+        "customer_type": "customer",
+        "amount": 112053,
+        "status": "Paid",
+        "due_date": "2026-05-08",
+        "date": "2026-03-22",
+        "items": [
+            {
+                "product_id": 57,
+                "description": "Employee Training Program #753",
+                "qty": 4,
+                "price": 33751,
+                "actual_selling_price": 28013,
+                "total": 112053
+            }
+        ],
+        "notes": "Consultation",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2026-03-22 15:17:00",
+        "updated_at": "2026-03-22 10:24:00"
+    },
+    {
+        "id": 109,
+        "invoice_no": "INV-2509",
+        "customer": "Hitesh Banerjee",
+        "customer_type": "customer",
+        "amount": 191975,
+        "status": "Cancelled",
+        "due_date": "2024-09-26",
+        "date": "2024-08-06",
+        "items": [
+            {
+                "product_id": 23,
+                "description": "Office Setup Package #376",
+                "qty": 3,
+                "price": 71102,
+                "actual_selling_price": 63991,
+                "total": 191975
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-08-06 12:30:00",
+        "updated_at": "2024-08-06 15:06:00"
+    },
+    {
+        "id": 110,
+        "invoice_no": "INV-2510",
+        "customer": "Rahul Chatterjee",
+        "customer_type": "customer",
+        "amount": 78076,
+        "status": "Cancelled",
+        "due_date": "2025-10-07",
+        "date": "2025-08-16",
+        "items": [
+            {
+                "product_id": 31,
+                "description": "Custom CRM Setup #767",
+                "qty": 5,
+                "price": 19043,
+                "actual_selling_price": 15615,
+                "total": 78076
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2025-08-16 15:14:00",
+        "updated_at": "2025-08-16 09:34:00"
+    },
+    {
+        "id": 111,
+        "invoice_no": "INV-2511",
+        "customer": "Ashish Singh",
+        "customer_type": "customer",
+        "amount": 232422,
+        "status": "Sent",
+        "due_date": "2025-07-12",
+        "date": "2025-05-18",
+        "items": [
+            {
+                "product_id": 17,
+                "description": "Business Card Package #721",
+                "qty": 3,
+                "price": 92231,
+                "actual_selling_price": 77474,
+                "total": 232422
+            }
+        ],
+        "notes": "Monthly service",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2025-05-18 09:58:00",
+        "updated_at": "2025-05-18 18:51:00"
+    },
+    {
+        "id": 112,
+        "invoice_no": "INV-2512",
+        "customer": "Ayush Malhotra",
+        "customer_type": "customer",
+        "amount": 17800,
+        "status": "Sent",
+        "due_date": "2025-06-18",
+        "date": "2025-04-22",
+        "items": [
+            {
+                "product_id": 4,
+                "description": "Consulting Session",
+                "qty": 4,
+                "price": 5000,
+                "actual_selling_price": 4450,
+                "total": 17800
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-04-22 14:44:00",
+        "updated_at": "2025-04-22 13:17:00"
+    },
+    {
+        "id": 113,
+        "invoice_no": "INV-2513",
+        "customer": "Ashok Rao",
+        "customer_type": "customer",
+        "amount": 154908,
+        "status": "Cancelled",
+        "due_date": "2025-07-12",
+        "date": "2025-05-28",
+        "items": [
+            {
+                "product_id": 152,
+                "description": "Inventory System Setup #751",
+                "qty": 2,
+                "price": 83284,
+                "actual_selling_price": 77454,
+                "total": 154908
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-05-28 08:29:00",
+        "updated_at": "2025-05-28 16:45:00"
+    },
+    {
+        "id": 114,
+        "invoice_no": "INV-2514",
+        "customer": "Subodh Verma",
+        "customer_type": "customer",
+        "amount": 66123,
+        "status": "Paid",
+        "due_date": "2024-04-24",
+        "date": "2024-04-03",
+        "items": [
+            {
+                "product_id": 169,
+                "description": "Premium Support Plan #474",
+                "qty": 1,
+                "price": 78718,
+                "actual_selling_price": 66123,
+                "total": 66123
+            }
+        ],
+        "notes": "Project work",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2024-04-03 09:02:00",
+        "updated_at": "2024-04-03 15:28:00"
+    },
+    {
+        "id": 115,
+        "invoice_no": "INV-2515",
+        "customer": "Pankaj Gupta",
+        "customer_type": "customer",
+        "amount": 11561,
+        "status": "Draft",
+        "due_date": "2024-04-01",
+        "date": "2024-03-11",
+        "items": [
+            {
+                "product_id": 56,
+                "description": "Warehouse Management Setup #131",
+                "qty": 4,
+                "price": 3361,
+                "actual_selling_price": 2890,
+                "total": 11561
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-03-11 12:34:00",
+        "updated_at": "2024-03-11 12:04:00"
+    },
+    {
+        "id": 116,
+        "invoice_no": "INV-2516",
+        "customer": "Subodh Pandey",
+        "customer_type": "customer",
+        "amount": 301209,
+        "status": "Sent",
+        "due_date": "2024-03-02",
+        "date": "2024-02-22",
+        "items": [
+            {
+                "product_id": 124,
+                "description": "Anti-Virus License #420",
+                "qty": 4,
+                "price": 87561,
+                "actual_selling_price": 75302,
+                "total": 301209
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2024-02-22 08:29:00",
+        "updated_at": "2024-02-22 11:27:00"
+    },
+    {
+        "id": 117,
+        "invoice_no": "INV-2517",
+        "customer": "Sanjay Hegde",
+        "customer_type": "customer",
+        "amount": 193359,
+        "status": "Cancelled",
+        "due_date": "2024-08-19",
+        "date": "2024-07-31",
+        "items": [
+            {
+                "product_id": 200,
+                "description": "Company Incorporation #264",
+                "qty": 4,
+                "price": 58951,
+                "actual_selling_price": 48339,
+                "total": 193359
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-07-31 16:13:00",
+        "updated_at": "2024-07-31 17:08:00"
+    },
+    {
+        "id": 118,
+        "invoice_no": "INV-2518",
+        "customer": "Rahul Chatterjee",
+        "customer_type": "customer",
+        "amount": 113890,
+        "status": "Paid",
+        "due_date": "2025-10-17",
+        "date": "2025-08-31",
+        "items": [
+            {
+                "product_id": 68,
+                "description": "Custom CRM Setup #555",
+                "qty": 2,
+                "price": 56945,
+                "actual_selling_price": 56945,
+                "total": 113890
+            }
+        ],
+        "notes": "Consultation",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-08-31 14:58:00",
+        "updated_at": "2025-08-31 15:14:00"
+    },
+    {
+        "id": 119,
+        "invoice_no": "INV-2519",
+        "customer": "Aarush Reddy",
+        "customer_type": "customer",
+        "amount": 17480,
+        "status": "Sent",
+        "due_date": "2024-04-20",
+        "date": "2024-03-08",
+        "items": [
+            {
+                "product_id": 70,
+                "description": "Customer Survey Tool #767",
+                "qty": 1,
+                "price": 17657,
+                "actual_selling_price": 17480,
+                "total": 17480
+            }
+        ],
+        "notes": "Project work",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-03-08 08:14:00",
+        "updated_at": "2024-03-08 14:22:00"
+    },
+    {
+        "id": 120,
+        "invoice_no": "INV-2520",
+        "customer": "Subodh Hegde",
+        "customer_type": "customer",
+        "amount": 119186,
+        "status": "Overdue",
+        "due_date": "2024-06-14",
+        "date": "2024-05-26",
+        "items": [
+            {
+                "product_id": 34,
+                "description": "IT Infrastructure Audit #445",
+                "qty": 2,
+                "price": 68498,
+                "actual_selling_price": 59593,
+                "total": 119186
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-05-26 12:54:00",
+        "updated_at": "2024-05-26 12:41:00"
+    },
+    {
+        "id": 121,
+        "invoice_no": "INV-2521",
+        "customer": "Pawan Tiwari",
+        "customer_type": "customer",
+        "amount": 152443,
+        "status": "Overdue",
+        "due_date": "2025-01-19",
+        "date": "2024-12-14",
+        "items": [
+            {
+                "product_id": 173,
+                "description": "E-Commerce Setup #616",
+                "qty": 3,
+                "price": 55233,
+                "actual_selling_price": 50814,
+                "total": 152443
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2024-12-14 08:52:00",
+        "updated_at": "2024-12-14 12:56:00"
+    },
+    {
+        "id": 122,
+        "invoice_no": "INV-2522",
+        "customer": "Rahul Chatterjee",
+        "customer_type": "customer",
+        "amount": 195564,
+        "status": "Paid",
+        "due_date": "2024-12-16",
+        "date": "2024-11-07",
+        "items": [
+            {
+                "product_id": 155,
+                "description": "Signage & Banner #115",
+                "qty": 5,
+                "price": 48891,
+                "actual_selling_price": 39112,
+                "total": 195564
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2024-11-07 09:19:00",
+        "updated_at": "2024-11-07 09:06:00"
+    },
+    {
+        "id": 123,
+        "invoice_no": "INV-2523",
+        "customer": "Ayaan Chatterjee",
+        "customer_type": "customer",
+        "amount": 291032,
+        "status": "Cancelled",
+        "due_date": "2024-02-21",
+        "date": "2024-01-09",
+        "items": [
+            {
+                "product_id": 172,
+                "description": "Annual Audit Service #463",
+                "qty": 5,
+                "price": 61270,
+                "actual_selling_price": 58206,
+                "total": 291032
+            }
+        ],
+        "notes": "Monthly service",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2024-01-09 11:59:00",
+        "updated_at": "2024-01-09 15:12:00"
+    },
+    {
+        "id": 124,
+        "invoice_no": "INV-2524",
+        "customer": "Arjun Rao",
+        "customer_type": "customer",
+        "amount": 72303,
+        "status": "Overdue",
+        "due_date": "2026-08-03",
+        "date": "2026-06-09",
+        "items": [
+            {
+                "product_id": 193,
+                "description": "Server Maintenance #116",
+                "qty": 1,
+                "price": 73779,
+                "actual_selling_price": 72303,
+                "total": 72303
+            }
+        ],
+        "notes": "Project work",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2026-06-09 17:17:00",
+        "updated_at": "2026-06-09 17:42:00"
+    },
+    {
+        "id": 125,
+        "invoice_no": "INV-2525",
+        "customer": "Pranav Gupta",
+        "customer_type": "customer",
+        "amount": 87561,
+        "status": "Paid",
+        "due_date": "2025-09-01",
+        "date": "2025-08-17",
+        "items": [
+            {
+                "product_id": 124,
+                "description": "Anti-Virus License #420",
+                "qty": 1,
+                "price": 87561,
+                "actual_selling_price": 87561,
+                "total": 87561
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-08-17 10:54:00",
+        "updated_at": "2025-08-17 09:16:00"
+    },
+    {
+        "id": 126,
+        "invoice_no": "INV-2526",
+        "customer": "Rajesh Sharma",
+        "customer_type": "customer",
+        "amount": 152122,
+        "status": "Paid",
+        "due_date": "2024-04-22",
+        "date": "2024-04-08",
+        "items": [
+            {
+                "product_id": 156,
+                "description": "Loyalty Program Setup #319",
+                "qty": 2,
+                "price": 91640,
+                "actual_selling_price": 76061,
+                "total": 152122
+            }
+        ],
+        "notes": "Monthly service",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-04-08 15:12:00",
+        "updated_at": "2024-04-08 09:44:00"
+    },
+    {
+        "id": 127,
+        "invoice_no": "INV-2527",
+        "customer": "Ashish Singh",
+        "customer_type": "customer",
+        "amount": 5515,
+        "status": "Draft",
+        "due_date": "2025-03-20",
+        "date": "2025-02-10",
+        "items": [
+            {
+                "product_id": 86,
+                "description": "Market Research Report #576",
+                "qty": 1,
+                "price": 6726,
+                "actual_selling_price": 5515,
+                "total": 5515
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-02-10 12:33:00",
+        "updated_at": "2025-02-10 13:30:00"
+    },
+    {
+        "id": 128,
+        "invoice_no": "INV-2528",
+        "customer": "Manoj Patel",
+        "customer_type": "customer",
+        "amount": 391573,
+        "status": "Overdue",
+        "due_date": "2026-05-12",
+        "date": "2026-03-16",
+        "items": [
+            {
+                "product_id": 76,
+                "description": "API Integration #414",
+                "qty": 5,
+                "price": 90017,
+                "actual_selling_price": 78314,
+                "total": 391573
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2026-03-16 15:26:00",
+        "updated_at": "2026-03-16 16:54:00"
+    },
+    {
+        "id": 129,
+        "invoice_no": "INV-2529",
+        "customer": "Siddharth Malhotra",
+        "customer_type": "customer",
+        "amount": 153559,
+        "status": "Sent",
+        "due_date": "2026-09-08",
+        "date": "2026-07-12",
+        "items": [
+            {
+                "product_id": 106,
+                "description": "POS Terminal Setup #118",
+                "qty": 4,
+                "price": 41728,
+                "actual_selling_price": 38389,
+                "total": 153559
+            }
+        ],
+        "notes": "Monthly service",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2026-07-12 11:56:00",
+        "updated_at": "2026-07-12 08:32:00"
+    },
+    {
+        "id": 130,
+        "invoice_no": "INV-2530",
+        "customer": "Siddharth Banerjee",
+        "customer_type": "customer",
+        "amount": 130688,
+        "status": "Draft",
+        "due_date": "2025-09-20",
+        "date": "2025-09-11",
+        "items": [
+            {
+                "product_id": 43,
+                "description": "Legal Compliance Package #894",
+                "qty": 2,
+                "price": 71807,
+                "actual_selling_price": 65344,
+                "total": 130688
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-09-11 11:42:00",
+        "updated_at": "2025-09-11 18:01:00"
+    },
+    {
+        "id": 131,
+        "invoice_no": "INV-2531",
+        "customer": "Pawan Patel",
+        "customer_type": "customer",
+        "amount": 90332,
+        "status": "Draft",
+        "due_date": "2024-03-02",
+        "date": "2024-02-18",
+        "items": [
+            {
+                "product_id": 42,
+                "description": "GST Registration #865",
+                "qty": 1,
+                "price": 98187,
+                "actual_selling_price": 90332,
+                "total": 90332
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-02-18 10:00:00",
+        "updated_at": "2024-02-18 12:42:00"
+    },
+    {
+        "id": 132,
+        "invoice_no": "INV-2532",
+        "customer": "Ravi Tiwari",
+        "customer_type": "customer",
+        "amount": 383674,
+        "status": "Draft",
+        "due_date": "2025-12-26",
+        "date": "2025-10-30",
+        "items": [
+            {
+                "product_id": 72,
+                "description": "Trademark Registration #909",
+                "qty": 5,
+                "price": 91351,
+                "actual_selling_price": 76734,
+                "total": 383674
+            }
+        ],
+        "notes": "Monthly service",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2025-10-30 09:07:00",
+        "updated_at": "2025-10-30 11:16:00"
+    },
+    {
+        "id": 133,
+        "invoice_no": "INV-2533",
+        "customer": "Nikhil Chatterjee",
+        "customer_type": "customer",
+        "amount": 251318,
+        "status": "Overdue",
+        "due_date": "2024-01-23",
+        "date": "2024-01-16",
+        "items": [
+            {
+                "product_id": 185,
+                "description": "GST Filing Service #243",
+                "qty": 5,
+                "price": 53472,
+                "actual_selling_price": 50263,
+                "total": 251318
+            }
+        ],
+        "notes": "Monthly service",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-01-16 08:16:00",
+        "updated_at": "2024-01-16 16:18:00"
+    },
+    {
+        "id": 134,
+        "invoice_no": "INV-2534",
+        "customer": "Nikhil Mukherjee",
+        "customer_type": "customer",
+        "amount": 69553,
+        "status": "Paid",
+        "due_date": "2025-01-22",
+        "date": "2025-01-03",
+        "items": [
+            {
+                "product_id": 126,
+                "description": "Anti-Virus License #766",
+                "qty": 2,
+                "price": 39973,
+                "actual_selling_price": 34776,
+                "total": 69553
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-01-03 15:05:00",
+        "updated_at": "2025-01-03 13:31:00"
+    },
+    {
+        "id": 135,
+        "invoice_no": "INV-2535",
+        "customer": "Ganesh Banerjee",
+        "customer_type": "customer",
+        "amount": 321790,
+        "status": "Overdue",
+        "due_date": "2025-06-21",
+        "date": "2025-04-27",
+        "items": [
+            {
+                "product_id": 32,
+                "description": "Server Maintenance #582",
+                "qty": 4,
+                "price": 87443,
+                "actual_selling_price": 80447,
+                "total": 321790
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-04-27 18:52:00",
+        "updated_at": "2025-04-27 11:21:00"
+    },
+    {
+        "id": 136,
+        "invoice_no": "INV-2536",
+        "customer": "Kabir Malhotra",
+        "customer_type": "customer",
+        "amount": 134277,
+        "status": "Overdue",
+        "due_date": "2024-07-21",
+        "date": "2024-06-24",
+        "items": [
+            {
+                "product_id": 128,
+                "description": "Inventory System Setup #817",
+                "qty": 2,
+                "price": 75437,
+                "actual_selling_price": 67138,
+                "total": 134277
+            }
+        ],
+        "notes": "Consultation",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2024-06-24 11:13:00",
+        "updated_at": "2024-06-24 17:14:00"
+    },
+    {
+        "id": 137,
+        "invoice_no": "INV-2537",
+        "customer": "Pranav Mehta",
+        "customer_type": "customer",
+        "amount": 206485,
+        "status": "Overdue",
+        "due_date": "2025-10-31",
+        "date": "2025-10-15",
+        "items": [
+            {
+                "product_id": 95,
+                "description": "Insurance Advisory #412",
+                "qty": 3,
+                "price": 76476,
+                "actual_selling_price": 68828,
+                "total": 206485
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-10-15 12:15:00",
+        "updated_at": "2025-10-15 17:11:00"
+    },
+    {
+        "id": 138,
+        "invoice_no": "INV-2538",
+        "customer": "Mahesh Mukherjee",
+        "customer_type": "customer",
+        "amount": 18330,
+        "status": "Sent",
+        "due_date": "2024-07-28",
+        "date": "2024-06-01",
+        "items": [
+            {
+                "product_id": 65,
+                "description": "Employee Training Program #331",
+                "qty": 1,
+                "price": 20830,
+                "actual_selling_price": 18330,
+                "total": 18330
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-06-01 11:22:00",
+        "updated_at": "2024-06-01 11:08:00"
+    },
+    {
+        "id": 139,
+        "invoice_no": "INV-2539",
+        "customer": "Aarav Shah",
+        "customer_type": "customer",
+        "amount": 28551,
+        "status": "Draft",
+        "due_date": "2025-04-10",
+        "date": "2025-02-24",
+        "items": [
+            {
+                "product_id": 157,
+                "description": "HR Software License #799",
+                "qty": 5,
+                "price": 6275,
+                "actual_selling_price": 5710,
+                "total": 28551
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2025-02-24 10:09:00",
+        "updated_at": "2025-02-24 11:54:00"
+    },
+    {
+        "id": 140,
+        "invoice_no": "INV-2540",
+        "customer": "Hitesh Bhat",
+        "customer_type": "customer",
+        "amount": 101444,
+        "status": "Overdue",
+        "due_date": "2026-06-05",
+        "date": "2026-05-13",
+        "items": [
+            {
+                "product_id": 196,
+                "description": "Signage & Banner #383",
+                "qty": 4,
+                "price": 26696,
+                "actual_selling_price": 25361,
+                "total": 101444
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2026-05-13 09:05:00",
+        "updated_at": "2026-05-13 17:28:00"
+    },
+    {
+        "id": 141,
+        "invoice_no": "INV-2541",
+        "customer": "Dhruv Verma",
+        "customer_type": "customer",
+        "amount": 130688,
+        "status": "Cancelled",
+        "due_date": "2024-02-24",
+        "date": "2024-02-13",
+        "items": [
+            {
+                "product_id": 43,
+                "description": "Legal Compliance Package #894",
+                "qty": 2,
+                "price": 71807,
+                "actual_selling_price": 65344,
+                "total": 130688
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-02-13 08:34:00",
+        "updated_at": "2024-02-13 17:01:00"
+    },
+    {
+        "id": 142,
+        "invoice_no": "INV-2542",
+        "customer": "Manoj Mishra",
+        "customer_type": "customer",
+        "amount": 11040,
+        "status": "Sent",
+        "due_date": "2024-04-22",
+        "date": "2024-03-12",
+        "items": [
+            {
+                "product_id": 1,
+                "description": "Business Starter Plan",
+                "qty": 1,
+                "price": 12000,
+                "actual_selling_price": 11040,
+                "total": 11040
+            }
+        ],
+        "notes": "Consultation",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2024-03-12 10:40:00",
+        "updated_at": "2024-03-12 10:36:00"
+    },
+    {
+        "id": 143,
+        "invoice_no": "INV-2543",
+        "customer": "Vikram Saxena",
+        "customer_type": "customer",
+        "amount": 156497,
+        "status": "Overdue",
+        "due_date": "2025-04-17",
+        "date": "2025-03-19",
+        "items": [
+            {
+                "product_id": 165,
+                "description": "Backup Solution #852",
+                "qty": 2,
+                "price": 79039,
+                "actual_selling_price": 78248,
+                "total": 156497
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2025-03-19 09:03:00",
+        "updated_at": "2025-03-19 16:27:00"
+    },
+    {
+        "id": 144,
+        "invoice_no": "INV-2544",
+        "customer": "Prakash Gupta",
+        "customer_type": "customer",
+        "amount": 130530,
+        "status": "Draft",
+        "due_date": "2026-06-04",
+        "date": "2026-04-15",
+        "items": [
+            {
+                "product_id": 199,
+                "description": "Employee Training Program #152",
+                "qty": 3,
+                "price": 48888,
+                "actual_selling_price": 43510,
+                "total": 130530
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2026-04-15 11:52:00",
+        "updated_at": "2026-04-15 08:49:00"
+    },
+    {
+        "id": 145,
+        "invoice_no": "INV-2545",
+        "customer": "Suresh Chopra",
+        "customer_type": "customer",
+        "amount": 30737,
+        "status": "Paid",
+        "due_date": "2026-09-25",
+        "date": "2026-09-11",
+        "items": [
+            {
+                "product_id": 192,
+                "description": "Bulk SMS Package #997",
+                "qty": 2,
+                "price": 17268,
+                "actual_selling_price": 15368,
+                "total": 30737
+            }
+        ],
+        "notes": "Monthly service",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2026-09-11 15:04:00",
+        "updated_at": "2026-09-11 13:02:00"
+    },
+    {
+        "id": 146,
+        "invoice_no": "INV-2546",
+        "customer": "Pawan Verma",
+        "customer_type": "customer",
+        "amount": 31967,
+        "status": "Cancelled",
+        "due_date": "2026-03-30",
+        "date": "2026-02-14",
+        "items": [
+            {
+                "product_id": 180,
+                "description": "Annual Audit Service #739",
+                "qty": 2,
+                "price": 16310,
+                "actual_selling_price": 15983,
+                "total": 31967
+            }
+        ],
+        "notes": "Project work",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2026-02-14 14:28:00",
+        "updated_at": "2026-02-14 14:51:00"
+    },
+    {
+        "id": 147,
+        "invoice_no": "INV-2547",
+        "customer": "Ankit Das",
+        "customer_type": "customer",
+        "amount": 339649,
+        "status": "Sent",
+        "due_date": "2026-02-11",
+        "date": "2026-01-07",
+        "items": [
+            {
+                "product_id": 44,
+                "description": "POS Terminal Setup #804",
+                "qty": 4,
+                "price": 92296,
+                "actual_selling_price": 84912,
+                "total": 339649
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2026-01-07 10:45:00",
+        "updated_at": "2026-01-07 15:51:00"
+    },
+    {
+        "id": 148,
+        "invoice_no": "INV-2548",
+        "customer": "Siddharth Tiwari",
+        "customer_type": "customer",
+        "amount": 246737,
+        "status": "Cancelled",
+        "due_date": "2025-02-07",
+        "date": "2024-12-10",
+        "items": [
+            {
+                "product_id": 58,
+                "description": "Data Analytics Dashboard #211",
+                "qty": 3,
+                "price": 92411,
+                "actual_selling_price": 82245,
+                "total": 246737
+            }
+        ],
+        "notes": "Consultation",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-12-10 10:53:00",
+        "updated_at": "2024-12-10 15:32:00"
+    },
+    {
+        "id": 149,
+        "invoice_no": "INV-2549",
+        "customer": "Nikhil Chopra",
+        "customer_type": "customer",
+        "amount": 46490,
+        "status": "Overdue",
+        "due_date": "2024-11-18",
+        "date": "2024-10-03",
+        "items": [
+            {
+                "product_id": 195,
+                "description": "Data Analytics Dashboard #488",
+                "qty": 4,
+                "price": 12914,
+                "actual_selling_price": 11622,
+                "total": 46490
+            }
+        ],
+        "notes": "Monthly service",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-10-03 18:26:00",
+        "updated_at": "2024-10-03 12:37:00"
+    },
+    {
+        "id": 150,
+        "invoice_no": "INV-2550",
+        "customer": "Nikhil Chopra",
+        "customer_type": "customer",
+        "amount": 388987,
+        "status": "Draft",
+        "due_date": "2025-10-01",
+        "date": "2025-08-14",
+        "items": [
+            {
+                "product_id": 66,
+                "description": "GST Filing Service #113",
+                "qty": 5,
+                "price": 92616,
+                "actual_selling_price": 77797,
+                "total": 388987
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-08-14 13:43:00",
+        "updated_at": "2025-08-14 16:52:00"
+    },
+    {
+        "id": 151,
+        "invoice_no": "INV-2551",
+        "customer": "Rakesh Hegde",
+        "customer_type": "customer",
+        "amount": 35839,
+        "status": "Draft",
+        "due_date": "2026-06-28",
+        "date": "2026-05-06",
+        "items": [
+            {
+                "product_id": 122,
+                "description": "Customer Survey Tool #356",
+                "qty": 3,
+                "price": 12316,
+                "actual_selling_price": 11946,
+                "total": 35839
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2026-05-06 18:08:00",
+        "updated_at": "2026-05-06 13:35:00"
+    },
+    {
+        "id": 152,
+        "invoice_no": "INV-2552",
+        "customer": "Ganesh Shah",
+        "customer_type": "customer",
+        "amount": 104895,
+        "status": "Overdue",
+        "due_date": "2025-04-15",
+        "date": "2025-03-06",
+        "items": [
+            {
+                "product_id": 38,
+                "description": "Domain Registration #654",
+                "qty": 2,
+                "price": 54070,
+                "actual_selling_price": 52447,
+                "total": 104895
+            }
+        ],
+        "notes": "Monthly service",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2025-03-06 12:25:00",
+        "updated_at": "2025-03-06 08:29:00"
+    },
+    {
+        "id": 153,
+        "invoice_no": "INV-2553",
+        "customer": "Tushar Iyer",
+        "customer_type": "customer",
+        "amount": 336376,
+        "status": "Overdue",
+        "due_date": "2024-12-21",
+        "date": "2024-11-27",
+        "items": [
+            {
+                "product_id": 58,
+                "description": "Data Analytics Dashboard #211",
+                "qty": 4,
+                "price": 92411,
+                "actual_selling_price": 84094,
+                "total": 336376
+            }
+        ],
+        "notes": "Consultation",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2024-11-27 08:32:00",
+        "updated_at": "2024-11-27 10:12:00"
+    },
+    {
+        "id": 154,
+        "invoice_no": "INV-2554",
+        "customer": "Darshan Patel",
+        "customer_type": "customer",
+        "amount": 101331,
+        "status": "Overdue",
+        "due_date": "2025-12-07",
+        "date": "2025-10-18",
+        "items": [
+            {
+                "product_id": 123,
+                "description": "Business Card Package #556",
+                "qty": 2,
+                "price": 56928,
+                "actual_selling_price": 50665,
+                "total": 101331
+            }
+        ],
+        "notes": "Project work",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2025-10-18 11:56:00",
+        "updated_at": "2025-10-18 15:10:00"
+    },
+    {
+        "id": 155,
+        "invoice_no": "INV-2555",
+        "customer": "Mahesh Mukherjee",
+        "customer_type": "customer",
+        "amount": 24600,
+        "status": "Sent",
+        "due_date": "2025-06-07",
+        "date": "2025-05-07",
+        "items": [
+            {
+                "product_id": 5,
+                "description": "SEO Optimization Pack",
+                "qty": 2,
+                "price": 15000,
+                "actual_selling_price": 12300,
+                "total": 24600
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-05-07 12:06:00",
+        "updated_at": "2025-05-07 08:53:00"
+    },
+    {
+        "id": 156,
+        "invoice_no": "INV-2556",
+        "customer": "Dhruv Joshi",
+        "customer_type": "customer",
+        "amount": 217373,
+        "status": "Paid",
+        "due_date": "2025-03-22",
+        "date": "2025-03-14",
+        "items": [
+            {
+                "product_id": 153,
+                "description": "Inventory Audit #974",
+                "qty": 5,
+                "price": 47255,
+                "actual_selling_price": 43474,
+                "total": 217373
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-03-14 14:24:00",
+        "updated_at": "2025-03-14 10:14:00"
+    },
+    {
+        "id": 157,
+        "invoice_no": "INV-2557",
+        "customer": "Deepak Shah",
+        "customer_type": "customer",
+        "amount": 85480,
+        "status": "Sent",
+        "due_date": "2025-02-10",
+        "date": "2025-01-08",
+        "items": [
+            {
+                "product_id": 81,
+                "description": "Network Security Pack #118",
+                "qty": 5,
+                "price": 18787,
+                "actual_selling_price": 17096,
+                "total": 85480
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-01-08 14:03:00",
+        "updated_at": "2025-01-08 18:43:00"
+    },
+    {
+        "id": 158,
+        "invoice_no": "INV-2558",
+        "customer": "Manoj Patel",
+        "customer_type": "customer",
+        "amount": 40147,
+        "status": "Sent",
+        "due_date": "2024-04-19",
+        "date": "2024-03-18",
+        "items": [
+            {
+                "product_id": 102,
+                "description": "Accounting Setup #931",
+                "qty": 2,
+                "price": 25092,
+                "actual_selling_price": 20073,
+                "total": 40147
+            }
+        ],
+        "notes": "Consultation",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2024-03-18 09:05:00",
+        "updated_at": "2024-03-18 11:23:00"
+    },
+    {
+        "id": 159,
+        "invoice_no": "INV-2559",
+        "customer": "Kabir Saxena",
+        "customer_type": "customer",
+        "amount": 155273,
+        "status": "Overdue",
+        "due_date": "2026-06-02",
+        "date": "2026-05-10",
+        "items": [
+            {
+                "product_id": 190,
+                "description": "Legal Compliance Package #193",
+                "qty": 4,
+                "price": 42194,
+                "actual_selling_price": 38818,
+                "total": 155273
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2026-05-10 09:21:00",
+        "updated_at": "2026-05-10 13:12:00"
+    },
+    {
+        "id": 160,
+        "invoice_no": "INV-2560",
+        "customer": "Vikram Chopra",
+        "customer_type": "customer",
+        "amount": 399780,
+        "status": "Overdue",
+        "due_date": "2026-03-08",
+        "date": "2026-02-28",
+        "items": [
+            {
+                "product_id": 164,
+                "description": "Content Writing Bundle #795",
+                "qty": 5,
+                "price": 79956,
+                "actual_selling_price": 79956,
+                "total": 399780
+            }
+        ],
+        "notes": "Consultation",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2026-02-28 14:08:00",
+        "updated_at": "2026-02-28 17:54:00"
+    },
+    {
+        "id": 161,
+        "invoice_no": "INV-2561",
+        "customer": "Pawan Patel",
+        "customer_type": "customer",
+        "amount": 10345,
+        "status": "Sent",
+        "due_date": "2026-03-05",
+        "date": "2026-01-08",
+        "items": [
+            {
+                "product_id": 122,
+                "description": "Customer Survey Tool #356",
+                "qty": 1,
+                "price": 12316,
+                "actual_selling_price": 10345,
+                "total": 10345
+            }
+        ],
+        "notes": "Monthly service",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2026-01-08 08:21:00",
+        "updated_at": "2026-01-08 08:55:00"
+    },
+    {
+        "id": 162,
+        "invoice_no": "INV-2562",
+        "customer": "Nikhil Gupta",
+        "customer_type": "customer",
+        "amount": 22950,
+        "status": "Cancelled",
+        "due_date": "2025-10-05",
+        "date": "2025-09-17",
+        "items": [
+            {
+                "product_id": 3,
+                "description": "Website Maintenance",
+                "qty": 3,
+                "price": 8500,
+                "actual_selling_price": 7650,
+                "total": 22950
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-09-17 14:54:00",
+        "updated_at": "2025-09-17 09:13:00"
+    },
+    {
+        "id": 163,
+        "invoice_no": "INV-2563",
+        "customer": "Vivaan Ghosh",
+        "customer_type": "customer",
+        "amount": 73459,
+        "status": "Overdue",
+        "due_date": "2024-11-27",
+        "date": "2024-10-05",
+        "items": [
+            {
+                "product_id": 62,
+                "description": "Company Incorporation #714",
+                "qty": 1,
+                "price": 77326,
+                "actual_selling_price": 73459,
+                "total": 73459
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-10-05 08:00:00",
+        "updated_at": "2024-10-05 16:58:00"
+    },
+    {
+        "id": 164,
+        "invoice_no": "INV-2564",
+        "customer": "Manish Bhat",
+        "customer_type": "customer",
+        "amount": 113045,
+        "status": "Cancelled",
+        "due_date": "2024-11-01",
+        "date": "2024-10-12",
+        "items": [
+            {
+                "product_id": 49,
+                "description": "POS Terminal Setup #696",
+                "qty": 5,
+                "price": 22609,
+                "actual_selling_price": 22609,
+                "total": 113045
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-10-12 16:38:00",
+        "updated_at": "2024-10-12 09:40:00"
+    },
+    {
+        "id": 165,
+        "invoice_no": "INV-2565",
+        "customer": "Anil Rao",
+        "customer_type": "customer",
+        "amount": 383591,
+        "status": "Sent",
+        "due_date": "2025-09-08",
+        "date": "2025-07-14",
+        "items": [
+            {
+                "product_id": 100,
+                "description": "POS Terminal Setup #789",
+                "qty": 5,
+                "price": 79091,
+                "actual_selling_price": 76718,
+                "total": 383591
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-07-14 15:40:00",
+        "updated_at": "2025-07-14 14:27:00"
+    },
+    {
+        "id": 166,
+        "invoice_no": "INV-2566",
+        "customer": "Darshan Bhat",
+        "customer_type": "customer",
+        "amount": 18000,
+        "status": "Cancelled",
+        "due_date": "2025-04-29",
+        "date": "2025-04-11",
+        "items": [
+            {
+                "product_id": 4,
+                "description": "Consulting Session",
+                "qty": 4,
+                "price": 5000,
+                "actual_selling_price": 4500,
+                "total": 18000
+            }
+        ],
+        "notes": "Project work",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-04-11 14:36:00",
+        "updated_at": "2025-04-11 10:30:00"
+    },
+    {
+        "id": 167,
+        "invoice_no": "INV-2567",
+        "customer": "Arjun Rao",
+        "customer_type": "customer",
+        "amount": 21120,
+        "status": "Overdue",
+        "due_date": "2026-08-12",
+        "date": "2026-06-16",
+        "items": [
+            {
+                "product_id": 9,
+                "description": "Email Campaign Setup",
+                "qty": 4,
+                "price": 6000,
+                "actual_selling_price": 5280,
+                "total": 21120
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2026-06-16 13:32:00",
+        "updated_at": "2026-06-16 13:38:00"
+    },
+    {
+        "id": 168,
+        "invoice_no": "INV-2568",
+        "customer": "Rajesh Reddy",
+        "customer_type": "customer",
+        "amount": 25092,
+        "status": "Draft",
+        "due_date": "2024-09-04",
+        "date": "2024-08-06",
+        "items": [
+            {
+                "product_id": 194,
+                "description": "Server Maintenance #115",
+                "qty": 5,
+                "price": 5576,
+                "actual_selling_price": 5018,
+                "total": 25092
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2024-08-06 10:43:00",
+        "updated_at": "2024-08-06 08:38:00"
+    },
+    {
+        "id": 169,
+        "invoice_no": "INV-2569",
+        "customer": "Arjun Hegde",
+        "customer_type": "customer",
+        "amount": 189693,
+        "status": "Sent",
+        "due_date": "2024-07-12",
+        "date": "2024-06-19",
+        "items": [
+            {
+                "product_id": 165,
+                "description": "Backup Solution #852",
+                "qty": 3,
+                "price": 79039,
+                "actual_selling_price": 63231,
+                "total": 189693
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2024-06-19 15:42:00",
+        "updated_at": "2024-06-19 13:58:00"
+    },
+    {
+        "id": 170,
+        "invoice_no": "INV-2570",
+        "customer": "Rudra Singh",
+        "customer_type": "customer",
+        "amount": 258070,
+        "status": "Paid",
+        "due_date": "2025-03-09",
+        "date": "2025-02-12",
+        "items": [
+            {
+                "product_id": 12,
+                "description": "Annual Audit Service #740",
+                "qty": 5,
+                "price": 62944,
+                "actual_selling_price": 51614,
+                "total": 258070
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2025-02-12 13:55:00",
+        "updated_at": "2025-02-12 16:19:00"
+    },
+    {
+        "id": 171,
+        "invoice_no": "INV-2571",
+        "customer": "Vihaan Naik",
+        "customer_type": "customer",
+        "amount": 132717,
+        "status": "Overdue",
+        "due_date": "2026-10-23",
+        "date": "2026-09-13",
+        "items": [
+            {
+                "product_id": 55,
+                "description": "Loyalty Program Setup #134",
+                "qty": 3,
+                "price": 55299,
+                "actual_selling_price": 44239,
+                "total": 132717
+            }
+        ],
+        "notes": "Monthly service",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2026-09-13 08:35:00",
+        "updated_at": "2026-09-13 14:08:00"
+    },
+    {
+        "id": 172,
+        "invoice_no": "INV-2572",
+        "customer": "Sachin Kapoor",
+        "customer_type": "customer",
+        "amount": 323131,
+        "status": "Paid",
+        "due_date": "2026-03-27",
+        "date": "2026-02-18",
+        "items": [
+            {
+                "product_id": 43,
+                "description": "Legal Compliance Package #894",
+                "qty": 5,
+                "price": 71807,
+                "actual_selling_price": 64626,
+                "total": 323131
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2026-02-18 08:03:00",
+        "updated_at": "2026-02-18 11:16:00"
+    },
+    {
+        "id": 173,
+        "invoice_no": "INV-2573",
+        "customer": "Ravi Mehta",
+        "customer_type": "customer",
+        "amount": 337301,
+        "status": "Draft",
+        "due_date": "2026-04-09",
+        "date": "2026-03-30",
+        "items": [
+            {
+                "product_id": 105,
+                "description": "Signage & Banner #925",
+                "qty": 4,
+                "price": 91658,
+                "actual_selling_price": 84325,
+                "total": 337301
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2026-03-30 18:04:00",
+        "updated_at": "2026-03-30 11:06:00"
+    },
+    {
+        "id": 174,
+        "invoice_no": "INV-2574",
+        "customer": "Sanjay Mishra",
+        "customer_type": "customer",
+        "amount": 236726,
+        "status": "Overdue",
+        "due_date": "2025-06-22",
+        "date": "2025-04-28",
+        "items": [
+            {
+                "product_id": 134,
+                "description": "Trademark Registration #914",
+                "qty": 5,
+                "price": 49318,
+                "actual_selling_price": 47345,
+                "total": 236726
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2025-04-28 13:16:00",
+        "updated_at": "2025-04-28 14:27:00"
+    },
+    {
+        "id": 175,
+        "invoice_no": "INV-2575",
+        "customer": "Manoj Bhat",
+        "customer_type": "customer",
+        "amount": 125268,
+        "status": "Sent",
+        "due_date": "2024-06-28",
+        "date": "2024-05-24",
+        "items": [
+            {
+                "product_id": 62,
+                "description": "Company Incorporation #714",
+                "qty": 2,
+                "price": 77326,
+                "actual_selling_price": 62634,
+                "total": 125268
+            }
+        ],
+        "notes": "Project work",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-05-24 09:21:00",
+        "updated_at": "2024-05-24 17:46:00"
+    },
+    {
+        "id": 176,
+        "invoice_no": "INV-2576",
+        "customer": "Ankit Kamath",
+        "customer_type": "customer",
+        "amount": 367775,
+        "status": "Draft",
+        "due_date": "2024-02-22",
+        "date": "2024-01-27",
+        "items": [
+            {
+                "product_id": 113,
+                "description": "Anti-Virus License #653",
+                "qty": 5,
+                "price": 84546,
+                "actual_selling_price": 73555,
+                "total": 367775
+            }
+        ],
+        "notes": "Consultation",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2024-01-27 08:31:00",
+        "updated_at": "2024-01-27 15:02:00"
+    },
+    {
+        "id": 177,
+        "invoice_no": "INV-2577",
+        "customer": "Ashish Singh",
+        "customer_type": "customer",
+        "amount": 35904,
+        "status": "Cancelled",
+        "due_date": "2026-07-17",
+        "date": "2026-07-02",
+        "items": [
+            {
+                "product_id": 101,
+                "description": "Annual Audit Service #660",
+                "qty": 3,
+                "price": 11968,
+                "actual_selling_price": 11968,
+                "total": 35904
+            }
+        ],
+        "notes": "Monthly service",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2026-07-02 12:59:00",
+        "updated_at": "2026-07-02 09:49:00"
+    },
+    {
+        "id": 178,
+        "invoice_no": "INV-2578",
+        "customer": "Kabir Malhotra",
+        "customer_type": "customer",
+        "amount": 208736,
+        "status": "Cancelled",
+        "due_date": "2026-03-18",
+        "date": "2026-01-23",
+        "items": [
+            {
+                "product_id": 87,
+                "description": "Payment Gateway Integration #740",
+                "qty": 4,
+                "price": 65230,
+                "actual_selling_price": 52184,
+                "total": 208736
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2026-01-23 17:39:00",
+        "updated_at": "2026-01-23 13:34:00"
+    },
+    {
+        "id": 179,
+        "invoice_no": "INV-2579",
+        "customer": "Rudra Bhat",
+        "customer_type": "customer",
+        "amount": 88315,
+        "status": "Sent",
+        "due_date": "2024-06-18",
+        "date": "2024-06-03",
+        "items": [
+            {
+                "product_id": 30,
+                "description": "Bulk SMS Package #987",
+                "qty": 4,
+                "price": 27258,
+                "actual_selling_price": 22078,
+                "total": 88315
+            }
+        ],
+        "notes": "Consultation",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-06-03 08:39:00",
+        "updated_at": "2024-06-03 11:03:00"
+    },
+    {
+        "id": 180,
+        "invoice_no": "INV-2580",
+        "customer": "Ashok Das",
+        "customer_type": "customer",
+        "amount": 125872,
+        "status": "Overdue",
+        "due_date": "2025-11-06",
+        "date": "2025-10-22",
+        "items": [
+            {
+                "product_id": 137,
+                "description": "Loyalty Program Setup #690",
+                "qty": 2,
+                "price": 63572,
+                "actual_selling_price": 62936,
+                "total": 125872
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2025-10-22 12:43:00",
+        "updated_at": "2025-10-22 17:51:00"
+    },
+    {
+        "id": 181,
+        "invoice_no": "INV-2581",
+        "customer": "Pranav Gupta",
+        "customer_type": "customer",
+        "amount": 29478,
+        "status": "Paid",
+        "due_date": "2026-06-30",
+        "date": "2026-05-14",
+        "items": [
+            {
+                "product_id": 177,
+                "description": "Email Hosting #571",
+                "qty": 1,
+                "price": 30080,
+                "actual_selling_price": 29478,
+                "total": 29478
+            }
+        ],
+        "notes": "Setup fee",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2026-05-14 10:29:00",
+        "updated_at": "2026-05-14 13:41:00"
+    },
+    {
+        "id": 182,
+        "invoice_no": "INV-2582",
+        "customer": "Ravi Joshi",
+        "customer_type": "customer",
+        "amount": 90227,
+        "status": "Overdue",
+        "due_date": "2024-10-26",
+        "date": "2024-09-01",
+        "items": [
+            {
+                "product_id": 117,
+                "description": "Digital Marketing Pro #843",
+                "qty": 4,
+                "price": 27848,
+                "actual_selling_price": 22556,
+                "total": 90227
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-09-01 10:07:00",
+        "updated_at": "2024-09-01 08:25:00"
+    },
+    {
+        "id": 183,
+        "invoice_no": "INV-2583",
+        "customer": "Hitesh Banerjee",
+        "customer_type": "customer",
+        "amount": 31954,
+        "status": "Draft",
+        "due_date": "2026-01-26",
+        "date": "2025-11-29",
+        "items": [
+            {
+                "product_id": 101,
+                "description": "Annual Audit Service #660",
+                "qty": 3,
+                "price": 11968,
+                "actual_selling_price": 10651,
+                "total": 31954
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2025-11-29 15:46:00",
+        "updated_at": "2025-11-29 09:19:00"
+    },
+    {
+        "id": 184,
+        "invoice_no": "INV-2584",
+        "customer": "Karan Iyer",
+        "customer_type": "customer",
+        "amount": 88060,
+        "status": "Paid",
+        "due_date": "2026-03-25",
+        "date": "2026-03-07",
+        "items": [
+            {
+                "product_id": 181,
+                "description": "Video Production Basic #519",
+                "qty": 4,
+                "price": 24736,
+                "actual_selling_price": 22015,
+                "total": 88060
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2026-03-07 13:44:00",
+        "updated_at": "2026-03-07 18:56:00"
+    },
+    {
+        "id": 185,
+        "invoice_no": "INV-2585",
+        "customer": "Rahul Chatterjee",
+        "customer_type": "customer",
+        "amount": 69713,
+        "status": "Draft",
+        "due_date": "2025-04-22",
+        "date": "2025-04-10",
+        "items": [
+            {
+                "product_id": 114,
+                "description": "E-Commerce Setup #711",
+                "qty": 2,
+                "price": 39610,
+                "actual_selling_price": 34856,
+                "total": 69713
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-04-10 12:52:00",
+        "updated_at": "2025-04-10 08:40:00"
+    },
+    {
+        "id": 186,
+        "invoice_no": "INV-2586",
+        "customer": "Rakesh Kamath",
+        "customer_type": "customer",
+        "amount": 45620,
+        "status": "Paid",
+        "due_date": "2025-11-30",
+        "date": "2025-10-02",
+        "items": [
+            {
+                "product_id": 77,
+                "description": "Website Redesign #333",
+                "qty": 4,
+                "price": 11405,
+                "actual_selling_price": 11405,
+                "total": 45620
+            }
+        ],
+        "notes": "Consultation",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-10-02 17:00:00",
+        "updated_at": "2025-10-02 09:18:00"
+    },
+    {
+        "id": 187,
+        "invoice_no": "INV-2587",
+        "customer": "Ankit Bhat",
+        "customer_type": "customer",
+        "amount": 253799,
+        "status": "Cancelled",
+        "due_date": "2025-05-14",
+        "date": "2025-04-04",
+        "items": [
+            {
+                "product_id": 193,
+                "description": "Server Maintenance #116",
+                "qty": 4,
+                "price": 73779,
+                "actual_selling_price": 63449,
+                "total": 253799
+            }
+        ],
+        "notes": "Consultation",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2025-04-04 17:07:00",
+        "updated_at": "2025-04-04 15:22:00"
+    },
+    {
+        "id": 188,
+        "invoice_no": "INV-2588",
+        "customer": "Vivaan Das",
+        "customer_type": "customer",
+        "amount": 27661,
+        "status": "Cancelled",
+        "due_date": "2024-08-06",
+        "date": "2024-07-10",
+        "items": [
+            {
+                "product_id": 131,
+                "description": "Network Security Pack #722",
+                "qty": 2,
+                "price": 14407,
+                "actual_selling_price": 13830,
+                "total": 27661
+            }
+        ],
+        "notes": "Monthly service",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2024-07-10 08:48:00",
+        "updated_at": "2024-07-10 10:35:00"
+    },
+    {
+        "id": 189,
+        "invoice_no": "INV-2589",
+        "customer": "Vikram Chopra",
+        "customer_type": "customer",
+        "amount": 103902,
+        "status": "Sent",
+        "due_date": "2026-09-02",
+        "date": "2026-08-09",
+        "items": [
+            {
+                "product_id": 106,
+                "description": "POS Terminal Setup #118",
+                "qty": 3,
+                "price": 41728,
+                "actual_selling_price": 34634,
+                "total": 103902
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2026-08-09 12:33:00",
+        "updated_at": "2026-08-09 14:18:00"
+    },
+    {
+        "id": 190,
+        "invoice_no": "INV-2590",
+        "customer": "Suresh Chopra",
+        "customer_type": "customer",
+        "amount": 325309,
+        "status": "Overdue",
+        "due_date": "2026-07-31",
+        "date": "2026-06-07",
+        "items": [
+            {
+                "product_id": 167,
+                "description": "WhatsApp Business Setup #906",
+                "qty": 4,
+                "price": 91379,
+                "actual_selling_price": 81327,
+                "total": 325309
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2026-06-07 12:08:00",
+        "updated_at": "2026-06-07 16:30:00"
+    },
+    {
+        "id": 191,
+        "invoice_no": "INV-2591",
+        "customer": "Ajay Joshi",
+        "customer_type": "customer",
+        "amount": 30546,
+        "status": "Sent",
+        "due_date": "2026-01-23",
+        "date": "2026-01-14",
+        "items": [
+            {
+                "product_id": 151,
+                "description": "Inventory System Setup #647",
+                "qty": 1,
+                "price": 31170,
+                "actual_selling_price": 30546,
+                "total": 30546
+            }
+        ],
+        "notes": "Consultation",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2026-01-14 10:09:00",
+        "updated_at": "2026-01-14 08:47:00"
+    },
+    {
+        "id": 192,
+        "invoice_no": "INV-2592",
+        "customer": "Kabir Verma",
+        "customer_type": "customer",
+        "amount": 259595,
+        "status": "Overdue",
+        "due_date": "2025-01-20",
+        "date": "2025-01-06",
+        "items": [
+            {
+                "product_id": 173,
+                "description": "E-Commerce Setup #616",
+                "qty": 5,
+                "price": 55233,
+                "actual_selling_price": 51919,
+                "total": 259595
+            }
+        ],
+        "notes": "Monthly service",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-01-06 11:39:00",
+        "updated_at": "2025-01-06 15:53:00"
+    },
+    {
+        "id": 193,
+        "invoice_no": "INV-2593",
+        "customer": "Ganesh Ghosh",
+        "customer_type": "customer",
+        "amount": 38639,
+        "status": "Sent",
+        "due_date": "2025-10-17",
+        "date": "2025-09-08",
+        "items": [
+            {
+                "product_id": 139,
+                "description": "Accounting Setup #438",
+                "qty": 1,
+                "price": 46554,
+                "actual_selling_price": 38639,
+                "total": 38639
+            }
+        ],
+        "notes": "Monthly service",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-09-08 17:15:00",
+        "updated_at": "2025-09-08 12:58:00"
+    },
+    {
+        "id": 194,
+        "invoice_no": "INV-2594",
+        "customer": "Dhruv Joshi",
+        "customer_type": "customer",
+        "amount": 162641,
+        "status": "Cancelled",
+        "due_date": "2025-08-12",
+        "date": "2025-08-04",
+        "items": [
+            {
+                "product_id": 36,
+                "description": "HR Software License #334",
+                "qty": 3,
+                "price": 65318,
+                "actual_selling_price": 54213,
+                "total": 162641
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2025-08-04 16:12:00",
+        "updated_at": "2025-08-04 15:06:00"
+    },
+    {
+        "id": 195,
+        "invoice_no": "INV-2595",
+        "customer": "Naveen Das",
+        "customer_type": "customer",
+        "amount": 40772,
+        "status": "Paid",
+        "due_date": "2024-10-16",
+        "date": "2024-10-04",
+        "items": [
+            {
+                "product_id": 25,
+                "description": "SSL Certificate Pack #397",
+                "qty": 3,
+                "price": 15101,
+                "actual_selling_price": 13590,
+                "total": 40772
+            }
+        ],
+        "notes": "Project work",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-10-04 11:44:00",
+        "updated_at": "2024-10-04 08:22:00"
+    },
+    {
+        "id": 196,
+        "invoice_no": "INV-2596",
+        "customer": "Vikram Shah",
+        "customer_type": "customer",
+        "amount": 43515,
+        "status": "Cancelled",
+        "due_date": "2024-10-27",
+        "date": "2024-09-16",
+        "items": [
+            {
+                "product_id": 192,
+                "description": "Bulk SMS Package #997",
+                "qty": 3,
+                "price": 17268,
+                "actual_selling_price": 14505,
+                "total": 43515
+            }
+        ],
+        "notes": "Business package",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-09-16 12:28:00",
+        "updated_at": "2024-09-16 15:03:00"
+    },
+    {
+        "id": 197,
+        "invoice_no": "INV-2597",
+        "customer": "Vijay Hegde",
+        "customer_type": "customer",
+        "amount": 55285,
+        "status": "Sent",
+        "due_date": "2026-09-30",
+        "date": "2026-08-26",
+        "items": [
+            {
+                "product_id": 176,
+                "description": "HR Software License #964",
+                "qty": 2,
+                "price": 32521,
+                "actual_selling_price": 27642,
+                "total": 55285
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2026-08-26 09:42:00",
+        "updated_at": "2026-08-26 13:11:00"
+    },
+    {
+        "id": 198,
+        "invoice_no": "INV-2598",
+        "customer": "Krishna Joshi",
+        "customer_type": "customer",
+        "amount": 25829,
+        "status": "Overdue",
+        "due_date": "2024-10-09",
+        "date": "2024-09-14",
+        "items": [
+            {
+                "product_id": 54,
+                "description": "Payment Gateway Integration #293",
+                "qty": 4,
+                "price": 7096,
+                "actual_selling_price": 6457,
+                "total": 25829
+            }
+        ],
+        "notes": "Monthly service",
+        "created_by": "Demo Sales Member",
+        "created_by_id": "2",
+        "created_at": "2024-09-14 17:54:00",
+        "updated_at": "2024-09-14 08:37:00"
+    },
+    {
+        "id": 199,
+        "invoice_no": "INV-2599",
+        "customer": "Vikram Shah",
+        "customer_type": "customer",
+        "amount": 51134,
+        "status": "Paid",
+        "due_date": "2024-09-26",
+        "date": "2024-08-03",
+        "items": [
+            {
+                "product_id": 174,
+                "description": "Loyalty Program Setup #926",
+                "qty": 1,
+                "price": 63918,
+                "actual_selling_price": 51134,
+                "total": 51134
+            }
+        ],
+        "notes": "Consultation",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2024-08-03 17:41:00",
+        "updated_at": "2024-08-03 08:27:00"
+    },
+    {
+        "id": 200,
+        "invoice_no": "INV-2600",
+        "customer": "Vivaan Ghosh",
+        "customer_type": "customer",
+        "amount": 325066,
+        "status": "Cancelled",
+        "due_date": "2025-03-16",
+        "date": "2025-01-23",
+        "items": [
+            {
+                "product_id": 88,
+                "description": "Inventory Audit #208",
+                "qty": 5,
+                "price": 68435,
+                "actual_selling_price": 65013,
+                "total": 325066
+            }
+        ],
+        "notes": "Annual subscription",
+        "created_by": "Zeels Kachhadiya",
+        "created_by_id": "1",
+        "created_at": "2025-01-23 14:19:00",
+        "updated_at": "2025-01-23 08:14:00"
+    }
+]

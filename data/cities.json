@@ -1,0 +1,107 @@
+[
+    {
+        "slug": "surat",
+        "name": "Surat",
+        "state": "Gujarat"
+    },
+    {
+        "slug": "ahmedabad",
+        "name": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "slug": "vadodara",
+        "name": "Vadodara",
+        "state": "Gujarat"
+    },
+    {
+        "slug": "rajkot",
+        "name": "Rajkot",
+        "state": "Gujarat"
+    },
+    {
+        "slug": "gandhinagar",
+        "name": "Gandhinagar",
+        "state": "Gujarat"
+    },
+    {
+        "slug": "bharuch",
+        "name": "Bharuch",
+        "state": "Gujarat"
+    },
+    {
+        "slug": "bhavnagar",
+        "name": "Bhavnagar",
+        "state": "Gujarat"
+    },
+    {
+        "slug": "jamnagar",
+        "name": "Jamnagar",
+        "state": "Gujarat"
+    },
+    {
+        "slug": "mumbai",
+        "name": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "slug": "pune",
+        "name": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "slug": "delhi",
+        "name": "Delhi",
+        "state": "Delhi"
+    },
+    {
+        "slug": "bengaluru",
+        "name": "Bengaluru",
+        "state": "Karnataka"
+    },
+    {
+        "slug": "kolkata",
+        "name": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "slug": "hyderabad",
+        "name": "Hyderabad",
+        "state": "Telangana"
+    },
+    {
+        "slug": "chennai",
+        "name": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "slug": "coimbatore",
+        "name": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "slug": "jaipur",
+        "name": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "slug": "lucknow",
+        "name": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "slug": "indore",
+        "name": "Indore",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "slug": "latur",
+        "name": "Latur",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "slug": "nagpur",
+        "name": "Nagpur",
+        "state": "Gujarat"
+    }
+]

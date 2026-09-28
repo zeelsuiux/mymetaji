@@ -1,0 +1,695 @@
+/**
+ * Mymetaji - Enhancement Styles
+ * Autocomplete, Toasts, Keyboard Shortcuts, Bulk Selection, Quick Invoice
+ */
+
+/* ============================================================
+ * AUTOCOMPLETE DROPDOWN
+ * ============================================================ */
+.mm-autocomplete-dropdown {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.12);
+  z-index: 1000;
+  max-height: 280px;
+  overflow-y: auto;
+  margin-top: 4px;
+}
+
+.mm-ac-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 14px;
+  cursor: pointer;
+  transition: background 0.15s;
+  border-bottom: 1px solid #f5f5f5;
+}
+
+.mm-ac-item:last-child {
+  border-bottom: none;
+}
+
+.mm-ac-item:hover,
+.mm-ac-item.active {
+  background: #f0f7ff;
+}
+
+.mm-ac-label {
+  font-size: 14px;
+  font-weight: 500;
+  color: #333;
+}
+
+.mm-ac-sub {
+  font-size: 12px;
+  color: #999;
+}
+
+/* ============================================================
+ * TOAST NOTIFICATIONS
+ * ============================================================ */
+.mm-toast-container {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 99999;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  pointer-events: none;
+}
+
+.mm-toast {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 20px;
+  border-radius: 10px;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.15);
+  transform: translateX(120%);
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  pointer-events: auto;
+  min-width: 280px;
+}
+
+.mm-toast.show {
+  transform: translateX(0);
+}
+
+.mm-toast-success {
+  background: linear-gradient(135deg, #4CAF50, #388E3C);
+}
+
+.mm-toast-error {
+  background: linear-gradient(135deg, #F44336, #D32F2F);
+}
+
+.mm-toast-warning {
+  background: linear-gradient(135deg, #FF9800, #F57C00);
+}
+
+.mm-toast-info {
+  background: linear-gradient(135deg, #3B82F6, #1976D2);
+}
+
+.mm-toast-icon {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.mm-toast-msg {
+  flex: 1;
+}
+
+/* ============================================================
+ * KEYBOARD SHORTCUTS MODAL
+ * ============================================================ */
+.mm-shortcut-modal {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.5);
+  z-index: 99998;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  animation: fadeIn 0.2s;
+}
+
+.mm-shortcut-dialog {
+  background: #fff;
+  border-radius: 16px;
+  width: 420px;
+  max-width: 90vw;
+  max-height: 80vh;
+  overflow: hidden;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.2);
+}
+
+.mm-shortcut-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 18px 24px;
+  border-bottom: 1px solid #eee;
+}
+
+.mm-shortcut-header h3 {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.mm-shortcut-close {
+  background: none;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+  color: #999;
+  padding: 4px 8px;
+  border-radius: 6px;
+}
+
+.mm-shortcut-close:hover {
+  background: #f5f5f5;
+  color: #333;
+}
+
+.mm-shortcut-list {
+  padding: 16px 24px;
+  max-height: 60vh;
+  overflow-y: auto;
+}
+
+.mm-shortcut-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+  border-bottom: 1px solid #f5f5f5;
+}
+
+.mm-shortcut-row:last-child {
+  border-bottom: none;
+}
+
+.mm-shortcut-row kbd {
+  background: #f0f0f0;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 4px 10px;
+  font-size: 12px;
+  font-family: 'SF Mono', monospace;
+  font-weight: 600;
+  color: #333;
+  box-shadow: 0 2px 0 #ddd;
+  min-width: 60px;
+  text-align: center;
+}
+
+.mm-shortcut-row span {
+  font-size: 14px;
+  color: #555;
+}
+
+/* ============================================================
+ * BULK SELECTION
+ * ============================================================ */
+.bulk-th, .bulk-td {
+  width: 40px;
+  text-align: center;
+}
+
+.mm-bulk-checkbox {
+  width: 16px;
+  height: 16px;
+  cursor: pointer;
+  accent-color: var(--primary, #2563EB);
+}
+
+.mm-bulk-toolbar {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 16px;
+  background: #f0f7ff;
+  border: 1px solid #d0e3f7;
+  border-radius: 10px;
+  margin-bottom: 16px;
+  animation: slideDown 0.2s;
+}
+
+.mm-bulk-count {
+  font-size: 14px;
+  font-weight: 600;
+  color: #2563EB;
+  margin-right: 8px;
+}
+
+@keyframes slideDown {
+  from { opacity: 0; transform: translateY(-10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* ============================================================
+ * QUICK INVOICE TILE
+ * ============================================================ */
+.mm-quick-invoice-tile {
+  background: linear-gradient(135deg, #2563EB, #3B82F6) !important;
+  color: #fff !important;
+  position: relative;
+  overflow: hidden;
+}
+
+.mm-quick-invoice-tile .icon,
+.mm-quick-invoice-tile .name,
+.mm-quick-invoice-tile .count {
+  color: #fff !important;
+}
+
+.mm-quick-invoice-tile:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 25px rgba(23, 105, 224, 0.3);
+}
+
+.mm-quick-invoice-tile::after {
+  content: '⚡';
+  position: absolute;
+  top: 10px;
+  right: 12px;
+  font-size: 24px;
+  opacity: 0.3;
+}
+
+/* ============================================================
+ * WHATSAPP BUTTON
+ * ============================================================ */
+.mm-whatsapp-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: #25D366;
+  color: #fff;
+  padding: 6px 14px;
+  border-radius: 8px;
+  font-size: 13px;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s;
+  text-decoration: none;
+}
+
+.mm-whatsapp-btn:hover {
+  background: #1DA851;
+  transform: translateY(-1px);
+  color: #fff;
+}
+
+.mm-whatsapp-btn::before {
+  content: '💬';
+  font-size: 14px;
+}
+
+/* ============================================================
+ * DAILY SUMMARY WIDGET
+ * ============================================================ */
+.mm-summary-widget {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+  margin-bottom: 20px;
+}
+
+.mm-summary-card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 16px 20px;
+  border: 1px solid #eee;
+  text-align: center;
+}
+
+.mm-summary-card .label {
+  font-size: 12px;
+  color: #999;
+  margin-bottom: 6px;
+}
+
+.mm-summary-card .value {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.mm-summary-card .value.green { color: #4CAF50; }
+.mm-summary-card .value.orange { color: #FF9800; }
+.mm-summary-card .value.blue { color: #3B82F6; }
+
+/* ============================================================
+ * RESPONSIVE IMPROVEMENTS
+ * ============================================================ */
+@media (max-width: 768px) {
+  .mm-toast-container {
+    left: 10px;
+    right: 10px;
+  }
+
+  .mm-toast {
+    min-width: auto;
+    font-size: 13px;
+  }
+
+  .mm-shortcut-dialog {
+    width: 95vw;
+  }
+
+  .mm-bulk-toolbar {
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .mm-summary-widget {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .mm-autocomplete-dropdown {
+    max-height: 200px;
+  }
+}
+
+@media (max-width: 480px) {
+  .mm-summary-widget {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ============================================================
+ * OLD DASHBOARD COMPATIBILITY (hide old elements)
+ * ============================================================ */
+.dashboard-chart,
+.dashboard-donut,
+.dashboard-modules-panel {
+  display: none !important;
+}
+
+/* ============================================================
+ * GLOBAL SEARCH RESPONSIVE
+ * ============================================================ */
+.mm-global-search-wrap {
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .mm-global-search-wrap {
+    display: none !important;
+  }
+}
+
+/* ============================================================
+ * MOBILE SIDEBAR IMPROVEMENTS
+ * ============================================================ */
+.sidebar {
+  transition: transform 0.3s ease;
+}
+
+.sidebar.open {
+  transform: translateX(0) !important;
+}
+
+@media (max-width: 768px) {
+  .sidebar {
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    z-index: 9998;
+    transform: translateX(-100%);
+    width: 260px;
+  }
+
+  .sidebar.open {
+    transform: translateX(0);
+    box-shadow: 4px 0 20px rgba(0,0,0,0.2);
+  }
+
+  .sidebar::after {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.4);
+    z-index: -1;
+    display: none;
+  }
+
+  .sidebar.open::after {
+    display: block;
+  }
+
+  .main {
+    margin-left: 0 !important;
+  }
+
+  .topbar {
+    flex-wrap: wrap;
+    padding: 10px 12px !important;
+  }
+
+  .topbar h1 {
+    font-size: 16px !important;
+  }
+
+  .user-menu {
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+
+  .content {
+    padding: 78px 12px 14px !important;
+  }
+
+  .kpi-grid {
+    grid-template-columns: 1fr 1fr !important;
+  }
+
+  .module-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .kpi-grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  .module-grid {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+/* ============================================================
+ * PRINT-FRIENDLY: Hide enhancement UI when printing
+ * ============================================================ */
+@media print {
+  .mm-toast-container,
+  .mm-bulk-toolbar,
+  .mm-shortcut-modal,
+  .mm-autocomplete-dropdown,
+  .mm-whatsapp-btn,
+  .mm-fab {
+    display: none !important;
+  }
+}
+
+/* ============================================================
+ * LOADING OVERLAY
+ * ============================================================ */
+.mm-loading-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(255,255,255,0.85);
+  z-index: 99997;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.mm-loading-overlay .spinner {
+  width: 40px;
+  height: 40px;
+  border: 4px solid #e0e0e0;
+  border-top-color: #2563EB;
+  border-radius: 50%;
+  animation: mm-spin 0.7s linear infinite;
+}
+
+.mm-loading-overlay .text {
+  font-size: 14px;
+  color: #666;
+  font-weight: 500;
+}
+
+/* ============================================================
+ * PULSE ANIMATION FOR NOTIFICATION BADGES
+ * ============================================================ */
+@keyframes mm-pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.15); }
+  100% { transform: scale(1); }
+}
+
+.mm-badge-pulse {
+  animation: mm-pulse 2s infinite;
+}
+
+/* ============================================================
+ * SMOOTH CARD HOVER EFFECT
+ * ============================================================ */
+.kpi-card {
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.kpi-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+}
+
+/* ============================================================
+ * IMPROVED TABLE ROW HOVER
+ * ============================================================ */
+.data-table tbody tr {
+  transition: background 0.15s;
+}
+
+.data-table tbody tr:hover {
+  background: #f8faff;
+}
+
+/* ============================================================
+ * SCROLLABLE TABLE STYLES
+ * ============================================================ */
+.table-scroll-wrap {
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+}
+
+.table-scroll-wrap::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+.table-scroll-wrap::-webkit-scrollbar-track {
+  background: #f1f5f9;
+  border-radius: 3px;
+}
+
+.table-scroll-wrap::-webkit-scrollbar-thumb {
+  background: #c1c9d4;
+  border-radius: 3px;
+}
+
+.table-scroll-wrap::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+.table-scroll-wrap table.data-table {
+  border: none;
+  margin: 0;
+}
+
+.table-scroll-wrap .card-list {
+  padding: 12px;
+}
+
+/* ============================================================
+ * BETTER FORM FOCUS STATES
+ * ============================================================ */
+input:focus, select:focus, textarea:focus {
+  outline: none;
+  border-color: var(--primary, #2563EB) !important;
+  box-shadow: 0 0 0 3px rgba(23, 105, 224, 0.1) !important;
+}
+
+/* ============================================================
+ * LOADING SPINNER UTILITY
+ * ============================================================ */
+.mm-spinner {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border: 3px solid rgba(255,255,255,0.3);
+  border-radius: 50%;
+  border-top-color: #fff;
+  animation: mm-spin 0.6s linear infinite;
+}
+
+@keyframes mm-spin {
+  to { transform: rotate(360deg); }
+}
+
+/* ============================================================
+ * FLOATING ACTION BUTTON (Mobile Quick Actions)
+ * ============================================================ */
+.mm-fab {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  z-index: 999;
+  display: none;
+}
+
+.mm-fab-btn {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #2563EB, #3B82F6);
+  color: #fff;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+  box-shadow: 0 6px 20px rgba(23, 105, 224, 0.35);
+  transition: all 0.3s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.mm-fab-btn:hover {
+  transform: scale(1.1);
+  box-shadow: 0 8px 30px rgba(23, 105, 224, 0.45);
+}
+
+.mm-fab-menu {
+  position: absolute;
+  bottom: 70px;
+  right: 0;
+  display: none;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-end;
+}
+
+.mm-fab-menu.open {
+  display: flex;
+}
+
+.mm-fab-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: #fff;
+  padding: 10px 16px;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  font-size: 13px;
+  font-weight: 600;
+  color: #333;
+  cursor: pointer;
+  transition: all 0.2s;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.mm-fab-item:hover {
+  background: #f0f7ff;
+  transform: translateX(-4px);
+}
+
+@media (max-width: 768px) {
+  .mm-fab {
+    display: block;
+  }
+}

@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Business Starter Plan",
+        "selling_price": 12000,
+        "purchase_price": 6000,
+        "stock_qty": 25,
+        "duration_days": 30,
+        "hsn_code": "998314",
+        "gst_rate": 18,
+        "created_at": "2026-09-21 10:00:00",
+        "updated_at": "2026-09-21 10:00:00"
+    },
+    {
+        "id": 2,
+        "name": "Growth Marketing Package",
+        "selling_price": 25000,
+        "purchase_price": 12000,
+        "stock_qty": 12,
+        "duration_days": 60,
+        "hsn_code": "998314",
+        "gst_rate": 18,
+        "created_at": "2026-09-21 10:00:00",
+        "updated_at": "2026-09-21 10:00:00"
+    },
+    {
+        "id": 3,
+        "name": "Website Maintenance",
+        "selling_price": 8500,
+        "purchase_price": 3500,
+        "stock_qty": 40,
+        "duration_days": 30,
+        "hsn_code": "998314",
+        "gst_rate": 18,
+        "created_at": "2026-09-21 10:00:00",
+        "updated_at": "2026-09-21 10:00:00"
+    },
+    {
+        "id": 4,
+        "name": "Consulting Session",
+        "selling_price": 5000,
+        "purchase_price": 1000,
+        "stock_qty": 20,
+        "duration_days": 1,
+        "hsn_code": "998314",
+        "gst_rate": 18,
+        "created_at": "2026-09-21 10:00:00",
+        "updated_at": "2026-09-21 10:00:00"
+    },
+    {
+        "id": 5,
+        "name": "SEO Optimization Pack",
+        "selling_price": 15000,
+        "purchase_price": 7000,
+        "stock_qty": 18,
+        "duration_days": 30,
+        "hsn_code": "998314",
+        "gst_rate": 18,
+        "created_at": "2026-09-21 10:00:00",
+        "updated_at": "2026-09-21 10:00:00"
+    },
+    {
+        "id": 6,
+        "name": "Print Visiting Cards (500 pcs)",
+        "selling_price": 800,
+        "purchase_price": 300,
+        "stock_qty": 100,
+        "duration_days": 0,
+        "hsn_code": "482010",
+        "gst_rate": 12,
+        "created_at": "2026-09-21 10:00:00",
+        "updated_at": "2026-09-21 10:00:00"
+    },
+    {
+        "name": "LED Banner (2x1 ft)",
+        "hsn_code": "392690",
+        "gst_rate": "18",
+        "selling_price": "1200",
+        "purchase_price": "500",
+        "stock_qty": "100",
+        "duration_days": "0",
+        "id": 7,
+        "created_at": "2026-09-21 10:00:00",
+        "updated_at": "2026-09-21 15:20:50"
+    },
+    {
+        "id": 8,
+        "name": "T-Shirt Printing (Custom)",
+        "selling_price": 350,
+        "purchase_price": 150,
+        "stock_qty": 200,
+        "duration_days": 0,
+        "hsn_code": "610910",
+        "gst_rate": 5,
+        "created_at": "2026-09-21 10:00:00",
+        "updated_at": "2026-09-21 10:00:00"
+    }
+]

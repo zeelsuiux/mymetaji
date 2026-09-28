@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "phone": "917574016606",
+        "message": "Hi! 👋\n\nThis is a test message from malaviya test.\n\n✅ WhatsApp integration is working correctly!\n\n— malaviya test",
+        "status": "fallback",
+        "provider": "direct_wa_me",
+        "error": "",
+        "timestamp": "2026-09-21 01:33:53"
+    },
+    {
+        "id": 2,
+        "phone": "917574016606",
+        "message": "Hi! 👋\n\nThis is a test message from malaviya test.\n\n✅ WhatsApp integration is working correctly!\n\n— malaviya test",
+        "status": "fallback",
+        "provider": "direct_wa_me",
+        "error": "",
+        "timestamp": "2026-09-21 01:34:18"
+    },
+    {
+        "id": 3,
+        "phone": "917574016606",
+        "message": "Hi! 👋\n\nThis is a test message from malaviya test.\n\n✅ WhatsApp integration is working correctly!\n\n— malaviya test",
+        "status": "fallback",
+        "provider": "direct_wa_me",
+        "error": "",
+        "timestamp": "2026-09-21 01:35:34"
+    },
+    {
+        "id": 4,
+        "phone": "917851266916",
+        "message": "Hi Ganesh Joshi 👋\n\n🧾 *New Invoice Created*\n\nInvoice No: *INV-2026-001*\nAmount: *₹8,500.00*\n\n📄 *View Invoice:* http:\/\/localhost\/projects\/Mymetaji-Website\/admin\/public_invoice.php?id=202&t=8505dc7d9d395",
+        "status": "fallback",
+        "provider": "direct_wa_me",
+        "error": "",
+        "timestamp": "2026-09-21 01:45:08"
+    },
+    {
+        "id": 5,
+        "phone": "917574016606",
+        "message": "Hi Zeels Kachhadiya 👋\n\n🧾 *New Invoice Created*\n\nInvoice No: *INV-2026-002*\nAmount: *₹8,500.00*\n\n📄 *View Invoice:* http:\/\/localhost\/projects\/Mymetaji-Website\/admin\/public_invoice.php?id=203&t=657108a99",
+        "status": "fallback",
+        "provider": "direct_wa_me",
+        "error": "",
+        "timestamp": "2026-09-21 01:50:13"
+    },
+    {
+        "id": 6,
+        "phone": "917574016606",
+        "message": "Hi Zeels Kachhadiya 👋\n\n🧾 *New Invoice Created*\n\nInvoice No: *INV-2026-003*\nAmount: *₹8,500.00*\n\n📄 *View Invoice:* http:\/\/localhost\/projects\/Mymetaji-Website\/admin\/public_invoice.php?id=204&t=63a386007",
+        "status": "fallback",
+        "provider": "direct_wa_me",
+        "error": "",
+        "timestamp": "2026-09-21 02:02:06"
+    },
+    {
+        "id": 7,
+        "phone": "919313159884",
+        "message": "Hi Yash Kachhadiya 👋\n\n🧾 *New Invoice Created*\n\nInvoice No: *INV-2026-004*\nAmount: *₹8,000.00*\n\n📄 *View Invoice:* https:\/\/mymetaji.com\/admin\/public_invoice.php?id=205&t=0b49e9e0ddaf21253692e1e16c65ff1a",
+        "status": "fallback",
+        "provider": "direct_wa_me",
+        "error": "",
+        "timestamp": "2026-09-21 04:03:23"
+    },
+    {
+        "id": 8,
+        "phone": "918890934911",
+        "message": "Hi Ravi Patel 👋\n\n🧾 *New Invoice Created*\n\nInvoice No: *INV-2026-001*\nAmount: *₹25,000.00*\n\n📄 *View Invoice:* http:\/\/localhost\/projects\/mymetaji\/admin\/public_invoice.php?id=11&t=e56a34f2c9d57d4b9053d7b",
+        "status": "fallback",
+        "provider": "direct_wa_me",
+        "error": "",
+        "timestamp": "2026-09-21 13:40:36"
+    },
+    {
+        "id": 9,
+        "phone": "918890934911",
+        "message": "Hi Ravi Patel 👋\n\n✅ *Payment Received - Confirmation*\n\nAmount: *₹2,000.00*\nInvoice: INV-2026-001\nMode: Cash\nDate: 21-09-2026\n\n📄 *View Invoice:* http:\/\/localhost\/projects\/mymetaji\/admin\/public_invoice.p",
+        "status": "fallback",
+        "provider": "direct_wa_me",
+        "error": "",
+        "timestamp": "2026-09-21 14:18:15"
+    },
+    {
+        "id": 10,
+        "phone": "918890934911",
+        "message": "Hi Ravi Patel 👋\n\n🧾 *New Invoice Created*\n\nInvoice No: *INV-2026-001*\nAmount: *₹25,000.00*\n\n📄 *View Invoice:* http:\/\/localhost\/projects\/mymetaji\/admin\/public_invoice.php?id=11&t=e56a34f2c9d57d4b9053d7b",
+        "status": "fallback",
+        "provider": "direct_wa_me",
+        "error": "",
+        "timestamp": "2026-09-21 14:18:15"
+    },
+    {
+        "id": 11,
+        "phone": "918890934911",
+        "message": "Hi Ravi Patel 👋\n\n🧾 *New Invoice Created*\n\nInvoice No: *INV-2026-002*\nAmount: *₹5,800.00*\n\n📄 *View Invoice:* http:\/\/localhost\/projects\/mymetaji\/admin\/public_invoice.php?id=12&t=1a05b8661e16441a3bfe568b",
+        "status": "fallback",
+        "provider": "direct_wa_me",
+        "error": "",
+        "timestamp": "2026-09-22 19:35:08"
+    },
+    {
+        "id": 12,
+        "phone": "918890934911",
+        "message": "Hi Ravi Patel 👋\n\n🧾 *New Invoice Created*\n\nInvoice No: *INV-3007*\nAmount: *₹42,000.00*\nDue Date: 15-11-2026\n\n📄 *View Invoice:* http:\/\/localhost\/projects\/mymetaji\/admin\/public_invoice.php?id=7&t=269734e",
+        "status": "fallback",
+        "provider": "direct_wa_me",
+        "error": "",
+        "timestamp": "2026-09-28 23:44:10"
+    },
+    {
+        "id": 13,
+        "phone": "918890934911",
+        "message": "Hi Ravi Patel 👋\n\n🧾 *New Invoice Created*\n\nInvoice No: *INV-2026-002*\nAmount: *₹5,800.00*\n\n📄 *View Invoice:* http:\/\/localhost\/projects\/mymetaji\/admin\/public_invoice.php?id=12&t=1a05b8661e16441a3bfe568b",
+        "status": "fallback",
+        "provider": "direct_wa_me",
+        "error": "",
+        "timestamp": "2026-09-28 23:44:22"
+    },
+    {
+        "id": 14,
+        "phone": "918890934911",
+        "message": "Hi Ravi Patel 👋\n\n🧾 *New Invoice Created*\n\nInvoice No: *INV-2026-002*\nAmount: *₹2,797.00*\n\n📄 *View Invoice:* http:\/\/localhost\/projects\/mymetaji\/admin\/public_invoice.php?id=12&t=1a05b8661e16441a3bfe568b",
+        "status": "fallback",
+        "provider": "direct_wa_me",
+        "error": "",
+        "timestamp": "2026-09-28 23:44:42"
+    },
+    {
+        "id": 15,
+        "phone": "917867537387",
+        "message": "Hi Suresh Naik 👋\n\n🧾 *New Invoice Created*\n\nInvoice No: *INV-3010*\nAmount: *₹6,750.00*\nDue Date: 10-10-2026\n\n📄 *View Invoice:* http:\/\/localhost\/projects\/mymetaji\/admin\/public_invoice.php?id=10&t=ea78ee",
+        "status": "fallback",
+        "provider": "direct_wa_me",
+        "error": "",
+        "timestamp": "2026-09-28 23:57:16"
+    }
+]

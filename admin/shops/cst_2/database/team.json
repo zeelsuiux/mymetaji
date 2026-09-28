@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "name": "Zeels Kachhadiya",
+        "phone": "07574016606",
+        "email": "zeelskachhadiya110@gmail.com",
+        "address": "110, Yogi Darshan Soc., Yogi chowk",
+        "photo": "",
+        "username": "zeelskachhadiya110",
+        "password": "$2y$10$b\/UAZ1nWNBLqtsPNs0FRH.WtbHXl4rbAUHIZK5PmSPRTQ2VHNb3.K",
+        "role": "Admin",
+        "created_at": "2026-09-21 01:08:42",
+        "updated_at": "2026-09-21 01:08:42"
+    }
+]

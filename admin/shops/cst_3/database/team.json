@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "name": "malaviya test",
+        "phone": "07845856895",
+        "email": "malaviyagaurav879@gmail.com",
+        "address": "bandra 4th sector, mumbai",
+        "photo": "",
+        "username": "malaviyagaurav879",
+        "password": "$2y$10$ZXMF9c.llBNgDMBESkohVeEde6iavz17YOXHFEVquKxxvTcpXNh3q",
+        "role": "Admin",
+        "created_at": "2026-09-21 01:10:28",
+        "updated_at": "2026-09-21 01:10:28"
+    }
+]

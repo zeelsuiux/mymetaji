@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 1,
+        "title": "Software Subscription",
+        "category": "Marketing",
+        "amount": 26516,
+        "mode": "Cash",
+        "date": "2026-07-13",
+        "created_at": "2026-07-13 14:31:00",
+        "updated_at": "2026-07-13 14:31:00"
+    },
+    {
+        "id": 2,
+        "title": "Generator Fuel",
+        "category": "Insurance",
+        "amount": 12419,
+        "mode": "UPI",
+        "date": "2024-01-04",
+        "created_at": "2024-01-04 10:24:00",
+        "updated_at": "2024-01-04 10:24:00"
+    },
+    {
+        "id": 3,
+        "title": "CCTV Maintenance",
+        "category": "Repairs",
+        "amount": 21058,
+        "mode": "Cash",
+        "date": "2025-06-22",
+        "created_at": "2025-06-22 17:28:00",
+        "updated_at": "2025-06-22 17:28:00"
+    },
+    {
+        "id": 4,
+        "title": "Parking Fees",
+        "category": "Marketing",
+        "amount": 27664,
+        "mode": "Online",
+        "date": "2026-02-10",
+        "created_at": "2026-02-10 17:59:00",
+        "updated_at": "2026-02-10 17:59:00"
+    },
+    {
+        "id": 5,
+        "title": "Office Rent",
+        "category": "Telephone",
+        "amount": 35125,
+        "mode": "Cash",
+        "date": "2026-01-14",
+        "created_at": "2026-01-14 14:42:00",
+        "updated_at": "2026-01-14 14:42:00"
+    },
+    {
+        "id": 6,
+        "title": "Phone Bill",
+        "category": "Telephone",
+        "amount": 22585,
+        "mode": "UPI",
+        "date": "2024-07-26",
+        "created_at": "2024-07-26 13:17:00",
+        "updated_at": "2024-07-26 13:17:00"
+    },
+    {
+        "id": 7,
+        "title": "Team Travel",
+        "category": "Repairs",
+        "amount": 36953,
+        "mode": "Online",
+        "date": "2026-09-17",
+        "created_at": "2026-09-17 10:04:00",
+        "updated_at": "2026-09-17 10:04:00"
+    },
+    {
+        "id": 8,
+        "title": "Transport Charges",
+        "category": "Marketing",
+        "amount": 45936,
+        "mode": "Cash",
+        "date": "2026-04-02",
+        "created_at": "2026-04-02 10:10:00",
+        "updated_at": "2026-04-02 10:10:00"
+    },
+    {
+        "id": 9,
+        "title": "Generator Fuel",
+        "category": "Printing",
+        "amount": 4844,
+        "mode": "Cash",
+        "date": "2024-02-11",
+        "created_at": "2024-02-11 16:35:00",
+        "updated_at": "2024-02-11 16:35:00"
+    },
+    {
+        "id": 10,
+        "title": "Furniture Purchase",
+        "category": "Insurance",
+        "amount": 9629,
+        "mode": "Cash",
+        "date": "2024-11-26",
+        "created_at": "2024-11-26 10:21:00",
+        "updated_at": "2024-11-26 10:21:00"
+    },
+    {
+        "id": 11,
+        "title": "Marketing Campaign",
+        "category": "Software",
+        "amount": 40918,
+        "mode": "Cash",
+        "date": "2025-08-06",
+        "created_at": "2025-08-06 13:25:00",
+        "updated_at": "2025-08-06 13:25:00"
+    },
+    {
+        "id": 12,
+        "title": "Food & Beverages",
+        "category": "Repairs",
+        "amount": 26815,
+        "mode": "Cash",
+        "date": "2024-02-20",
+        "created_at": "2024-02-20 10:09:00",
+        "updated_at": "2024-02-20 10:09:00"
+    },
+    {
+        "id": 13,
+        "title": "Phone Bill",
+        "category": "Food & Beverages",
+        "amount": 9556,
+        "mode": "UPI",
+        "date": "2025-05-18",
+        "created_at": "2025-05-18 08:11:00",
+        "updated_at": "2025-05-18 08:11:00"
+    },
+    {
+        "id": 14,
+        "title": "Security System",
+        "category": "Software",
+        "amount": 29435,
+        "mode": "Cash",
+        "date": "2025-11-15",
+        "created_at": "2025-11-15 13:51:00",
+        "updated_at": "2025-11-15 13:51:00"
+    },
+    {
+        "id": 15,
+        "title": "Water Bill",
+        "category": "Legal",
+        "amount": 3196,
+        "mode": "Cheque",
+        "date": "2024-02-13",
+        "created_at": "2024-02-13 11:18:00",
+        "updated_at": "2024-02-13 11:18:00"
+    },
+    {
+        "id": 16,
+        "title": "Team Travel",
+        "category": "Supplies",
+        "amount": 11095,
+        "mode": "Online",
+        "date": "2024-12-18",
+        "created_at": "2024-12-18 18:30:00",
+        "updated_at": "2024-12-18 18:30:00"
+    },
+    {
+        "id": 17,
+        "title": "Legal Consultation",
+        "category": "Utilities",
+        "amount": 19612,
+        "mode": "Online",
+        "date": "2024-03-13",
+        "created_at": "2024-03-13 08:58:00",
+        "updated_at": "2024-03-13 08:58:00"
+    },
+    {
+        "id": 18,
+        "title": "Domain Renewal",
+        "category": "Office Rent",
+        "amount": 28861,
+        "mode": "UPI",
+        "date": "2024-03-07",
+        "created_at": "2024-03-07 11:18:00",
+        "updated_at": "2024-03-07 11:18:00"
+    },
+    {
+        "id": 19,
+        "title": "Office Cleaning",
+        "category": "Software",
+        "amount": 30749,
+        "mode": "Cash",
+        "date": "2026-01-01",
+        "created_at": "2026-01-01 11:50:00",
+        "updated_at": "2026-01-01 11:50:00"
+    },
+    {
+        "id": 20,
+        "title": "Team Travel",
+        "category": "Training",
+        "amount": 18855,
+        "mode": "Cheque",
+        "date": "2025-02-14",
+        "created_at": "2025-02-14 14:09:00",
+        "updated_at": "2025-02-14 14:09:00"
+    },
+    {
+        "id": 21,
+        "title": "Website Hosting",
+        "category": "Repairs",
+        "amount": 4087,
+        "mode": "Online",
+        "date": "2025-07-18",
+        "created_at": "2025-07-18 13:33:00",
+        "updated_at": "2025-07-18 13:33:00"
+    },
+    {
+        "id": 22,
+        "title": "Domain Renewal",
+        "category": "Telephone",
+        "amount": 1053,
+        "mode": "UPI",
+        "date": "2026-08-27",
+        "created_at": "2026-08-27 14:04:00",
+        "updated_at": "2026-08-27 14:04:00"
+    },
+    {
+        "id": 23,
+        "title": "First Aid Supplies",
+        "category": "Supplies",
+        "amount": 43885,
+        "mode": "Cash",
+        "date": "2024-06-05",
+        "created_at": "2024-06-05 12:41:00",
+        "updated_at": "2024-06-05 12:41:00"
+    },
+    {
+        "id": 24,
+        "title": "Security System",
+        "category": "Travel",
+        "amount": 27197,
+        "mode": "Cash",
+        "date": "2024-09-07",
+        "created_at": "2024-09-07 12:13:00",
+        "updated_at": "2024-09-07 12:13:00"
+    },
+    {
+        "id": 25,
+        "title": "Domain Renewal",
+        "category": "Office Rent",
+        "amount": 39400,
+        "mode": "Cheque",
+        "date": "2026-08-25",
+        "created_at": "2026-08-25 10:03:00",
+        "updated_at": "2026-08-25 10:03:00"
+    },
+    {
+        "id": 26,
+        "title": "Insurance Premium",
+        "category": "Utilities",
+        "amount": 4698,
+        "mode": "UPI",
+        "date": "2024-10-15",
+        "created_at": "2024-10-15 17:14:00",
+        "updated_at": "2024-10-15 17:14:00"
+    },
+    {
+        "id": 27,
+        "title": "Team Travel",
+        "category": "Marketing",
+        "amount": 38125,
+        "mode": "Cheque",
+        "date": "2024-06-07",
+        "created_at": "2024-06-07 18:18:00",
+        "updated_at": "2024-06-07 18:18:00"
+    },
+    {
+        "id": 28,
+        "title": "Parking Fees",
+        "category": "Repairs",
+        "amount": 31131,
+        "mode": "Cash",
+        "date": "2026-05-16",
+        "created_at": "2026-05-16 08:50:00",
+        "updated_at": "2026-05-16 08:50:00"
+    },
+    {
+        "id": 29,
+        "title": "AC Repair",
+        "category": "Software",
+        "amount": 42204,
+        "mode": "Cheque",
+        "date": "2025-01-29",
+        "created_at": "2025-01-29 14:10:00",
+        "updated_at": "2025-01-29 14:10:00"
+    },
+    {
+        "id": 30,
+        "title": "Food & Beverages",
+        "category": "Software",
+        "amount": 29557,
+        "mode": "Online",
+        "date": "2025-10-31",
+        "created_at": "2025-10-31 14:27:00",
+        "updated_at": "2025-10-31 14:27:00"
+    },
+    {
+        "id": 31,
+        "title": "AC Repair",
+        "category": "Marketing",
+        "amount": 26595,
+        "mode": "UPI",
+        "date": "2024-06-23",
+        "created_at": "2024-06-23 09:26:00",
+        "updated_at": "2024-06-23 09:26:00"
+    },
+    {
+        "id": 32,
+        "title": "Electricity Bill",
+        "category": "Repairs",
+        "amount": 28295,
+        "mode": "Online",
+        "date": "2024-05-24",
+        "created_at": "2024-05-24 15:45:00",
+        "updated_at": "2024-05-24 15:45:00"
+    },
+    {
+        "id": 33,
+        "title": "Printer Maintenance",
+        "category": "Food & Beverages",
+        "amount": 15567,
+        "mode": "UPI",
+        "date": "2025-04-25",
+        "created_at": "2025-04-25 15:30:00",
+        "updated_at": "2025-04-25 15:30:00"
+    },
+    {
+        "id": 34,
+        "title": "Printer Maintenance",
+        "category": "Legal",
+        "amount": 49765,
+        "mode": "Online",
+        "date": "2025-11-15",
+        "created_at": "2025-11-15 11:14:00",
+        "updated_at": "2025-11-15 11:14:00"
+    },
+    {
+        "id": 35,
+        "title": "AC Repair",
+        "category": "Insurance",
+        "amount": 47810,
+        "mode": "Online",
+        "date": "2024-05-13",
+        "created_at": "2024-05-13 14:30:00",
+        "updated_at": "2024-05-13 14:30:00"
+    },
+    {
+        "id": 36,
+        "title": "AC Repair",
+        "category": "Training",
+        "amount": 32243,
+        "mode": "Cheque",
+        "date": "2024-02-14",
+        "created_at": "2024-02-14 10:26:00",
+        "updated_at": "2024-02-14 10:26:00"
+    },
+    {
+        "id": 37,
+        "title": "Website Hosting",
+        "category": "Office Rent",
+        "amount": 36989,
+        "mode": "Cheque",
+        "date": "2024-06-01",
+        "created_at": "2024-06-01 13:57:00",
+        "updated_at": "2024-06-01 13:57:00"
+    },
+    {
+        "id": 38,
+        "title": "Office Supplies",
+        "category": "Utilities",
+        "amount": 34349,
+        "mode": "Cash",
+        "date": "2025-05-25",
+        "created_at": "2025-05-25 12:26:00",
+        "updated_at": "2025-05-25 12:26:00"
+    },
+    {
+        "id": 39,
+        "title": "Phone Bill",
+        "category": "Legal",
+        "amount": 10942,
+        "mode": "Cheque",
+        "date": "2025-01-19",
+        "created_at": "2025-01-19 18:03:00",
+        "updated_at": "2025-01-19 18:03:00"
+    },
+    {
+        "id": 40,
+        "title": "Office Rent",
+        "category": "Telephone",
+        "amount": 2303,
+        "mode": "Online",
+        "date": "2024-08-22",
+        "created_at": "2024-08-22 08:39:00",
+        "updated_at": "2024-08-22 08:39:00"
+    },
+    {
+        "id": 41,
+        "title": "Transport Charges",
+        "category": "Software",
+        "amount": 4018,
+        "mode": "UPI",
+        "date": "2026-06-22",
+        "created_at": "2026-06-22 08:11:00",
+        "updated_at": "2026-06-22 08:11:00"
+    },
+    {
+        "id": 42,
+        "title": "Website Hosting",
+        "category": "Software",
+        "amount": 42835,
+        "mode": "Cheque",
+        "date": "2025-03-20",
+        "created_at": "2025-03-20 08:14:00",
+        "updated_at": "2025-03-20 08:14:00"
+    },
+    {
+        "id": 43,
+        "title": "Water Bill",
+        "category": "Transport",
+        "amount": 31936,
+        "mode": "Online",
+        "date": "2025-08-26",
+        "created_at": "2025-08-26 13:26:00",
+        "updated_at": "2025-08-26 13:26:00"
+    },
+    {
+        "id": 44,
+        "title": "Phone Bill",
+        "category": "Training",
+        "amount": 40579,
+        "mode": "Online",
+        "date": "2026-02-06",
+        "created_at": "2026-02-06 15:05:00",
+        "updated_at": "2026-02-06 15:05:00"
+    },
+    {
+        "id": 45,
+        "title": "Parking Fees",
+        "category": "Internet",
+        "amount": 36118,
+        "mode": "Cheque",
+        "date": "2024-09-03",
+        "created_at": "2024-09-03 10:28:00",
+        "updated_at": "2024-09-03 10:28:00"
+    },
+    {
+        "id": 46,
+        "title": "Legal Consultation",
+        "category": "Supplies",
+        "amount": 47561,
+        "mode": "Cash",
+        "date": "2024-11-01",
+        "created_at": "2024-11-01 09:40:00",
+        "updated_at": "2024-11-01 09:40:00"
+    },
+    {
+        "id": 47,
+        "title": "Food & Beverages",
+        "category": "Travel",
+        "amount": 23151,
+        "mode": "Online",
+        "date": "2025-10-03",
+        "created_at": "2025-10-03 17:03:00",
+        "updated_at": "2025-10-03 17:03:00"
+    },
+    {
+        "id": 48,
+        "title": "Employee Training",
+        "category": "Repairs",
+        "amount": 39580,
+        "mode": "UPI",
+        "date": "2025-01-27",
+        "created_at": "2025-01-27 08:23:00",
+        "updated_at": "2025-01-27 08:23:00"
+    },
+    {
+        "id": 49,
+        "title": "Legal Consultation",
+        "category": "Travel",
+        "amount": 847,
+        "mode": "Cheque",
+        "date": "2024-01-10",
+        "created_at": "2024-01-10 12:30:00",
+        "updated_at": "2024-01-10 12:30:00"
+    },
+    {
+        "id": 50,
+        "title": "Client Dinner",
+        "category": "Marketing",
+        "amount": 41349,
+        "mode": "Online",
+        "date": "2024-07-26",
+        "created_at": "2024-07-26 13:21:00",
+        "updated_at": "2024-07-26 13:21:00"
+    },
+    {
+        "id": 51,
+        "title": "Stationery Purchase",
+        "category": "Insurance",
+        "amount": 1401,
+        "mode": "UPI",
+        "date": "2024-07-19",
+        "created_at": "2024-07-19 16:51:00",
+        "updated_at": "2024-07-19 16:51:00"
+    },
+    {
+        "id": 52,
+        "title": "Team Travel",
+        "category": "Printing",
+        "amount": 46116,
+        "mode": "Cash",
+        "date": "2025-12-26",
+        "created_at": "2025-12-26 13:23:00",
+        "updated_at": "2025-12-26 13:23:00"
+    },
+    {
+        "id": 53,
+        "title": "AC Repair",
+        "category": "Utilities",
+        "amount": 32188,
+        "mode": "Cash",
+        "date": "2026-05-21",
+        "created_at": "2026-05-21 14:20:00",
+        "updated_at": "2026-05-21 14:20:00"
+    },
+    {
+        "id": 54,
+        "title": "Printer Maintenance",
+        "category": "Transport",
+        "amount": 49170,
+        "mode": "Cash",
+        "date": "2025-10-03",
+        "created_at": "2025-10-03 09:52:00",
+        "updated_at": "2025-10-03 09:52:00"
+    },
+    {
+        "id": 55,
+        "title": "Courier Charges",
+        "category": "Utilities",
+        "amount": 4408,
+        "mode": "UPI",
+        "date": "2025-08-12",
+        "created_at": "2025-08-12 16:26:00",
+        "updated_at": "2025-08-12 16:26:00"
+    },
+    {
+        "id": 56,
+        "title": "First Aid Supplies",
+        "category": "Insurance",
+        "amount": 37683,
+        "mode": "Online",
+        "date": "2024-12-03",
+        "created_at": "2024-12-03 15:41:00",
+        "updated_at": "2024-12-03 15:41:00"
+    },
+    {
+        "id": 57,
+        "title": "Office Internet",
+        "category": "Utilities",
+        "amount": 8562,
+        "mode": "UPI",
+        "date": "2026-04-07",
+        "created_at": "2026-04-07 11:15:00",
+        "updated_at": "2026-04-07 11:15:00"
+    },
+    {
+        "id": 58,
+        "title": "Transport Charges",
+        "category": "Insurance",
+        "amount": 45502,
+        "mode": "UPI",
+        "date": "2024-01-31",
+        "created_at": "2024-01-31 13:38:00",
+        "updated_at": "2024-01-31 13:38:00"
+    },
+    {
+        "id": 59,
+        "title": "Printer Maintenance",
+        "category": "Software",
+        "amount": 45272,
+        "mode": "Cash",
+        "date": "2024-03-22",
+        "created_at": "2024-03-22 11:45:00",
+        "updated_at": "2024-03-22 11:45:00"
+    },
+    {
+        "id": 60,
+        "title": "Employee Training",
+        "category": "Printing",
+        "amount": 44658,
+        "mode": "Cash",
+        "date": "2025-09-01",
+        "created_at": "2025-09-01 15:09:00",
+        "updated_at": "2025-09-01 15:09:00"
+    },
+    {
+        "id": 61,
+        "title": "Domain Renewal",
+        "category": "Training",
+        "amount": 20596,
+        "mode": "Cheque",
+        "date": "2024-02-22",
+        "created_at": "2024-02-22 09:10:00",
+        "updated_at": "2024-02-22 09:10:00"
+    },
+    {
+        "id": 62,
+        "title": "Water Bill",
+        "category": "Food & Beverages",
+        "amount": 16550,
+        "mode": "Cash",
+        "date": "2024-12-12",
+        "created_at": "2024-12-12 12:26:00",
+        "updated_at": "2024-12-12 12:26:00"
+    },
+    {
+        "id": 63,
+        "title": "Office Snacks",
+        "category": "Food & Beverages",
+        "amount": 22210,
+        "mode": "Cheque",
+        "date": "2026-04-19",
+        "created_at": "2026-04-19 08:09:00",
+        "updated_at": "2026-04-19 08:09:00"
+    },
+    {
+        "id": 64,
+        "title": "Office Internet",
+        "category": "Printing",
+        "amount": 31659,
+        "mode": "Online",
+        "date": "2025-09-30",
+        "created_at": "2025-09-30 10:27:00",
+        "updated_at": "2025-09-30 10:27:00"
+    },
+    {
+        "id": 65,
+        "title": "Courier Charges",
+        "category": "Utilities",
+        "amount": 5302,
+        "mode": "UPI",
+        "date": "2026-05-18",
+        "created_at": "2026-05-18 14:34:00",
+        "updated_at": "2026-05-18 14:34:00"
+    },
+    {
+        "id": 66,
+        "title": "Office Internet",
+        "category": "Travel",
+        "amount": 38867,
+        "mode": "UPI",
+        "date": "2026-07-13",
+        "created_at": "2026-07-13 12:15:00",
+        "updated_at": "2026-07-13 12:15:00"
+    },
+    {
+        "id": 67,
+        "title": "Office Supplies",
+        "category": "Food & Beverages",
+        "amount": 33937,
+        "mode": "Online",
+        "date": "2024-07-05",
+        "created_at": "2024-07-05 18:24:00",
+        "updated_at": "2024-07-05 18:24:00"
+    },
+    {
+        "id": 68,
+        "title": "Generator Fuel",
+        "category": "Internet",
+        "amount": 1527,
+        "mode": "UPI",
+        "date": "2024-04-19",
+        "created_at": "2024-04-19 14:05:00",
+        "updated_at": "2024-04-19 14:05:00"
+    },
+    {
+        "id": 69,
+        "title": "Office Snacks",
+        "category": "Food & Beverages",
+        "amount": 12293,
+        "mode": "Cash",
+        "date": "2026-05-18",
+        "created_at": "2026-05-18 12:05:00",
+        "updated_at": "2026-05-18 12:05:00"
+    },
+    {
+        "id": 70,
+        "title": "Team Travel",
+        "category": "Software",
+        "amount": 22220,
+        "mode": "Cash",
+        "date": "2025-11-19",
+        "created_at": "2025-11-19 18:14:00",
+        "updated_at": "2025-11-19 18:14:00"
+    },
+    {
+        "id": 71,
+        "title": "Security System",
+        "category": "Software",
+        "amount": 9928,
+        "mode": "UPI",
+        "date": "2024-04-16",
+        "created_at": "2024-04-16 15:57:00",
+        "updated_at": "2024-04-16 15:57:00"
+    },
+    {
+        "id": 72,
+        "title": "Courier Charges",
+        "category": "Internet",
+        "amount": 9085,
+        "mode": "Cheque",
+        "date": "2026-06-11",
+        "created_at": "2026-06-11 09:37:00",
+        "updated_at": "2026-06-11 09:37:00"
+    },
+    {
+        "id": 73,
+        "title": "Office Supplies",
+        "category": "Repairs",
+        "amount": 49692,
+        "mode": "Online",
+        "date": "2025-08-07",
+        "created_at": "2025-08-07 09:40:00",
+        "updated_at": "2025-08-07 09:40:00"
+    },
+    {
+        "id": 74,
+        "title": "Website Hosting",
+        "category": "Marketing",
+        "amount": 40769,
+        "mode": "Cash",
+        "date": "2024-10-05",
+        "created_at": "2024-10-05 13:38:00",
+        "updated_at": "2024-10-05 13:38:00"
+    },
+    {
+        "id": 75,
+        "title": "Stationery Purchase",
+        "category": "Repairs",
+        "amount": 9197,
+        "mode": "UPI",
+        "date": "2025-01-09",
+        "created_at": "2025-01-09 11:06:00",
+        "updated_at": "2025-01-09 11:06:00"
+    },
+    {
+        "id": 76,
+        "title": "Software Subscription",
+        "category": "Travel",
+        "amount": 35623,
+        "mode": "Cheque",
+        "date": "2024-03-17",
+        "created_at": "2024-03-17 18:40:00",
+        "updated_at": "2024-03-17 18:40:00"
+    },
+    {
+        "id": 77,
+        "title": "Courier Charges",
+        "category": "Repairs",
+        "amount": 33747,
+        "mode": "UPI",
+        "date": "2025-07-05",
+        "created_at": "2025-07-05 13:46:00",
+        "updated_at": "2025-07-05 13:46:00"
+    },
+    {
+        "id": 78,
+        "title": "AC Repair",
+        "category": "Software",
+        "amount": 4109,
+        "mode": "Cheque",
+        "date": "2024-09-26",
+        "created_at": "2024-09-26 13:45:00",
+        "updated_at": "2024-09-26 13:45:00"
+    },
+    {
+        "id": 79,
+        "title": "Printer Maintenance",
+        "category": "Telephone",
+        "amount": 13670,
+        "mode": "UPI",
+        "date": "2026-09-19",
+        "created_at": "2026-09-19 15:48:00",
+        "updated_at": "2026-09-19 15:48:00"
+    },
+    {
+        "id": 80,
+        "title": "Courier Charges",
+        "category": "Software",
+        "amount": 22595,
+        "mode": "Cheque",
+        "date": "2024-12-21",
+        "created_at": "2024-12-21 13:24:00",
+        "updated_at": "2024-12-21 13:24:00"
+    },
+    {
+        "id": 81,
+        "title": "Parking Fees",
+        "category": "Internet",
+        "amount": 15481,
+        "mode": "Online",
+        "date": "2025-05-14",
+        "created_at": "2025-05-14 13:37:00",
+        "updated_at": "2025-05-14 13:37:00"
+    },
+    {
+        "id": 82,
+        "title": "Website Hosting",
+        "category": "Supplies",
+        "amount": 35342,
+        "mode": "Cheque",
+        "date": "2024-09-27",
+        "created_at": "2024-09-27 08:43:00",
+        "updated_at": "2024-09-27 08:43:00"
+    },
+    {
+        "id": 83,
+        "title": "Insurance Premium",
+        "category": "Supplies",
+        "amount": 9236,
+        "mode": "UPI",
+        "date": "2025-07-08",
+        "created_at": "2025-07-08 13:40:00",
+        "updated_at": "2025-07-08 13:40:00"
+    },
+    {
+        "id": 84,
+        "title": "Electricity Bill",
+        "category": "Office Rent",
+        "amount": 23127,
+        "mode": "Cash",
+        "date": "2024-02-02",
+        "created_at": "2024-02-02 10:23:00",
+        "updated_at": "2024-02-02 10:23:00"
+    },
+    {
+        "id": 85,
+        "title": "Electricity Bill",
+        "category": "Utilities",
+        "amount": 33397,
+        "mode": "Online",
+        "date": "2024-05-11",
+        "created_at": "2024-05-11 10:56:00",
+        "updated_at": "2024-05-11 10:56:00"
+    },
+    {
+        "id": 86,
+        "title": "Office Internet",
+        "category": "Supplies",
+        "amount": 29295,
+        "mode": "UPI",
+        "date": "2024-02-10",
+        "created_at": "2024-02-10 13:26:00",
+        "updated_at": "2024-02-10 13:26:00"
+    },
+    {
+        "id": 87,
+        "title": "Marketing Campaign",
+        "category": "Utilities",
+        "amount": 44232,
+        "mode": "Online",
+        "date": "2025-10-22",
+        "created_at": "2025-10-22 11:43:00",
+        "updated_at": "2025-10-22 11:43:00"
+    },
+    {
+        "id": 88,
+        "title": "Team Travel",
+        "category": "Software",
+        "amount": 12206,
+        "mode": "Cash",
+        "date": "2026-07-18",
+        "created_at": "2026-07-18 18:39:00",
+        "updated_at": "2026-07-18 18:39:00"
+    },
+    {
+        "id": 89,
+        "title": "Team Lunch",
+        "category": "Marketing",
+        "amount": 49093,
+        "mode": "Cheque",
+        "date": "2024-07-29",
+        "created_at": "2024-07-29 13:51:00",
+        "updated_at": "2024-07-29 13:51:00"
+    },
+    {
+        "id": 90,
+        "title": "Security System",
+        "category": "Marketing",
+        "amount": 3079,
+        "mode": "Cheque",
+        "date": "2025-02-10",
+        "created_at": "2025-02-10 15:58:00",
+        "updated_at": "2025-02-10 15:58:00"
+    },
+    {
+        "id": 91,
+        "title": "Office Rent",
+        "category": "Repairs",
+        "amount": 16528,
+        "mode": "Cheque",
+        "date": "2024-03-11",
+        "created_at": "2024-03-11 16:43:00",
+        "updated_at": "2024-03-11 16:43:00"
+    },
+    {
+        "id": 92,
+        "title": "Generator Fuel",
+        "category": "Printing",
+        "amount": 30856,
+        "mode": "Online",
+        "date": "2024-04-22",
+        "created_at": "2024-04-22 12:16:00",
+        "updated_at": "2024-04-22 12:16:00"
+    },
+    {
+        "id": 93,
+        "title": "Courier Charges",
+        "category": "Training",
+        "amount": 36641,
+        "mode": "Online",
+        "date": "2024-06-04",
+        "created_at": "2024-06-04 18:17:00",
+        "updated_at": "2024-06-04 18:17:00"
+    },
+    {
+        "id": 94,
+        "title": "Electricity Bill",
+        "category": "Repairs",
+        "amount": 37654,
+        "mode": "Cash",
+        "date": "2025-11-04",
+        "created_at": "2025-11-04 10:41:00",
+        "updated_at": "2025-11-04 10:41:00"
+    },
+    {
+        "id": 95,
+        "title": "Office Internet",
+        "category": "Telephone",
+        "amount": 40616,
+        "mode": "UPI",
+        "date": "2026-08-09",
+        "created_at": "2026-08-09 13:39:00",
+        "updated_at": "2026-08-09 13:39:00"
+    },
+    {
+        "id": 96,
+        "title": "Transport Charges",
+        "category": "Marketing",
+        "amount": 27325,
+        "mode": "Cash",
+        "date": "2026-04-16",
+        "created_at": "2026-04-16 18:42:00",
+        "updated_at": "2026-04-16 18:42:00"
+    },
+    {
+        "id": 97,
+        "title": "Printer Maintenance",
+        "category": "Utilities",
+        "amount": 39000,
+        "mode": "UPI",
+        "date": "2026-02-14",
+        "created_at": "2026-02-14 13:35:00",
+        "updated_at": "2026-02-14 13:35:00"
+    },
+    {
+        "id": 98,
+        "title": "Electricity Bill",
+        "category": "Insurance",
+        "amount": 47298,
+        "mode": "Cheque",
+        "date": "2025-09-16",
+        "created_at": "2025-09-16 12:22:00",
+        "updated_at": "2025-09-16 12:22:00"
+    },
+    {
+        "id": 99,
+        "title": "Electricity Bill",
+        "category": "Utilities",
+        "amount": 4549,
+        "mode": "Cheque",
+        "date": "2024-07-16",
+        "created_at": "2024-07-16 13:48:00",
+        "updated_at": "2024-07-16 13:48:00"
+    },
+    {
+        "id": 100,
+        "title": "Client Dinner",
+        "category": "Telephone",
+        "amount": 8520,
+        "mode": "Online",
+        "date": "2026-06-13",
+        "created_at": "2026-06-13 18:28:00",
+        "updated_at": "2026-06-13 18:28:00"
+    },
+    {
+        "id": 101,
+        "title": "Marketing Campaign",
+        "category": "Utilities",
+        "amount": 26941,
+        "mode": "Cash",
+        "date": "2025-09-12",
+        "created_at": "2025-09-12 10:55:00",
+        "updated_at": "2025-09-12 10:55:00"
+    },
+    {
+        "id": 102,
+        "title": "Client Dinner",
+        "category": "Insurance",
+        "amount": 14030,
+        "mode": "Cheque",
+        "date": "2025-07-23",
+        "created_at": "2025-07-23 12:57:00",
+        "updated_at": "2025-07-23 12:57:00"
+    },
+    {
+        "id": 103,
+        "title": "Transport Charges",
+        "category": "Office Rent",
+        "amount": 2639,
+        "mode": "UPI",
+        "date": "2024-05-29",
+        "created_at": "2024-05-29 10:43:00",
+        "updated_at": "2024-05-29 10:43:00"
+    },
+    {
+        "id": 104,
+        "title": "Parking Fees",
+        "category": "Office Rent",
+        "amount": 43042,
+        "mode": "UPI",
+        "date": "2024-04-23",
+        "created_at": "2024-04-23 14:03:00",
+        "updated_at": "2024-04-23 14:03:00"
+    },
+    {
+        "id": 105,
+        "title": "Stationery Purchase",
+        "category": "Internet",
+        "amount": 47385,
+        "mode": "Cheque",
+        "date": "2026-06-23",
+        "created_at": "2026-06-23 16:18:00",
+        "updated_at": "2026-06-23 16:18:00"
+    },
+    {
+        "id": 106,
+        "title": "First Aid Supplies",
+        "category": "Repairs",
+        "amount": 46312,
+        "mode": "UPI",
+        "date": "2025-02-20",
+        "created_at": "2025-02-20 12:24:00",
+        "updated_at": "2025-02-20 12:24:00"
+    },
+    {
+        "id": 107,
+        "title": "Office Internet",
+        "category": "Software",
+        "amount": 30938,
+        "mode": "UPI",
+        "date": "2024-10-21",
+        "created_at": "2024-10-21 08:07:00",
+        "updated_at": "2024-10-21 08:07:00"
+    },
+    {
+        "id": 108,
+        "title": "Insurance Premium",
+        "category": "Telephone",
+        "amount": 44163,
+        "mode": "Cash",
+        "date": "2026-09-15",
+        "created_at": "2026-09-15 17:50:00",
+        "updated_at": "2026-09-15 17:50:00"
+    },
+    {
+        "id": 109,
+        "title": "Office Cleaning",
+        "category": "Transport",
+        "amount": 678,
+        "mode": "Online",
+        "date": "2026-02-16",
+        "created_at": "2026-02-16 15:38:00",
+        "updated_at": "2026-02-16 15:38:00"
+    },
+    {
+        "id": 110,
+        "title": "Transport Charges",
+        "category": "Office Rent",
+        "amount": 28548,
+        "mode": "Cheque",
+        "date": "2024-06-10",
+        "created_at": "2024-06-10 10:19:00",
+        "updated_at": "2024-06-10 10:19:00"
+    },
+    {
+        "id": 111,
+        "title": "Parking Fees",
+        "category": "Software",
+        "amount": 41817,
+        "mode": "Online",
+        "date": "2025-04-25",
+        "created_at": "2025-04-25 16:38:00",
+        "updated_at": "2025-04-25 16:38:00"
+    },
+    {
+        "id": 112,
+        "title": "Office Cleaning",
+        "category": "Software",
+        "amount": 17256,
+        "mode": "Cheque",
+        "date": "2026-08-24",
+        "created_at": "2026-08-24 10:00:00",
+        "updated_at": "2026-08-24 10:00:00"
+    },
+    {
+        "id": 113,
+        "title": "Office Rent",
+        "category": "Utilities",
+        "amount": 35852,
+        "mode": "UPI",
+        "date": "2024-10-24",
+        "created_at": "2024-10-24 09:55:00",
+        "updated_at": "2024-10-24 09:55:00"
+    },
+    {
+        "id": 114,
+        "title": "Furniture Purchase",
+        "category": "Training",
+        "amount": 21811,
+        "mode": "Online",
+        "date": "2026-07-28",
+        "created_at": "2026-07-28 14:05:00",
+        "updated_at": "2026-07-28 14:05:00"
+    },
+    {
+        "id": 115,
+        "title": "Electricity Bill",
+        "category": "Internet",
+        "amount": 21768,
+        "mode": "Cash",
+        "date": "2026-08-02",
+        "created_at": "2026-08-02 14:40:00",
+        "updated_at": "2026-08-02 14:40:00"
+    },
+    {
+        "id": 116,
+        "title": "Security System",
+        "category": "Repairs",
+        "amount": 19589,
+        "mode": "Cheque",
+        "date": "2025-02-26",
+        "created_at": "2025-02-26 17:56:00",
+        "updated_at": "2025-02-26 17:56:00"
+    },
+    {
+        "id": 117,
+        "title": "Office Internet",
+        "category": "Legal",
+        "amount": 4186,
+        "mode": "Cash",
+        "date": "2024-01-13",
+        "created_at": "2024-01-13 18:16:00",
+        "updated_at": "2024-01-13 18:16:00"
+    },
+    {
+        "id": 118,
+        "title": "Courier Charges",
+        "category": "Supplies",
+        "amount": 42429,
+        "mode": "Cash",
+        "date": "2024-12-01",
+        "created_at": "2024-12-01 15:31:00",
+        "updated_at": "2024-12-01 15:31:00"
+    },
+    {
+        "id": 119,
+        "title": "Domain Renewal",
+        "category": "Training",
+        "amount": 48843,
+        "mode": "UPI",
+        "date": "2025-06-13",
+        "created_at": "2025-06-13 13:28:00",
+        "updated_at": "2025-06-13 13:28:00"
+    },
+    {
+        "id": 120,
+        "title": "Furniture Purchase",
+        "category": "Training",
+        "amount": 5174,
+        "mode": "Online",
+        "date": "2025-07-27",
+        "created_at": "2025-07-27 14:08:00",
+        "updated_at": "2025-07-27 14:08:00"
+    },
+    {
+        "id": 121,
+        "title": "Food & Beverages",
+        "category": "Food & Beverages",
+        "amount": 7511,
+        "mode": "Online",
+        "date": "2024-07-31",
+        "created_at": "2024-07-31 16:15:00",
+        "updated_at": "2024-07-31 16:15:00"
+    },
+    {
+        "id": 122,
+        "title": "Electricity Bill",
+        "category": "Travel",
+        "amount": 2007,
+        "mode": "Cash",
+        "date": "2024-01-31",
+        "created_at": "2024-01-31 18:35:00",
+        "updated_at": "2024-01-31 18:35:00"
+    },
+    {
+        "id": 123,
+        "title": "AC Repair",
+        "category": "Travel",
+        "amount": 37624,
+        "mode": "Cash",
+        "date": "2025-04-08",
+        "created_at": "2025-04-08 13:34:00",
+        "updated_at": "2025-04-08 13:34:00"
+    },
+    {
+        "id": 124,
+        "title": "Client Dinner",
+        "category": "Food & Beverages",
+        "amount": 2904,
+        "mode": "Online",
+        "date": "2025-10-17",
+        "created_at": "2025-10-17 16:11:00",
+        "updated_at": "2025-10-17 16:11:00"
+    },
+    {
+        "id": 125,
+        "title": "AC Repair",
+        "category": "Software",
+        "amount": 48773,
+        "mode": "Online",
+        "date": "2026-01-31",
+        "created_at": "2026-01-31 17:54:00",
+        "updated_at": "2026-01-31 17:54:00"
+    },
+    {
+        "id": 126,
+        "title": "Electricity Bill",
+        "category": "Food & Beverages",
+        "amount": 565,
+        "mode": "Cheque",
+        "date": "2025-04-12",
+        "created_at": "2025-04-12 09:14:00",
+        "updated_at": "2025-04-12 09:14:00"
+    },
+    {
+        "id": 127,
+        "title": "Office Snacks",
+        "category": "Travel",
+        "amount": 47111,
+        "mode": "Cash",
+        "date": "2024-12-26",
+        "created_at": "2024-12-26 09:12:00",
+        "updated_at": "2024-12-26 09:12:00"
+    },
+    {
+        "id": 128,
+        "title": "CCTV Maintenance",
+        "category": "Telephone",
+        "amount": 10917,
+        "mode": "Cheque",
+        "date": "2025-11-27",
+        "created_at": "2025-11-27 12:16:00",
+        "updated_at": "2025-11-27 12:16:00"
+    },
+    {
+        "id": 129,
+        "title": "CCTV Maintenance",
+        "category": "Repairs",
+        "amount": 16373,
+        "mode": "Online",
+        "date": "2024-11-19",
+        "created_at": "2024-11-19 12:32:00",
+        "updated_at": "2024-11-19 12:32:00"
+    },
+    {
+        "id": 130,
+        "title": "Team Travel",
+        "category": "Internet",
+        "amount": 17767,
+        "mode": "Cash",
+        "date": "2024-09-18",
+        "created_at": "2024-09-18 18:42:00",
+        "updated_at": "2024-09-18 18:42:00"
+    },
+    {
+        "id": 131,
+        "title": "Office Supplies",
+        "category": "Marketing",
+        "amount": 26173,
+        "mode": "Online",
+        "date": "2024-01-02",
+        "created_at": "2024-01-02 15:16:00",
+        "updated_at": "2024-01-02 15:16:00"
+    },
+    {
+        "id": 132,
+        "title": "Security System",
+        "category": "Internet",
+        "amount": 19167,
+        "mode": "UPI",
+        "date": "2025-03-20",
+        "created_at": "2025-03-20 13:36:00",
+        "updated_at": "2025-03-20 13:36:00"
+    },
+    {
+        "id": 133,
+        "title": "Employee Training",
+        "category": "Printing",
+        "amount": 5242,
+        "mode": "Online",
+        "date": "2025-09-19",
+        "created_at": "2025-09-19 10:20:00",
+        "updated_at": "2025-09-19 10:20:00"
+    },
+    {
+        "id": 134,
+        "title": "Printer Maintenance",
+        "category": "Office Rent",
+        "amount": 7520,
+        "mode": "UPI",
+        "date": "2025-08-02",
+        "created_at": "2025-08-02 16:09:00",
+        "updated_at": "2025-08-02 16:09:00"
+    },
+    {
+        "id": 135,
+        "title": "Office Supplies",
+        "category": "Utilities",
+        "amount": 32850,
+        "mode": "Cheque",
+        "date": "2026-07-01",
+        "created_at": "2026-07-01 10:52:00",
+        "updated_at": "2026-07-01 10:52:00"
+    },
+    {
+        "id": 136,
+        "title": "Team Lunch",
+        "category": "Printing",
+        "amount": 27408,
+        "mode": "Cheque",
+        "date": "2026-01-26",
+        "created_at": "2026-01-26 14:41:00",
+        "updated_at": "2026-01-26 14:41:00"
+    },
+    {
+        "id": 137,
+        "title": "Marketing Campaign",
+        "category": "Food & Beverages",
+        "amount": 14329,
+        "mode": "Online",
+        "date": "2024-06-10",
+        "created_at": "2024-06-10 12:55:00",
+        "updated_at": "2024-06-10 12:55:00"
+    },
+    {
+        "id": 138,
+        "title": "Employee Training",
+        "category": "Utilities",
+        "amount": 16993,
+        "mode": "UPI",
+        "date": "2025-05-27",
+        "created_at": "2025-05-27 09:56:00",
+        "updated_at": "2025-05-27 09:56:00"
+    },
+    {
+        "id": 139,
+        "title": "Transport Charges",
+        "category": "Training",
+        "amount": 9756,
+        "mode": "Cheque",
+        "date": "2026-06-27",
+        "created_at": "2026-06-27 17:46:00",
+        "updated_at": "2026-06-27 17:46:00"
+    },
+    {
+        "id": 140,
+        "title": "Team Travel",
+        "category": "Food & Beverages",
+        "amount": 47098,
+        "mode": "Online",
+        "date": "2025-12-18",
+        "created_at": "2025-12-18 10:55:00",
+        "updated_at": "2025-12-18 10:55:00"
+    },
+    {
+        "id": 141,
+        "title": "Electricity Bill",
+        "category": "Internet",
+        "amount": 702,
+        "mode": "Cash",
+        "date": "2025-06-09",
+        "created_at": "2025-06-09 12:45:00",
+        "updated_at": "2025-06-09 12:45:00"
+    },
+    {
+        "id": 142,
+        "title": "Printer Maintenance",
+        "category": "Office Rent",
+        "amount": 8396,
+        "mode": "Online",
+        "date": "2026-09-04",
+        "created_at": "2026-09-04 09:11:00",
+        "updated_at": "2026-09-04 09:11:00"
+    },
+    {
+        "id": 143,
+        "title": "Generator Fuel",
+        "category": "Office Rent",
+        "amount": 19548,
+        "mode": "Cash",
+        "date": "2025-06-24",
+        "created_at": "2025-06-24 12:27:00",
+        "updated_at": "2025-06-24 12:27:00"
+    },
+    {
+        "id": 144,
+        "title": "Security System",
+        "category": "Telephone",
+        "amount": 11503,
+        "mode": "UPI",
+        "date": "2024-07-28",
+        "created_at": "2024-07-28 12:53:00",
+        "updated_at": "2024-07-28 12:53:00"
+    },
+    {
+        "id": 145,
+        "title": "Domain Renewal",
+        "category": "Software",
+        "amount": 39321,
+        "mode": "Online",
+        "date": "2026-03-20",
+        "created_at": "2026-03-20 09:19:00",
+        "updated_at": "2026-03-20 09:19:00"
+    },
+    {
+        "id": 146,
+        "title": "Office Rent",
+        "category": "Utilities",
+        "amount": 25852,
+        "mode": "UPI",
+        "date": "2026-09-08",
+        "created_at": "2026-09-08 09:30:00",
+        "updated_at": "2026-09-08 09:30:00"
+    },
+    {
+        "id": 147,
+        "title": "Website Hosting",
+        "category": "Repairs",
+        "amount": 43763,
+        "mode": "Cheque",
+        "date": "2026-07-13",
+        "created_at": "2026-07-13 11:56:00",
+        "updated_at": "2026-07-13 11:56:00"
+    },
+    {
+        "id": 148,
+        "title": "Transport Charges",
+        "category": "Supplies",
+        "amount": 32988,
+        "mode": "Cash",
+        "date": "2024-05-17",
+        "created_at": "2024-05-17 08:47:00",
+        "updated_at": "2024-05-17 08:47:00"
+    },
+    {
+        "id": 149,
+        "title": "Website Hosting",
+        "category": "Repairs",
+        "amount": 43964,
+        "mode": "Cheque",
+        "date": "2026-03-11",
+        "created_at": "2026-03-11 14:19:00",
+        "updated_at": "2026-03-11 14:19:00"
+    },
+    {
+        "id": 150,
+        "title": "Office Rent",
+        "category": "Office Rent",
+        "amount": 27941,
+        "mode": "UPI",
+        "date": "2026-06-07",
+        "created_at": "2026-06-07 10:14:00",
+        "updated_at": "2026-06-07 10:14:00"
+    },
+    {
+        "id": 151,
+        "title": "Furniture Purchase",
+        "category": "Food & Beverages",
+        "amount": 47561,
+        "mode": "UPI",
+        "date": "2024-03-16",
+        "created_at": "2024-03-16 14:59:00",
+        "updated_at": "2024-03-16 14:59:00"
+    },
+    {
+        "id": 152,
+        "title": "Employee Training",
+        "category": "Marketing",
+        "amount": 47506,
+        "mode": "Cash",
+        "date": "2025-06-14",
+        "created_at": "2025-06-14 13:43:00",
+        "updated_at": "2025-06-14 13:43:00"
+    },
+    {
+        "id": 153,
+        "title": "Office Supplies",
+        "category": "Repairs",
+        "amount": 48188,
+        "mode": "UPI",
+        "date": "2026-02-04",
+        "created_at": "2026-02-04 09:03:00",
+        "updated_at": "2026-02-04 09:03:00"
+    },
+    {
+        "id": 154,
+        "title": "Printer Maintenance",
+        "category": "Insurance",
+        "amount": 46370,
+        "mode": "Cash",
+        "date": "2024-10-29",
+        "created_at": "2024-10-29 13:26:00",
+        "updated_at": "2024-10-29 13:26:00"
+    },
+    {
+        "id": 155,
+        "title": "Stationery Purchase",
+        "category": "Telephone",
+        "amount": 33701,
+        "mode": "Cash",
+        "date": "2024-05-10",
+        "created_at": "2024-05-10 11:29:00",
+        "updated_at": "2024-05-10 11:29:00"
+    },
+    {
+        "id": 156,
+        "title": "Marketing Campaign",
+        "category": "Office Rent",
+        "amount": 38417,
+        "mode": "Cash",
+        "date": "2025-06-27",
+        "created_at": "2025-06-27 15:07:00",
+        "updated_at": "2025-06-27 15:07:00"
+    },
+    {
+        "id": 157,
+        "title": "Transport Charges",
+        "category": "Legal",
+        "amount": 4240,
+        "mode": "UPI",
+        "date": "2024-07-15",
+        "created_at": "2024-07-15 12:31:00",
+        "updated_at": "2024-07-15 12:31:00"
+    },
+    {
+        "id": 158,
+        "title": "Security System",
+        "category": "Legal",
+        "amount": 48651,
+        "mode": "Cash",
+        "date": "2025-05-22",
+        "created_at": "2025-05-22 08:21:00",
+        "updated_at": "2025-05-22 08:21:00"
+    },
+    {
+        "id": 159,
+        "title": "Phone Bill",
+        "category": "Office Rent",
+        "amount": 39594,
+        "mode": "Online",
+        "date": "2024-02-09",
+        "created_at": "2024-02-09 18:11:00",
+        "updated_at": "2024-02-09 18:11:00"
+    },
+    {
+        "id": 160,
+        "title": "Domain Renewal",
+        "category": "Internet",
+        "amount": 17925,
+        "mode": "Cheque",
+        "date": "2024-08-14",
+        "created_at": "2024-08-14 16:24:00",
+        "updated_at": "2024-08-14 16:24:00"
+    },
+    {
+        "id": 161,
+        "title": "Team Travel",
+        "category": "Transport",
+        "amount": 1070,
+        "mode": "Online",
+        "date": "2025-11-05",
+        "created_at": "2025-11-05 08:55:00",
+        "updated_at": "2025-11-05 08:55:00"
+    },
+    {
+        "id": 162,
+        "title": "Water Bill",
+        "category": "Training",
+        "amount": 25226,
+        "mode": "Cheque",
+        "date": "2026-04-21",
+        "created_at": "2026-04-21 18:37:00",
+        "updated_at": "2026-04-21 18:37:00"
+    },
+    {
+        "id": 163,
+        "title": "Legal Consultation",
+        "category": "Travel",
+        "amount": 12971,
+        "mode": "Online",
+        "date": "2025-02-09",
+        "created_at": "2025-02-09 08:13:00",
+        "updated_at": "2025-02-09 08:13:00"
+    },
+    {
+        "id": 164,
+        "title": "Office Snacks",
+        "category": "Printing",
+        "amount": 29542,
+        "mode": "Online",
+        "date": "2025-07-18",
+        "created_at": "2025-07-18 09:52:00",
+        "updated_at": "2025-07-18 09:52:00"
+    },
+    {
+        "id": 165,
+        "title": "Transport Charges",
+        "category": "Internet",
+        "amount": 13960,
+        "mode": "Online",
+        "date": "2025-10-22",
+        "created_at": "2025-10-22 17:01:00",
+        "updated_at": "2025-10-22 17:01:00"
+    },
+    {
+        "id": 166,
+        "title": "Generator Fuel",
+        "category": "Internet",
+        "amount": 43697,
+        "mode": "UPI",
+        "date": "2024-10-21",
+        "created_at": "2024-10-21 18:39:00",
+        "updated_at": "2024-10-21 18:39:00"
+    },
+    {
+        "id": 167,
+        "title": "Office Snacks",
+        "category": "Utilities",
+        "amount": 33387,
+        "mode": "Online",
+        "date": "2025-05-06",
+        "created_at": "2025-05-06 16:18:00",
+        "updated_at": "2025-05-06 16:18:00"
+    },
+    {
+        "id": 168,
+        "title": "Water Bill",
+        "category": "Food & Beverages",
+        "amount": 18198,
+        "mode": "UPI",
+        "date": "2025-11-16",
+        "created_at": "2025-11-16 09:10:00",
+        "updated_at": "2025-11-16 09:10:00"
+    },
+    {
+        "id": 169,
+        "title": "Food & Beverages",
+        "category": "Food & Beverages",
+        "amount": 1523,
+        "mode": "Cheque",
+        "date": "2025-09-05",
+        "created_at": "2025-09-05 14:15:00",
+        "updated_at": "2025-09-05 14:15:00"
+    },
+    {
+        "id": 170,
+        "title": "Marketing Campaign",
+        "category": "Insurance",
+        "amount": 5590,
+        "mode": "Cheque",
+        "date": "2025-04-02",
+        "created_at": "2025-04-02 15:32:00",
+        "updated_at": "2025-04-02 15:32:00"
+    },
+    {
+        "id": 171,
+        "title": "Printer Maintenance",
+        "category": "Training",
+        "amount": 27150,
+        "mode": "Cash",
+        "date": "2024-04-06",
+        "created_at": "2024-04-06 17:09:00",
+        "updated_at": "2024-04-06 17:09:00"
+    },
+    {
+        "id": 172,
+        "title": "Office Internet",
+        "category": "Transport",
+        "amount": 909,
+        "mode": "Cash",
+        "date": "2026-04-13",
+        "created_at": "2026-04-13 14:47:00",
+        "updated_at": "2026-04-13 14:47:00"
+    },
+    {
+        "id": 173,
+        "title": "Legal Consultation",
+        "category": "Internet",
+        "amount": 9306,
+        "mode": "UPI",
+        "date": "2026-06-05",
+        "created_at": "2026-06-05 09:01:00",
+        "updated_at": "2026-06-05 09:01:00"
+    },
+    {
+        "id": 174,
+        "title": "Marketing Campaign",
+        "category": "Office Rent",
+        "amount": 9330,
+        "mode": "Cheque",
+        "date": "2025-04-12",
+        "created_at": "2025-04-12 17:01:00",
+        "updated_at": "2025-04-12 17:01:00"
+    },
+    {
+        "id": 175,
+        "title": "Office Snacks",
+        "category": "Travel",
+        "amount": 48657,
+        "mode": "UPI",
+        "date": "2026-02-22",
+        "created_at": "2026-02-22 17:35:00",
+        "updated_at": "2026-02-22 17:35:00"
+    },
+    {
+        "id": 176,
+        "title": "Food & Beverages",
+        "category": "Supplies",
+        "amount": 7106,
+        "mode": "Cash",
+        "date": "2024-02-24",
+        "created_at": "2024-02-24 09:32:00",
+        "updated_at": "2024-02-24 09:32:00"
+    },
+    {
+        "id": 177,
+        "title": "Marketing Campaign",
+        "category": "Supplies",
+        "amount": 39911,
+        "mode": "Online",
+        "date": "2024-05-20",
+        "created_at": "2024-05-20 08:12:00",
+        "updated_at": "2024-05-20 08:12:00"
+    },
+    {
+        "id": 178,
+        "title": "Stationery Purchase",
+        "category": "Office Rent",
+        "amount": 14047,
+        "mode": "Online",
+        "date": "2024-02-12",
+        "created_at": "2024-02-12 09:28:00",
+        "updated_at": "2024-02-12 09:28:00"
+    },
+    {
+        "id": 179,
+        "title": "Office Snacks",
+        "category": "Printing",
+        "amount": 5871,
+        "mode": "UPI",
+        "date": "2025-05-23",
+        "created_at": "2025-05-23 16:27:00",
+        "updated_at": "2025-05-23 16:27:00"
+    },
+    {
+        "id": 180,
+        "title": "Team Travel",
+        "category": "Supplies",
+        "amount": 21933,
+        "mode": "Cash",
+        "date": "2025-06-22",
+        "created_at": "2025-06-22 13:54:00",
+        "updated_at": "2025-06-22 13:54:00"
+    },
+    {
+        "id": 181,
+        "title": "Website Hosting",
+        "category": "Marketing",
+        "amount": 27311,
+        "mode": "Cheque",
+        "date": "2025-02-18",
+        "created_at": "2025-02-18 11:45:00",
+        "updated_at": "2025-02-18 11:45:00"
+    },
+    {
+        "id": 182,
+        "title": "Phone Bill",
+        "category": "Repairs",
+        "amount": 31333,
+        "mode": "Cheque",
+        "date": "2025-06-11",
+        "created_at": "2025-06-11 13:45:00",
+        "updated_at": "2025-06-11 13:45:00"
+    },
+    {
+        "id": 183,
+        "title": "Printer Maintenance",
+        "category": "Repairs",
+        "amount": 35316,
+        "mode": "Online",
+        "date": "2026-07-24",
+        "created_at": "2026-07-24 08:47:00",
+        "updated_at": "2026-07-24 08:47:00"
+    },
+    {
+        "id": 184,
+        "title": "Software Subscription",
+        "category": "Travel",
+        "amount": 5781,
+        "mode": "UPI",
+        "date": "2024-12-06",
+        "created_at": "2024-12-06 11:07:00",
+        "updated_at": "2024-12-06 11:07:00"
+    },
+    {
+        "id": 185,
+        "title": "Domain Renewal",
+        "category": "Transport",
+        "amount": 36325,
+        "mode": "UPI",
+        "date": "2026-03-27",
+        "created_at": "2026-03-27 14:28:00",
+        "updated_at": "2026-03-27 14:28:00"
+    },
+    {
+        "id": 186,
+        "title": "CCTV Maintenance",
+        "category": "Legal",
+        "amount": 27857,
+        "mode": "Cheque",
+        "date": "2024-07-14",
+        "created_at": "2024-07-14 15:49:00",
+        "updated_at": "2024-07-14 15:49:00"
+    },
+    {
+        "id": 187,
+        "title": "Website Hosting",
+        "category": "Telephone",
+        "amount": 1040,
+        "mode": "Online",
+        "date": "2026-07-26",
+        "created_at": "2026-07-26 18:44:00",
+        "updated_at": "2026-07-26 18:44:00"
+    },
+    {
+        "id": 188,
+        "title": "First Aid Supplies",
+        "category": "Internet",
+        "amount": 41521,
+        "mode": "Cheque",
+        "date": "2025-03-06",
+        "created_at": "2025-03-06 16:49:00",
+        "updated_at": "2025-03-06 16:49:00"
+    },
+    {
+        "id": 189,
+        "title": "Phone Bill",
+        "category": "Food & Beverages",
+        "amount": 7983,
+        "mode": "Online",
+        "date": "2025-02-26",
+        "created_at": "2025-02-26 09:57:00",
+        "updated_at": "2025-02-26 09:57:00"
+    },
+    {
+        "id": 190,
+        "title": "Water Bill",
+        "category": "Food & Beverages",
+        "amount": 21991,
+        "mode": "UPI",
+        "date": "2025-07-23",
+        "created_at": "2025-07-23 12:11:00",
+        "updated_at": "2025-07-23 12:11:00"
+    },
+    {
+        "id": 191,
+        "title": "First Aid Supplies",
+        "category": "Printing",
+        "amount": 41640,
+        "mode": "Cash",
+        "date": "2026-03-27",
+        "created_at": "2026-03-27 18:17:00",
+        "updated_at": "2026-03-27 18:17:00"
+    },
+    {
+        "id": 192,
+        "title": "AC Repair",
+        "category": "Software",
+        "amount": 38508,
+        "mode": "Cheque",
+        "date": "2024-06-17",
+        "created_at": "2024-06-17 17:52:00",
+        "updated_at": "2024-06-17 17:52:00"
+    },
+    {
+        "id": 193,
+        "title": "Office Supplies",
+        "category": "Food & Beverages",
+        "amount": 44382,
+        "mode": "Cash",
+        "date": "2026-04-24",
+        "created_at": "2026-04-24 15:17:00",
+        "updated_at": "2026-04-24 15:17:00"
+    },
+    {
+        "id": 194,
+        "title": "Legal Consultation",
+        "category": "Internet",
+        "amount": 21377,
+        "mode": "Online",
+        "date": "2025-10-09",
+        "created_at": "2025-10-09 12:59:00",
+        "updated_at": "2025-10-09 12:59:00"
+    },
+    {
+        "id": 195,
+        "title": "Office Cleaning",
+        "category": "Supplies",
+        "amount": 36376,
+        "mode": "Cash",
+        "date": "2025-03-08",
+        "created_at": "2025-03-08 11:18:00",
+        "updated_at": "2025-03-08 11:18:00"
+    },
+    {
+        "id": 196,
+        "title": "Marketing Campaign",
+        "category": "Food & Beverages",
+        "amount": 16892,
+        "mode": "Cash",
+        "date": "2024-12-30",
+        "created_at": "2024-12-30 16:00:00",
+        "updated_at": "2024-12-30 16:00:00"
+    },
+    {
+        "id": 197,
+        "title": "Office Cleaning",
+        "category": "Transport",
+        "amount": 18573,
+        "mode": "Cheque",
+        "date": "2025-04-28",
+        "created_at": "2025-04-28 09:42:00",
+        "updated_at": "2025-04-28 09:42:00"
+    },
+    {
+        "id": 198,
+        "title": "Office Rent",
+        "category": "Insurance",
+        "amount": 1974,
+        "mode": "Cash",
+        "date": "2024-08-04",
+        "created_at": "2024-08-04 17:57:00",
+        "updated_at": "2024-08-04 17:57:00"
+    },
+    {
+        "id": 199,
+        "title": "Insurance Premium",
+        "category": "Marketing",
+        "amount": 39984,
+        "mode": "Cheque",
+        "date": "2026-03-18",
+        "created_at": "2026-03-18 09:31:00",
+        "updated_at": "2026-03-18 09:31:00"
+    },
+    {
+        "id": 200,
+        "title": "Printer Maintenance",
+        "category": "Food & Beverages",
+        "amount": 2912,
+        "mode": "UPI",
+        "date": "2025-10-23",
+        "created_at": "2025-10-23 14:50:00",
+        "updated_at": "2025-10-23 14:50:00"
+    }
+]

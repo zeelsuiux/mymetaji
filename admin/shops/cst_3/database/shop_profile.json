@@ -1,0 +1,20 @@
+{
+    "name": "Mymetaji",
+    "tagline": "GST Billing Solutions",
+    "address": "305, Silver Business Point, Near Athwa Gate, Surat, Gujarat 395001",
+    "phone": "+91 98765 43210",
+    "email": "info.mymetaji@gmail.com",
+    "gstin": "24AABCM1234N1Z5",
+    "bank_name": "HDFC Bank",
+    "bank_acc": "50100012345678",
+    "bank_ifsc": "HDFC0001234",
+    "upi": "zeelskachhadiya@oksbi",
+    "upi_qr": "",
+    "logo": "",
+    "cash_opening_balance": 0,
+    "bank_opening_balance": 0,
+    "state": "Gujarat",
+    "state_code": "24",
+    "seller_state": "",
+    "seller_state_code": ""
+}

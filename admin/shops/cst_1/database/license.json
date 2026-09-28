@@ -1,0 +1,9 @@
+{
+    "customer_id": 1,
+    "customer_name": "Zeels Kachhadiya",
+    "plan_amount": 1,
+    "payment_type": "Trial",
+    "purchase_date": "2026-09-15",
+    "expiry_date": "2026-09-30",
+    "is_trial": true
+}

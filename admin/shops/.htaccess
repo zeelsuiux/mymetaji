@@ -1,0 +1,12 @@
+Options -Indexes
+
+# Deny the data subtree only. The assets subtree is public - it holds the shop
+# logos and stylesheets, and admin/.htaccess rewrites /admin/cst_N/assets/... to
+# shops/cst_N/assets/... . A blanket "Require all denied" here returns 403 for
+# every tenant logo and breaks the panel's own styling, so the deny is scoped to
+# the folder that actually holds JSON.
+<IfModule mod_authz_core.c>
+    <FilesMatch "\.(json|jsonl|db|sqlite|sqlite3|log|ini|bak|sql)$">
+        Require all denied
+    </FilesMatch>
+</IfModule>

@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "invoice_no": "INV-3001",
+        "customer": "Suresh Naik",
+        "amount": 14160,
+        "mode": "Online",
+        "reference": "UTR-24001",
+        "date": "2026-09-21",
+        "created_by": "malaviya test",
+        "created_by_id": "3",
+        "created_at": "2026-09-21 10:30:00",
+        "updated_at": "2026-09-21 10:30:00"
+    },
+    {
+        "id": 2,
+        "invoice_no": "INV-3002",
+        "customer": "Suresh Naik",
+        "amount": 29500,
+        "mode": "Online",
+        "reference": "UTR-24002",
+        "date": "2026-09-18",
+        "created_by": "malaviya test",
+        "created_by_id": "3",
+        "created_at": "2026-09-18 12:00:00",
+        "updated_at": "2026-09-18 12:00:00"
+    },
+    {
+        "id": 3,
+        "invoice_no": "INV-3005",
+        "customer": "Manish Reddy",
+        "amount": 20000,
+        "mode": "UPI",
+        "reference": "UPI-24003",
+        "date": "2026-09-19",
+        "created_by": "malaviya test",
+        "created_by_id": "3",
+        "created_at": "2026-09-19 17:00:00",
+        "updated_at": "2026-09-19 17:00:00"
+    },
+    {
+        "id": 4,
+        "invoice_no": "INV-3006",
+        "customer": "Rajesh Sharma",
+        "amount": 6844,
+        "mode": "Cash",
+        "reference": "CASH-24004",
+        "date": "2026-09-15",
+        "created_by": "malaviya test",
+        "created_by_id": "3",
+        "created_at": "2026-09-15 14:00:00",
+        "updated_at": "2026-09-15 14:00:00"
+    },
+    {
+        "id": 5,
+        "invoice_no": "INV-3009",
+        "customer": "Vikram Singh",
+        "amount": 41300,
+        "mode": "Online",
+        "reference": "NEFT-24005",
+        "date": "2026-09-10",
+        "created_by": "malaviya test",
+        "created_by_id": "3",
+        "created_at": "2026-09-10 16:00:00",
+        "updated_at": "2026-09-10 16:00:00"
+    },
+    {
+        "invoice_no": "INV-2026-001",
+        "customer": "Ravi Patel",
+        "amount": 2000,
+        "mode": "Cash",
+        "reference": "",
+        "date": "2026-09-21",
+        "created_by_id": "1",
+        "created_by": "malaviya test",
+        "id": 6,
+        "created_at": "2026-09-21 14:18:15",
+        "updated_at": "2026-09-21 14:18:15"
+    }
+]

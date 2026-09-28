@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "name": "Suresh Naik",
+        "company": "Tech Solutions Gujarat",
+        "phone": "7867537387",
+        "email": "suresh@techsolutions.in",
+        "address": "Vadodara, Gujarat 390001",
+        "gstin": "24AABCT3456K1Z9",
+        "state": "Gujarat",
+        "created_at": "2026-09-21 10:00:00",
+        "updated_at": "2026-09-21 10:00:00"
+    },
+    {
+        "id": 2,
+        "name": "Ravi Patel",
+        "company": "Alpha Global Trading",
+        "phone": "8890934911",
+        "email": "ravi@alphaglobal.in",
+        "address": "Surat, Gujarat 395001",
+        "gstin": "24AAACA6789L1Z2",
+        "state": "Gujarat",
+        "created_at": "2026-09-21 10:00:00",
+        "updated_at": "2026-09-21 10:00:00"
+    },
+    {
+        "id": 3,
+        "name": "Aarav Shah",
+        "company": "Data Technologies India",
+        "phone": "8472182790",
+        "email": "aarav@datatech.in",
+        "address": "Mumbai, Maharashtra 400001",
+        "gstin": "27AABCD0123M1Z4",
+        "state": "Maharashtra",
+        "created_at": "2026-09-21 10:00:00",
+        "updated_at": "2026-09-21 10:00:00"
+    },
+    {
+        "id": 4,
+        "name": "Manish Reddy",
+        "company": "Nova Solutions",
+        "phone": "7044649363",
+        "email": "manish@novasol.in",
+        "address": "Hyderabad, Telangana 500001",
+        "gstin": "36AABCN4567N1Z6",
+        "state": "Telangana",
+        "created_at": "2026-09-21 10:00:00",
+        "updated_at": "2026-09-21 10:00:00"
+    },
+    {
+        "name": "Rajesh Sharma",
+        "company": "Flux Hub Enterprises",
+        "gstin": "08AABCF8901O1Z8",
+        "phone": "8550127758",
+        "email": "rajesh@fluxhub.in",
+        "state": "Rajasthan",
+        "address": "Jaipur, Rajasthan 302001",
+        "credit_limit": "",
+        "credit_hold": "Yes",
+        "id": 5,
+        "created_at": "2026-09-21 10:00:00",
+        "updated_at": "2026-09-21 12:57:16"
+    }
+]

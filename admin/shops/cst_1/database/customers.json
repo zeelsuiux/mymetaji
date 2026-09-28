@@ -1,0 +1,7 @@
+[
+    {"id":1,"name":"Hitesh Banerjee","company":"Nexus Works Pvt Ltd","phone":"8650210986","email":"hitesh@nexusworks.in","address":"Coimbatore, Tamil Nadu 641001","gstin":"33AABCN1234F1Z5","state":"Tamil Nadu","created_at":"2026-09-21 10:00:00","updated_at":"2026-09-21 10:00:00"},
+    {"id":2,"name":"Mukesh Sinha","company":"Lion Pvt Ltd","phone":"9874577375","email":"mukesh@lionpvt.in","address":"Nashik, Maharashtra 422001","gstin":"27AABCL5678G1Z8","state":"Maharashtra","created_at":"2026-09-21 10:00:00","updated_at":"2026-09-21 10:00:00"},
+    {"id":3,"name":"Ravi Iyer","company":"Cyber Technologies Ltd","phone":"9066542321","email":"ravi@cybertech.in","address":"Kochi, Kerala 682001","gstin":"32AABCC9012H1Z6","state":"Kerala","created_at":"2026-09-21 10:00:00","updated_at":"2026-09-21 10:00:00"},
+    {"id":4,"name":"Vihaan Nair","company":"Prime Works India","phone":"9846308644","email":"vihaan@primeworks.in","address":"Varanasi, Uttar Pradesh 221001","gstin":"09AABCP3456I1Z3","state":"Uttar Pradesh","created_at":"2026-09-21 10:00:00","updated_at":"2026-09-21 10:00:00"},
+    {"id":5,"name":"Anil Gupta","company":"Swift Consulting Pvt Ltd","phone":"7522407882","email":"anil@swiftconsulting.in","address":"Ahmedabad, Gujarat 380001","gstin":"24AABCS7890J1Z1","state":"Gujarat","created_at":"2026-09-21 10:00:00","updated_at":"2026-09-21 10:00:00"}
+]
